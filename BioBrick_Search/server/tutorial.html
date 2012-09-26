@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+	<title>Tutorial - BioBrick Search</title>
+</head>
+<body>
+<style>
+* { margin : 0 ; padding : 0 ; }
+html,body {
+  height: 100%;
+
+}
+body {
+  font-family: 'Myriad Pro', 'Segoe UI', 'Lucida Grande', 'Lucida Sans', Calibri, Verdana, sans-serif;
+  font-size: 16px;
+}
+p {
+  padding-left: 4px;
+  line-height: 22px;
+  padding-bottom: 10px;
+}
+p em {
+    font-weight: bold;
+    font-style: normal;
+}
+
+table {
+    padding: 4px;
+}
+
+table.tbl {
+    width: 930px;
+}
+table.tbl td {
+    vertical-align: top;
+}
+table.tbl tr td.image {
+    width: 600px;
+}
+table.tbl td.image img{
+    width: 600px;
+}
+h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.wrapper {
+  width : 950px;
+    
+}
+#footer {
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+    background-color: #fff;
+    z-index: 10000;
+    width: 100%;
+    
+}
+#footer_inside {
+    width: 90%;
+    padding-top: 4px;
+    margin: 0 auto;
+}
+
+#footer hr {
+    border-width: 1px 0px 0px 0px; /* 太さ */
+    border-style: solid; /* 線種 */
+    border-color: #ddd; /* 線色 */
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px; /* 高さ */
+}
+
+.wrapper {
+padding-bottom: 30px;
+}
+
+#footer a {
+    color: #666;
+    text-decoration: none;
+    margin-right: 40px;
+}
+#footer a:hover {
+    text-decoration: underline;
+}
+
+</style>
+<div class="wrapper">
+<img src="static/img/tutorial/tut.png" alt="BioBrick Search"/>
+<p>At a loss for which GFP BioBrick to use? 
+Tired of user-unfriendly search functionality on partsregistry.org?<br />
+Then our BioBrick Search may be the best solution for you.</p>
+
+<p>Our new parts scoring based on popularity and reliability
+combined with sophisticated user interface
+ensures your speedy and comfortable search experience.</p>
+
+<h2>Searching BioBricks</h2>
+<table class="tbl">
+<tr><td class="image"><img src="static/img/tutorial/top.png" alt="Top" /></td><td>
+<h3>Step 1. Type your query</h3>
+<p>As you open <a href="./" target="_blank">top</a> page of BioBrick search, you will see a search window that resembles a popular search engine.
+Type your query (any text like <em>'gfp'</em>, <em>'mercury'</em> or <em>'cI promoter'</em>) in the search box and press <em>'Enter'</em> key (or press <em>'Search'</em> button below) to perform search.</p>
+
+<p>cf. The search box is already focused when you open the page so you do not need to put focus on the search box manually.</p>
+</td></tr>
+<tr><td class="image"><img src="static/img/tutorial/list.png" alt="List" /></td><td>
+<h3>Step 2. Browse the results</h3>
+<p>Now you see a full list of BioBricks that match your query.</p>
+<p>On the left column, you see the number of hits and the number of hit parts belonging to each BioBrick type (e.g. 'Coding', 'Device', or 'Reporter') or submitted each year.
+You can filter the results by type or year submitted by clicking them.</p>
+<p>On the right column, the list of results is shown. Stars on the top right corner of each BioBrick represents the reliability (Will this BioBrick work?),
+relevance (How relevant is this BioBrick to your query?) and popularity (How many teams have used this BioBrick?). BioBricks are sorted by the combination of these 3 factors.</p>
+</td></tr>
+<tr><td class="image"><img src="static/img/tutorial/list2.png" alt="List 2" /></td><td>
+<h3>Step 3. Find the BioBrick of interest</h3>
+<p>Scroll through the list and find the BioBrick of interest. More results are automatically loaded as you reach the bottom of the list until all of the results are shown.
+You can also navigate through the list by j-k keys. By typing <em>'j'</em> you can go down to the next BioBrick while pressing <em>'k'</em> navigates you to the previous BioBrick. </p>
+<p>When you find a BioBrick of interest, click on the BioBrick to highlight the BioBrick. By clicking on the highlighted BioBrick, you can get detailed information on that BioBrick.
+Here again, you can use keyboard to get to the detail page by pressing <em>'o'</em>.</p>
+</td></tr>
+<tr><td class="image"><img src="static/img/tutorial/detail.png" alt="Detail page" /></td><td>
+<h3>Step 4. Get the details on a specific BioBrick</h3>
+<p>This page shows the detailed information about the BioBrick of your choice.</p>
+<p>You can go back to the list of results by browser's back button or by pressing <em>'b'</em> key.</p>
+</td></tr>
+</table>
+
+<h2>Filtering results</h2>
+<p>Got too many results? You can filter the results by many criteria to reduce the unwanted results.</p>
+<table class="tbl">
+<tr><td class="image"><img src="static/img/tutorial/suggest1.png" alt="Top" /></td><td>
+<h3>Filter using the search box</h3>
+<p>Actually on the search box, you can specify not only 'text' but also other criteria including type of BioBrick, year submitted, and team submitted.</p>
+<p>For example, if you type 't' right next to the your text query on the search box, pop-up suggestion appears that allows you to add a new criterion.
+Select your desired criterion by arrow keys and press 'Enter'.</p>
+<p>List of criteria currently available is shown below:</p>
+<table>
+<thead>
+<tr><th>Filter</th><th>Description</th></tr>
+</thead>
+<tbody>
+<tr><td>Type</td><td>BioBrick type (e.g. 'Coding')</td></tr>
+<tr><td>Year</td><td>Year submitted (e.g. '2011')</td></tr>
+<tr><td>Team name</td><td>Team submitted (e.g. 'MIT')</td></tr>
+<tr><td>ID</td><td>BioBrick ID (e.g. 'BBa_E0240')</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td class="image"><img src="static/img/tutorial/suggest2.png" alt="Top" /></td><td>
+<p>Specify the value for the category you selected. For some categories, completion pop-up appears. After typing in, hit 'Enter' to perform search again.</p>
+<p>Of course, you can add more than 2 criteria in the same manner. Even a complicated query like <a href="./#list?W1sidHlwZSIsIk1lYXN1cmVtZW50Il0sWyJ0ZXh0IiwicHJvbW90ZXIiXSxbInRlYW1fbmFtZSIsIlVULVRva3lvIl0sWyJ5ZWFyIiwiMjAxMSJdXQ">this</a> can be performed!</p>
+<p>Removing filters is as easy as 1-2-3. You can remove them by clicking on the 'x' button on the left of each filter.</p>
+</td></tr>
+<tr><td class="image"><img src="static/img/tutorial/facet.png" alt="Top" /></td><td>
+<h3>Filter using the left column</h3>
+<p>You can also filter results by clicking on a entry on the right column. The number inside parantheses shows the number of BioBricks that match the condition.</p>
+</td></tr>
+</table>
+</div>
+
+<div id="footer">
+<hr>
+<div id="footer_inside">
+<a href="./" target="_blank">BioBrick Search</a> <a href="mailto:info@igem-ut.net">Contact us</a>
+<div style="float: right;">&copy; 2012 UT-Tokyo-Software</div>
+</div>
+</div>
+
+
+</body>

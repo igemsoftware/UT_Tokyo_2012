@@ -1,0 +1,122 @@
+-------------------
+BioBrick Search
+-------------------
+
+
+BioBrick Search is a novel BioBrick search tool with the aim of providing more efficiency and 
+reliability in searching existing BioBrick parts.
+This tool provides a search result page with detailed information and ordering based on 
+popularity and reliability, a much-needed feature that the current search implementation at 
+partsregistry.org and other conventional BioBrick search have not offered. The tool also features 
+a sophisticated web-based interface that everyone can intuitively use on their browsers without 
+installation.
+
+In order to achieve an efficient and reliable search experience, our tool has the following features:
+ - Easy-to-view, informative result list
+ - Search result sorted by combination of 3 factors (reliability, relevance to your query and popularity)
+ - Filters the user can set by various conditions (e.g. year submitted, team name, category)
+ - Can be accessed from anywhere, anytime from a web browser without installation
+
+
+
+***
+Brief description of each file
+***
+
+data_feeder/
+  feeder.py		a python script used to feed BioBrick data to elasticsearch
+  score_calc.py		a python script used to calculate "score" of each BioBrick
+  wikipages.py		a python script used to obtain partsregistry.org wiki pages for each BioBrick
+  parts.json		a JSON file containing data for each BioBrick obtained from partsregistry.org API
+  pages.json		a JSON file containing data for each BioBrick wikipages
+  pageids.json		a JSON file containing the correspondence between BioBrick parts and the wikipages
+  score.json		a JSON file containing the "score" of each BioBrick calculated using "score_calc.py"
+  team.json		a JSON file containing the correspondence between BioBrick parts and the team that submitted them
+
+server/
+  pr.py			a server-side script of this application
+  index.html		a html file to be rendered on the client
+  tutorial.html		a html file containing the tutorial for this app
+  incl_rel.json		a JSON file containing the inclusion relationship between BioBrick parts.
+  static/
+    effects.js		a javascript code to be run on the client
+    [javascript libraries…]
+    img/
+      [images used in the app…]
+
+
+
+
+***
+Usage
+***
+
+BioBrick Search is a web application written in Python.
+In order to run this application locally or deploy this application on your server,
+you need to do the following as a preparation:
+
+
+
+0. Install Python
+
+As BioBrick Search is written in python, you need to install Python 2.7 on your computer.
+On Mac OS X and Linux, python is usually installed by default.
+
+
+
+1. Install and run elasticsearch
+
+BioBrick Search uses elasticsearch as a search engine and thus you need to
+install and run elasticsearch to run BioBrick Search.
+
+Latest version of elasticsearch can be found at
+http://www.elasticsearch.org/download/
+
+Install and launch elasticsearch.
+elasticsearch uses TCP port 9200 to communicate with other softwares.
+
+
+
+2. Populate the BioBrick index
+
+You need to feed BioBrick data to elasticsearch in order to perform search
+using it.
+To do this, just execute:
+
+$ python data_feeder/feeder.py
+
+Note that "feeder.py" depends on the following packages:
+pyes, wikimarkup
+
+Install them using easy_install or pip before running "feeder.py".
+
+
+
+3. Launch the server-side application
+
+Now, you can launch the BioBrick Search server-side script on your computer.
+
+$ python server/pr.py
+
+"pr.py" depends on web.py and pyes and so you need to install them beforehand.
+The http server will run on port 8080.
+
+
+
+4. Test with your browser
+
+Launch your favorite browser and type in the address bar "localhost:8080" and hit enter.
+You will see BioBrick Search running on your computer.
+
+
+
+5. Deploy to your server
+
+You can deploy this application to your own server.
+BioBrick Search is a WSGI web application based on web.py framework.
+
+You can refer to the link below for how to deploy the app:
+http://webpy.org/install
+
+
+

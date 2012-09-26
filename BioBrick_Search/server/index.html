@@ -1,0 +1,778 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html>
+<head>
+	<title>BioBrick Search</title>
+	<meta name="author" content="UT-Tokyo-Software 2012" />
+	<meta name="keywords" content="BioBrick iGEM search find parts partsregistry partsregistry.org" />
+	<meta name="description" content="BioBrick Search is a web application for searching BioBrick parts that everyone can easily use on web browser" />
+	<script src="static/jquery-1.7.2.min.js" type="text/javascript"></script>
+	<script src="static/jquery.reject.min.js" type="text/javascript"></script>
+	<script src="static/jquery.ba-hashchange.min.js" type="text/javascript"></script>
+	<script src="static/jquery.raty.min.js" type="text/javascript"></script>
+	<script src="static/jsrender.js" type="text/javascript"></script>
+	<script src="static/jquery-ui-1.8.22.min.js" type="text/javascript"></script>
+	<script src="static/underscore-min.js" type="text/javascript"></script>
+	<script src="static/backbone-min.js" type="text/javascript"></script>
+	<script src="static/visualsearch.js" type="text/javascript"></script>
+	<script src="static/jquery.base64.js" type="text/javascript"></script>
+	<script src="static/jquery.easing.1.3.js" type="text/javascript"></script>
+	<script src="static/jquery.jBreadCrumb.1.1.js" type="text/javascript"></script>
+	<script src="static/jit.js" type="text/javascript"></script>
+	<script src="static/effects.js" type="text/javascript"></script>
+    <link href="static/visualsearch-datauri.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="static/jquery.reject.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="static/BreadCrumb.css" media="screen" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<style>
+
+/* @group general */
+* { margin : 0 ; padding : 0 ; }
+html,body {
+  width : 100%;
+  height: 100%;
+  font-family: 'Myriad Pro', 'Segoe UI', 'Lucida Grande', 'Lucida Sans', Calibri, Verdana, sans-serif;
+}
+.wrapper {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+/* @end */
+
+/* @group footer */
+#footer {
+    position: fixed;
+    bottom: 0;
+    height: 30px;
+    background-color: #fff;
+    z-index: 10000;
+    width: 100%;
+    
+}
+
+#footer_inside {
+    width: 90%;
+    padding-top: 4px;
+    margin: 0 auto;
+}
+
+#footer hr {
+    border-width: 1px 0px 0px 0px; /* 太さ */
+    border-style: solid; /* 線種 */
+    border-color: #ddd; /* 線色 */
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px; /* 高さ */
+}
+
+#footer a {
+    color: #666;
+    text-decoration: none;
+    margin-right: 40px;
+}
+#footer a:hover {
+    text-decoration: underline;
+}
+/* @end */
+
+.breadCrumb {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+/* @group list */'
+
+.list_wrapper {
+    position : relative ;
+}
+.list_header {
+  width : 100%;
+  height : 100px;
+  position: relative;
+}
+.list_navi {
+  float : left ;
+  width : 180px ;
+  padding-left: 20px;
+}
+.list_contents {
+  margin-left: 200px;
+}
+
+.list_vs_wrapper {
+    position: absolute;
+    top: 30px;
+    left: 200px;
+    width: 750px;
+}
+.logo {
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    width: 170px;
+}
+
+.facet {
+    margin-bottom: 20px;
+}
+.facet ul li {
+    margin-left: 8px;
+    padding: 3px;
+    list-style: none;
+}
+.facet ul li .num_hits {
+    font-size: 13px;
+    color: #222;
+}
+
+.facet ul li a {
+    text-decoration: none;
+    color: #000;
+}
+.facet ul li a:hover {
+    text-decoration: underline;
+}
+
+.part {
+    width: 740px;
+    left: 0;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 4px;
+}
+.part.active {
+    background-color: #f4f7ff;
+    box-shadow: 0px 0px 7px 4px #cdf;
+}
+.part .description {
+    width: 500px;
+}
+.part .description h1 {
+    font-size: 32px;
+}
+.part .description p.submitted {
+    margin-bottom: 12px;
+}
+
+.part .appendix {
+	display: none;
+}
+
+.part h2 {
+    font-size: 22px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.part .highlights p {
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+.part .highlights p em {
+    font-weight: bold;
+    font-style: normal;
+}
+.part .stars {
+    position: absolute;
+    top: 4px;
+    left: 570px;
+    width: 170px;
+}
+
+.tooltip_data {
+	display: none;
+}
+
+.part .stars .star {
+    position: relative;
+    margin-bottom: 4px;
+    font-size: 16px;
+    vertical-align: middle;
+}
+.part .stars .star .raty {
+    position: absolute;
+    left: 82px;
+    top: -1px;
+    font-size: 10px; /* space between stars */
+}
+/* @end */
+
+/* @group top */
+
+#top_wrapper {
+    display: none;
+}
+
+#top_center {
+    margin-top: 160px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    text-align: center;
+}
+
+#top_buttons {
+    margin-top: 10px;
+}
+#top_buttons #search_btn {
+    margin-right: 10px;
+}
+
+/* @end */
+
+/* @group detail */
+.detail_wrapper h1, .detail_wrapper h2, .detail_wrapper h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+}
+.seq p{
+    margin-left: 20px;
+    font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+    font-size: 13px;
+    width: 880px;
+}
+.detail_wrapper table.annos {
+    border-collapse: collapse;
+    margin: 20px;
+}
+.detail_wrapper table.annos td {
+    padding: 6px 8px;
+  border-bottom: 1px solid #aaa;
+}
+.detail_wrapper table.annos th {
+  padding: 6px 8px;
+  text-align: left;
+  border-bottom: 3px solid #ddd;
+}
+.detail_wrapper table.annos tr:hover td {
+  background-color: #def;
+}
+.seq .active_seq {
+    color: #000;
+    text-transform: uppercase;
+    background-color: #def;
+}
+.detail_wrapper a:link, .detail_wrapper a:visited {
+    text-decoration: none;
+    color: #444;
+}
+.detail_wrapper a:hover {
+    background-color: #def;
+    text-decoration: underline;
+}
+.detail_wrapper table.basic_infos th, .detail_wrapper table.basic_infos td {
+    padding: 3px 8px;
+}
+.detail_wrapper table.basic_infos th {
+    text-align: right;
+    vertical-align: top;
+    width: 150px;
+    padding-right: 7px;
+}
+.detail_wrapper table.basic_infos li {
+    list-style: none;
+}
+.infovis {
+    position:relative;
+    width:800px;
+    height:400px;
+    margin: 0;
+    overflow:hidden;
+}
+
+.part_status.available {
+    background-color: #cfc;
+}
+.part_status.planning {
+    background-color: #ffc;
+}
+.part_status.deleted, .part_status.missing, .part_status.unavailable {
+    background-color: #fcc;
+}
+
+.part_results.works {
+    background-color: #cfc;
+}
+.part_results.none {
+    background-color: #ffc;
+}
+.part_results.issues, .part_results.fails {
+    background-color: #fcc;
+}
+
+.best_quality.confirmed {
+    background-color: #cfc;
+}
+.best_quality.partially_confirmed {
+    background-color: #cfc;    
+}
+.best_quality.long_part, .best_quality.none {
+    background-color: #ffc;
+}
+.best_quality.questionable, .best_quality.bad_sequencing {
+    background-color: #fcc;    
+}
+
+/* @end */
+
+/* @group feedback form */
+#feedback_form_dialog {
+    display: none;
+}
+
+.ui-dialog { position: absolute; padding: .2em; width: 300px; overflow: hidden; }
+.ui-dialog .ui-dialog-titlebar { padding: .4em 1em; position: relative;  }
+.ui-dialog .ui-dialog-title { float: left; margin: .1em 16px .1em 0; } 
+.ui-dialog .ui-dialog-titlebar-close { position: absolute; right: .3em; top: 50%; width: 19px; margin: -10px 0 0 0; padding: 1px; height: 18px; }
+.ui-dialog .ui-dialog-titlebar-close span { display: block; margin: 1px; }
+.ui-dialog .ui-dialog-titlebar-close:hover, .ui-dialog .ui-dialog-titlebar-close:focus { padding: 0; }
+.ui-dialog .ui-dialog-content { position: relative; border: 0; padding: .5em 1em; background: none; overflow: auto; zoom: 1; }
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset { float: right; }
+.ui-dialog .ui-dialog-buttonpane button { margin: .5em .4em .5em 0; cursor: pointer; }
+.ui-dialog .ui-resizable-se { width: 14px; height: 14px; right: 3px; bottom: 3px; }
+.ui-draggable .ui-dialog-titlebar { cursor: move; }
+.ui-menu {
+font-size: 10px;
+        list-style:none;
+        padding: 2px;
+        margin: 0;
+        display:block;
+        background-color: #fff;
+        width: 100px;
+        box-shadow: 0px 3px 5px #444;
+}
+.ui-menu .ui-menu {
+        margin-top: -3px;
+}
+.ui-menu .ui-menu-item {
+        margin:0;
+        padding: 0;
+        width: 100%;
+}
+.ui-menu .ui-menu-item a {
+        text-decoration:none;
+        display:block;
+        padding:.2em .4em;
+        line-height:1.5;
+        zoom:1;
+}
+.ui-menu .ui-menu-item a.ui-state-hover,
+.ui-menu .ui-menu-item a.ui-state-active {
+        margin: -1px;
+        background-color: #adf;
+}
+
+.ui-dialog {
+    background-color: #fff;
+    box-shadow: 0px 0px 20px 10px #777;
+    font-size: 14px;
+}
+.ui-dialog-titlebar-close {
+    display: none;
+}
+.ui-dialog-titlebar {
+display: none;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#feedback_form_dialog .textinput {
+    width: 100%;
+}
+#feedback_form_dialog textarea {
+   height: 40px;
+}
+#feedback_form_dialog td {
+    padding-bottom: 5px;
+    vertical-align: top;
+}
+
+/* @end */
+
+</style>
+
+<script id="breadcrumbs_template" type="text/x-jsrender">
+<div class="breadCrumb module">
+<ul>
+{{for sessions}}
+  <li><a href="#{{>state}}?{{>hash_data}}">{{>title}}</a></li>
+{{/for}}
+</ul>
+</div>
+</script>
+
+<script id="list_template" type="text/x-jsrender">
+
+<div class="list_wrapper wrapper" id="list_{{>hash}}">
+<div class="list_header">
+  <a href="#top"><img class="logo" src="static/img/logo.png" /></a>
+  <div class="list_vs_wrapper"><div class="visual_search"></div></div>
+</div>
+<div class="list_main">
+<div class="list_navi">
+</div>
+<div class="list_contents">
+</div>
+</div>
+</div>
+</script>
+
+<script id="facet_template" type="text/x-jsrender">
+<p>{{>total}} hit{{if total > 0}}s{{/if}}</p><br />
+{{for ~getFields(facets)}}
+  <div class="facet" id="facet_{{>key}}">
+  <h2>{{>~format(key, 'upper')}}</h2>
+  <ul>
+  {{for value.terms}}
+    <li><a href="#"><span class="facet_term">{{>term}}</span> <span class="num_hits">({{>count}})</span></a></li>
+  {{/for}}
+  </ul>
+  </div>
+{{/for}}
+</script>
+
+<script id="part_template" type="text/x-jsrender">
+<div class="part" id="{{>part_name}}_entry">
+  <div class="description">
+    <p class="type">{{>part_type}}</p>
+    <h1>{{>part_name}}</h1>
+    <p class="submitted">{{>submitted_by.team_name}} ({{>submitted_by.year}})</p>
+  </div>
+  <h2>{{:part_short_desc}}</h2>
+  <div class="highlights">
+  {{if highlight}}
+      {{for highlight}}
+        <p>...{{:content}}...</p>
+      {{/for}}
+  {{/if}}
+  </div>
+  <div class="stars">
+    <div class="star">Reliability:<div class="raty" id="{{>part_name}}_reli_star_raty"></div><span class="tooltip_data">Status: {{>part_status}}, Results: {{>part_results}}, Quality: {{>best_quality}}</span></div>
+    <div class="star">Relevance:<div class="raty" id="{{>part_name}}_rele_star_raty"></div><span class="tooltip_data">Score: {{>score}} point</span></div>
+    <div class="star">Popularity:<div class="raty" id="{{>part_name}}_pop_star_raty"></div><span class="tooltip_data">Popularity: {{>num_teams_used}} teams used this part</span></div>
+  </div>
+  <div class="appendix">
+    {{for ~getFields(page_titles)}}
+      <a href="http://partsregistry.org/{{>value}}">{{>value}}</a><br />
+    {{/for}}
+  </div>
+</div>
+</script>
+
+<script id="detail_template" type="text/x-jsrender">
+
+<div class="detail_wrapper wrapper" id="detail_{{>part_name}}">
+<h1>{{>part_name}}</h1>
+<h2>Basic Information</h2>
+<table class="basic_infos">
+<colgroup class="tbl_head" />
+<colgroup class="tbl_content" />
+<tbody>
+<tr><th>Name</th><td>{{>part_name}}</td></tr>
+<tr><th>Type</th><td>{{>part_type}}</td></tr>
+<tr><th>Description</th><td>{{:part_short_desc}}</td></tr>
+<tr><th>Length</th><td>{{>seq_data.length}} bp</td></tr>
+<tr><th>Popularity</th><td>{{>num_teams_used}} team{{if num_teams_used > 1}}s{{/if}} used this part</td></tr>
+<tr><th>Submitted by</th><td>{{>submitted_by.team_name}} ({{>submitted_by.year}})</td></tr>
+<tr><th>Status</th><td class="part_status {{>~format(part_status, 'underscore')}}">{{>part_status}}</td></tr>
+<tr><th>Result</th><td class="part_results {{>~format((part_results ? part_results : 'none'), 'underscore')}}">{{if part_results}}{{>part_results}}{{else}}None{{/if}}</td></tr>
+<tr><th>Quality</th><td class="best_quality {{>~format(best_quality, 'underscore')}}">{{>best_quality}}</td></tr>
+<tr><th>Registered on</th><td>{{>part_entered}}</td></tr>
+<tr><th>Partsregistry pages</th><td>
+<ul>
+{{for pages}}
+  <li><a href="http://partsregistry.org/wiki/index.php?title={{>title}}" target="_blank">{{>title}}</a></li>
+{{/for}}
+</ul>
+</td></tr>
+</tbody>
+</table>
+<h2>Sequence</h2>
+<div class="seq">
+<p>{{:~seq_formatter(seq_data, indices)}}</p>
+{{if features.length > 0}}
+<h3>Annotations</h3>
+<table class="annos">
+<thead>
+<tr>
+<th scope="col">Type</th><th scope="col">Name</th><th scope="col">Direction</th><th scope="col">Start</th><th scope="col">End</th>
+</tr>
+</thead>
+<tdata>
+{{for features}}
+  <tr class="feature" id="feat_{{>id}}">
+  <td>{{>type}}</td><td>{{if type == 'BioBrick'}}<a href="#detail?{{>title}}">{{>title}}</a>{{else}}{{>title}}{{/if}}</td><td>{{>direction}}</td><td>{{>startpos}}</td><td>{{>endpos}}</td>
+  </tr>
+{{/for}}
+</tdata>
+</table>
+{{/if}}
+</div>
+<h2>Related parts</h2>
+<h3>Parts phylogenetic tree</h3>
+<div class="infovis" id="infovis_{{>part_name}}"></div>
+</div>
+</script>
+
+<div class="wrapper" id="top_wrapper">
+<div id="top_header">
+</div>
+<div id="top_center">
+  <img src="static/img/logo.png">
+  <div class="vs_wrapper">
+  <div id="top_visual_search"></div>
+  </div>
+  <div id="top_buttons">
+    <input type="button" name="search" id="search_btn" value="Search" />
+    <input type="button" name="lucky" id="lucky_btn" value="I'm feeling lucky" />
+  </div>
+</div>
+</div>
+<div id="footer">
+<hr>
+<div id="footer_inside">
+<a href="tutorial" target="_blank">Tutorial</a> <a href="javascript:void(0);" id="feedback_link">Send Feedback</a> <a href="mailto:info@igem-ut.net">Contact us</a>
+<div style="float: right;">&copy; 2012 UT-Tokyo-Software</div>
+</div>
+</div>
+
+<div id="feedback_form_dialog">
+<form id="feedback_form">
+<table>
+<tr>
+<td><label for="you_are">You are:</label></td>
+<td><select name="you_are" id="you_are">
+  <option>iGEM Participant (2012)</option>
+  <option>iGEM Alumni</option>
+  <option>Other</option>
+</select></td></tr>
+<tr><td><label for="team">Team:</label></td><td><select name="team" id="team">
+  <option>Alberta</option>
+  <option>Alberta-North-RBI</option>
+  <option>Amsterdam</option>
+  <option>Arizona_State</option>
+  <option>Austin_Texas</option>
+  <option>Baskent-Meds</option>
+  <option>BAU-Indonesia</option>
+  <option>Berkeley</option>
+  <option>Bielefeld-Germany</option>
+  <option>Bonn</option>
+  <option>Bordeaux</option>
+  <option>BostonU</option>
+  <option>British_Columbia</option>
+  <option>Buenos_Aires</option>
+  <option>BYUProvo</option>
+  <option>Calgary</option>
+  <option>Caltech</option>
+  <option>Cambridge</option>
+  <option>Carnegie_Mellon</option>
+  <option>CBNU-Korea</option>
+  <option>CD-SCU-CHINA</option>
+  <option>Chalmers-Gothenburg</option>
+  <option>Ciencias-UNAM</option>
+  <option>CINVESTAV-IPN-UNAM_MX</option>
+  <option>Clemson</option>
+  <option>CMU-Shenyang</option>
+  <option>Colombia</option>
+  <option>Colorado_State</option>
+  <option>Columbia-Cooper-NYC</option>
+  <option>Copenhagen</option>
+  <option>Cornell</option>
+  <option>Costa_Rica-TEC-UNA</option>
+  <option>CU-Boulder</option>
+  <option>Duke</option>
+  <option>Dundee</option>
+  <option>Edinburgh</option>
+  <option>Ehime-Japan</option>
+  <option>EPF-Lausanne</option>
+  <option>ETH_Zurich</option>
+  <option>Evry</option>
+  <option>Example</option>
+  <option>Exeter</option>
+  <option>Fatih-Medical</option>
+  <option>Frankfurt</option>
+  <option>Freiburg</option>
+  <option>Fudan_D</option>
+  <option>Fudan_Lux</option>
+  <option>Gaston_Day_School</option>
+  <option>Georgia_Tech</option>
+  <option>GeorgiaState</option>
+  <option>Goettingen</option>
+  <option>Grenoble</option>
+  <option>Groningen</option>
+  <option>Harvey Mudd</option>
+  <option>Haut-Lac</option>
+  <option>HIT-Harbin</option>
+  <option>HKU_HongKong</option>
+  <option>HKUST-Hong_Kong</option>
+  <option>HokkaidoU_Japan</option>
+  <option>Hong_Kong-CUHK</option>
+  <option>HUST-China</option>
+  <option>IIT_Madras</option>
+  <option>IvyTech-South_Bend</option>
+  <option>Johns_Hopkins-Software</option>
+  <option>Johns_Hopkins-Wetware</option>
+  <option>JUIT-India</option>
+  <option>KABK_ArtScience</option>
+  <option>KAIST_Korea</option>
+  <option>KAIT_Japan</option>
+  <option>KIT-Kyoto</option>
+  <option>Korea_U_Seoul</option>
+  <option>Kyoto</option>
+  <option>Leicester</option>
+  <option>Lethbridge</option>
+  <option>Lleida-Spain</option>
+  <option>LMU-Munich</option>
+  <option>Lyon-INSA</option>
+  <option>Macquarie_Australia</option>
+  <option>Manitoba</option>
+  <option>Marburg_SYNMIKRO</option>
+  <option>McMaster-Ontario</option>
+  <option>METU</option>
+  <option>Michigan</option>
+  <option>Minnesota</option>
+  <option>Missouri_Miners</option>
+  <option>MIT</option>
+  <option>MUMBAI__INDIA</option>
+  <option>Nanjing-China</option>
+  <option>Nanjing_China_Bio</option>
+  <option>NCTU_Formosa</option>
+  <option>Nevada</option>
+  <option>Northeastern</option>
+  <option>Northwestern</option>
+  <option>NOUVEAUPARADIGMESCIENTIFIQUE</option>
+  <option>NRP-UEA-Norwich</option>
+  <option>NTHU_BioEE</option>
+  <option>NTNU_Trondheim</option>
+  <option>NTU-Taida</option>
+  <option>NYC_Hunter</option>
+  <option>NYC_Hunter_Software</option>
+  <option>NYMU-Taipei</option>
+  <option>NYU_Gallatin</option>
+  <option>Osaka</option>
+  <option>OUC-China</option>
+  <option>Panama_INDICASAT</option>
+  <option>Paris-Saclay</option>
+  <option>Paris_Bettencourt</option>
+  <option>Peking</option>
+  <option>Penn</option>
+  <option>Penn_State</option>
+  <option>Potsdam_Bioware</option>
+  <option>Purdue</option>
+  <option>Queens_Canada</option>
+  <option>Reed</option>
+  <option>RHIT</option>
+  <option>Rutgers</option>
+  <option>Saitama</option>
+  <option>SDU-Denmark</option>
+  <option>SEU_A</option>
+  <option>SEU_O_China</option>
+  <option>Shenzhen</option>
+  <option>SJTU-BioX-Shanghai</option>
+  <option>Slovenia</option>
+  <option>SogangU-Korea</option>
+  <option>St_Andrews</option>
+  <option>Stanford-Brown</option>
+  <option>SUSTC-Shenzhen-A</option>
+  <option>SUSTC-Shenzhen-B</option>
+  <option>SYSU-China</option>
+  <option>SYSU-Software</option>
+  <option>Tec-Monterrey</option>
+  <option>Tec-Monterrey_Bio</option>
+  <option>Tec-Monterrey_EKAM</option>
+  <option>Technion</option>
+  <option>Tianjin</option>
+  <option>TMU-Tokyo</option>
+  <option>Tokyo-NoKoGen</option>
+  <option>Tokyo_Tech</option>
+  <option>Toronto</option>
+  <option>Trieste</option>
+  <option>Tsinghua</option>
+  <option>Tsinghua-A</option>
+  <option>Tsinghua-D</option>
+  <option>TU-Delft</option>
+  <option>TU-Eindhoven</option>
+  <option>TU_Darmstadt</option>
+  <option>TU_Munich</option>
+  <option>Tuebingen</option>
+  <option>UANL_Mty-Mexico</option>
+  <option>UC-Merced</option>
+  <option>UC_Chile</option>
+  <option>UC_Davis</option>
+  <option>UConn</option>
+  <option>UCSF</option>
+  <option>UGA-Georgia</option>
+  <option>UIUC-Illinois</option>
+  <option>ULatinaPTY</option>
+  <option>ULB-Brussels</option>
+  <option>UMiami</option>
+  <option>UNAM_Genomics_Mexico</option>
+  <option>UNITN-Trento</option>
+  <option>University_CoUniversitdon</option>
+  <option>uOttawa_CA</option>
+  <option>UPIBI-Mexico</option>
+  <option>Uppsala_University</option>
+  <option>USC</option>
+  <option>USP-UNESP-Brazil</option>
+  <option>USTC-China</option>
+  <option>USTC-Software</option>
+  <option>UT-Tokyo</option>
+  <option>UT-Tokyo-Software</option>
+  <option>UT_Dallas</option>
+  <option>Utah_State</option>
+  <option>UTBC-RDCongo</option>
+  <option>UTK-Knoxville</option>
+  <option>UTP-Software</option>
+  <option>Valencia</option>
+  <option>Valencia_Biocampus</option>
+  <option>Virginia</option>
+  <option>VIT_Vellore</option>
+  <option>Wageningen_UR</option>
+  <option>Warsaw</option>
+  <option>Washington</option>
+  <option>WashU</option>
+  <option>Waterloo</option>
+  <option>Wellesley_HCI</option>
+  <option>West_Point</option>
+  <option>Westminster</option>
+  <option>WHU-China</option>
+  <option>Wisconsin-Madison</option>
+  <option>WLC-Milwaukee</option>
+  <option>XMU-China</option>
+  <option>Yale</option>
+  <option>ZJU-China</option>
+</select>
+</td></tr>
+<tr><td><label for="name">Name: (optional)</label></input><td><input type="text" class="textinput" name="name" id="name"></td></tr>
+<tr><td><label for="email">Email: (optional)</label></td><td><input type="text" class="textinput" name="email" id="email"></td></tr>
+<tr><td><label for="reasons">What was your main reason for using this tool?</label></td><td>
+<input type="checkbox" name="reasons" value="finding"> Finding appropriate BioBrick parts<br />
+<input type="checkbox" name="reasons" value="getting"> Getting detailed information about a specific BioBrick part<br />
+<input type="checkbox" name="reasons" value="other" id="reasons_other"> Other<br />
+<input type="text" class="textinput" name="reasons_other_text" id="reasons_other_text" value="" disabled="disabled"/>
+</td></tr>
+<tr><td><label for="useful">Did you find this tool useful?</label></td><td>
+<input type="radio" name="useful" value="very" /> Very useful<br />
+<input type="radio" name="useful" value="fairy" /> Fairly useful<br />
+<input type="radio" name="useful" value="not" /> Not at all useful<br /></td></tr>
+<tr><td><label for="help_team">Did this tool help your team in dealing with BioBrick parts?</label></td><td>
+<input type="radio" name="help_team" value="yes" /> Yes &nbsp;&nbsp;
+<input type="radio" name="help_team" value="no" /> No</td></tr>
+<tr><td><label for="help_team_how">If yes, please specify how this tool help your team:</label></td><td>
+<textarea name="help_team_how" id="help_team_how" class="textinput"></textarea></td></tr>
+<tr><td><label for="help_team_why_fail">If not, why this tool could not help your team?</label></td><td><textarea class="textinput" name="help_team_why_fail" id="help_team_why_fail"></textarea></td></tr>
+<tr><td><label for="suggestion">Do you have any suggestions to make this tool better?</label></td><td><textarea class="textinput" name="suggestion" id="suggestion"></textarea></td>
+</table>
+<p id="res">Thank you for taking the time to tell us about your experience with our tool!</p>
+</form>
+</div>
+
+
+</body>
+</html>
