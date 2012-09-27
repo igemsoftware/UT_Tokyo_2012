@@ -1,0 +1,34 @@
+#LoadModule rewrite_module modules/mod_rewrite.so
+#LoadModule fcgid_module modules/mod_fcgid.so
+
+SocketPath /tmp/fcgidsock
+SharememPath /tmp/fcgid_shm
+
+Alias /bbsearch/static /var/www/bbsearch/static
+WSGIScriptAlias /bbsearch /var/www/bbsearch/pr.py
+
+
+#Alias / "/var/www/bbsearch/"
+<Directory "/var/www/bbsearch/">
+    allow from all
+    SetHandler fcgid-script    
+#    Options +ExecCGI
+    AllowOverride None
+    <IfModule mod_rewrite.c>      
+       RewriteEngine on
+       RewriteBase /bbsearch
+       RewriteRule /tutorial$ /bbsearch/static/tutorial.html
+#       RewriteCond %{REQUEST_URI} !^/bbsearch/static
+#       RewriteCond %{REQUEST_URI} !^/bbsearch/favicon.ico$
+#       RewriteCond %{REQUEST_URI} !^(/.*)+pr.py/
+#       RewriteRule ^(.*)$ /bbsearch/pr.py/$1 [PT]
+    </IfModule>
+</Directory>
+
+<Directory "/var/www/bbsearch/static">
+      allow from all
+      AllowOverride None
+      Options -ExecCGI
+      SetHandler None
+</Directory>
+

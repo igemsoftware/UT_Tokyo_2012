@@ -1,0 +1,34 @@
+#LoadModule rewrite_module modules/mod_rewrite.so
+#LoadModule fcgid_module modules/mod_fcgid.so
+
+SocketPath /tmp/fcgidsock
+SharememPath /tmp/fcgid_shm
+
+Alias /ppsearch/static /var/www/ppsearch/static
+WSGIScriptAlias /ppsearch /var/www/ppsearch/pr.py
+
+
+#Alias / "/var/www/ppsearch/"
+<Directory "/var/www/ppsearch/">
+    allow from all
+    SetHandler fcgid-script    
+#    Options +ExecCGI
+    AllowOverride None
+    <IfModule mod_rewrite.c>      
+       RewriteEngine on
+       RewriteBase /ppsearch
+#       RewriteRule /tutorial$ /ppsearch/static/tutorial.html
+#       RewriteCond %{REQUEST_URI} !^/ppsearch/static
+#       RewriteCond %{REQUEST_URI} !^/ppsearch/favicon.ico$
+#       RewriteCond %{REQUEST_URI} !^(/.*)+pr.py/
+#       RewriteRule ^(.*)$ /ppsearch/pr.py/$1 [PT]
+    </IfModule>
+</Directory>
+
+<Directory "/var/www/ppsearch/static">
+      allow from all
+      AllowOverride None
+      Options -ExecCGI
+      SetHandler None
+</Directory>
+

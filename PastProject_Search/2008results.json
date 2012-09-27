@@ -1,0 +1,907 @@
+{
+ "Beijing_Normal": {
+  "team_name": "Beijing_Normal",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Beijing_Normal",
+  "presentation_link": "http://2008.igem.org/files/presentation/Beijing_Normal.pdf",
+  "video_link": "http://2008.igem.org/files/video/Beijing_Normal.mp4",
+  "poster_link": ""
+ },
+ "Chiba": {
+  "team_name": "Chiba",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Chiba",
+  "presentation_link": "http://2008.igem.org/files/presentation/Chiba.pdf",
+  "video_link": "http://2008.igem.org/files/video/Chiba.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Chiba.pdf"
+ },
+ "CPU-NanJing": {
+  "team_name": "CPU-NanJing",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:CPU-NanJing",
+  "presentation_link": "http://2008.igem.org/files/presentation/CPU-NanJing.pdf",
+  "video_link": "http://2008.igem.org/files/video/CPU-NanJing.avi",
+  "poster_link": "http://2008.igem.org/files/poster/CPU-NanJing.pdf"
+ },
+ "HKUSTers": {
+  "team_name": "HKUSTers",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:HKUSTers",
+  "presentation_link": "http://2008.igem.org/files/presentation/HKUSTers.pdf",
+  "video_link": "http://2008.igem.org/files/video/HKUSTers.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/HKUSTers.pdf"
+ },
+ "iHKU": {
+  "team_name": "iHKU",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:iHKU",
+  "presentation_link": "http://2008.igem.org/files/presentation/iHKU.pdf",
+  "video_link": "http://2008.igem.org/files/video/iHKU.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/iHKU.pdf"
+ },
+ "IIT_Madras": {
+  "team_name": "IIT_Madras",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [
+   "Best Foundational Advance",
+   "Best New BioBrick Part or Device, Engineered"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:IIT_Madras",
+  "presentation_link": "http://2008.igem.org/files/presentation/IIT_Madras.pdf",
+  "video_link": "http://2008.igem.org/files/video/IIT_Madras.mov",
+  "poster_link": "http://2008.igem.org/files/poster/IIT_Madras.pdf"
+ },
+ "Kyoto": {
+  "team_name": "Kyoto",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Kyoto",
+  "presentation_link": "http://2008.igem.org/files/presentation/Kyoto.pdf",
+  "video_link": "http://2008.igem.org/files/video/Kyoto.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Kyoto.pdf"
+ },
+ "Melbourne": {
+  "team_name": "Melbourne",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Melbourne",
+  "presentation_link": "http://2008.igem.org/files/presentation/Melbourne.pdf",
+  "video_link": "http://2008.igem.org/files/video/Melbourne.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Melbourne.pdf"
+ },
+ "NTU-Singapore": {
+  "team_name": "NTU-Singapore",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:NTU-Singapore",
+  "presentation_link": "http://2008.igem.org/files/presentation/NTU-Singapore.pdf",
+  "video_link": "http://2008.igem.org/files/video/NTU-Singapore.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/NTU-Singapore.pdf"
+ },
+ "NYMU-Taipei": {
+  "team_name": "NYMU-Taipei",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [
+   "Finalist"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:NYMU-Taipei",
+  "presentation_link": "http://2008.igem.org/files/presentation/NYMU-Taipei.pdf",
+  "video_link": "http://2008.igem.org/files/video/NYMU-Taipei.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/NYMU-Taipei.pdf"
+ },
+ "Peking_University": {
+  "team_name": "Peking_University",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Peking_University",
+  "presentation_link": "http://2008.igem.org/files/presentation/Peking_University.pdf",
+  "video_link": "http://2008.igem.org/files/video/Peking_University.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Peking_University.pdf"
+ },
+ "Tianjin": {
+  "team_name": "Tianjin",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Tianjin",
+  "presentation_link": "http://2008.igem.org/files/presentation/Tianjin.pdf",
+  "video_link": "http://2008.igem.org/files/video/Tianjin.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Tianjin.pdf"
+ },
+ "Tokyo_Tech": {
+  "team_name": "Tokyo_Tech",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Tokyo_Tech",
+  "presentation_link": "http://2008.igem.org/files/presentation/Tokyo_Tech.pdf",
+  "video_link": "http://2008.igem.org/files/video/Tokyo_Tech.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Tokyo_Tech.pdf"
+ },
+ "Tsinghua": {
+  "team_name": "Tsinghua",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Tsinghua",
+  "presentation_link": "http://2008.igem.org/files/presentation/Tsinghua.pdf",
+  "video_link": "http://2008.igem.org/files/video/Tsinghua.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Tsinghua.pdf"
+ },
+ "USTC": {
+  "team_name": "USTC",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:USTC",
+  "presentation_link": "http://2008.igem.org/files/presentation/USTC.pdf",
+  "video_link": "http://2008.igem.org/files/video/USTC.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/USTC.pdf"
+ },
+ "WEGO_Taipei": {
+  "team_name": "WEGO_Taipei",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:WEGO_Taipei"
+ },
+ "Alberta_NINT": {
+  "team_name": "Alberta_NINT",
+  "region": "Canada",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Alberta_NINT",
+  "presentation_link": "http://2008.igem.org/files/presentation/Alberta_NINT.pdf",
+  "video_link": "http://2008.igem.org/files/video/Alberta_NINT.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Alberta_NINT.pdf"
+ },
+ "Calgary_Ethics": {
+  "team_name": "Calgary_Ethics",
+  "region": "Canada",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Calgary_Ethics",
+  "presentation_link": "http://2008.igem.org/files/presentation/Calgary_Ethics.pdf",
+  "video_link": "http://2008.igem.org/files/video/Calgary_Ethics.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Calgary_Ethics.jpg"
+ },
+ "Calgary_Software": {
+  "team_name": "Calgary_Software",
+  "region": "Canada",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Calgary_Software",
+  "presentation_link": "http://2008.igem.org/files/presentation/Calgary_Software.pdf",
+  "video_link": "http://2008.igem.org/files/video/Calgary_Software.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Calgary_Software.pdf"
+ },
+ "Calgary_Wetware": {
+  "team_name": "Calgary_Wetware",
+  "region": "Canada",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Calgary_Wetware",
+  "presentation_link": "http://2008.igem.org/files/presentation/Calgary_Wetware.pdf",
+  "video_link": "http://2008.igem.org/files/video/Calgary_Wetware.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Calgary_Wetware.pdf"
+ },
+ "Guelph": {
+  "team_name": "Guelph",
+  "region": "Canada",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Guelph",
+  "presentation_link": "http://2008.igem.org/files/presentation/Guelph.pdf",
+  "video_link": "http://2008.igem.org/files/video/Guelph.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Guelph.pdf"
+ },
+ "Lethbridge_CCS": {
+  "team_name": "Lethbridge_CCS",
+  "region": "Canada",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Lethbridge_CCS",
+  "presentation_link": "http://2008.igem.org/files/presentation/Lethbridge_CCS.pdf",
+  "video_link": "http://2008.igem.org/files/video/Lethbridge_CCS.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Lethbridge_CCS.pdf"
+ },
+ "Montreal": {
+  "team_name": "Montreal",
+  "region": "Canada",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Montreal"
+ },
+ "Toronto_Bluegenes": {
+  "team_name": "Toronto_Bluegenes",
+  "region": "Canada",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Toronto_Bluegenes"
+ },
+ "University_of_Alberta": {
+  "team_name": "University_of_Alberta",
+  "region": "Canada",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:University_of_Alberta",
+  "presentation_link": "http://2008.igem.org/files/presentation/University_of_Alberta.pdf",
+  "video_link": "http://2008.igem.org/files/video/University_of_Alberta.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/University_of_Alberta.pdf"
+ },
+ "University_of_Lethbridge": {
+  "team_name": "University_of_Lethbridge",
+  "region": "Canada",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:University_of_Lethbridge",
+  "presentation_link": "http://2008.igem.org/files/presentation/University_of_Lethbridge.pdf",
+  "video_link": "http://2008.igem.org/files/video/University_of_Lethbridge.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/University_of_Lethbridge.pdf"
+ },
+ "University_of_Ottawa": {
+  "team_name": "University_of_Ottawa",
+  "region": "Canada",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:University_of_Ottawa",
+  "presentation_link": "http://2008.igem.org/files/presentation/University_of_Ottawa.pdf",
+  "video_link": "http://2008.igem.org/files/video/University_of_Ottawa.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/University_of_Ottawa.pdf"
+ },
+ "Waterloo": {
+  "team_name": "Waterloo",
+  "region": "Canada",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Waterloo",
+  "presentation_link": "http://2008.igem.org/files/presentation/Waterloo.pdf",
+  "video_link": "http://2008.igem.org/files/video/Waterloo.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Waterloo.pdf"
+ },
+ "BCCS-Bristol": {
+  "team_name": "BCCS-Bristol",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [
+   "Best Model"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:BCCS-Bristol",
+  "presentation_link": "http://2008.igem.org/files/presentation/BCCS-Bristol.pdf",
+  "video_link": "http://2008.igem.org/files/video/BCCS-Bristol.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/BCCS-Bristol.pdf"
+ },
+ "Bologna": {
+  "team_name": "Bologna",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [
+   "Best Experimental Measurement"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Bologna",
+  "presentation_link": "http://2008.igem.org/files/presentation/Bologna.pdf",
+  "video_link": "http://2008.igem.org/files/video/Bologna.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Bologna.pdf"
+ },
+ "Cambridge": {
+  "team_name": "Cambridge",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Cambridge",
+  "presentation_link": "http://2008.igem.org/files/presentation/Cambridge.pdf",
+  "video_link": "http://2008.igem.org/files/video/Cambridge.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Cambridge.pdf"
+ },
+ "Edinburgh": {
+  "team_name": "Edinburgh",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Edinburgh",
+  "presentation_link": "http://2008.igem.org/files/presentation/Edinburgh.pdf",
+  "video_link": "http://2008.igem.org/files/video/Edinburgh.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Edinburgh.pdf"
+ },
+ "EPF-Lausanne": {
+  "team_name": "EPF-Lausanne",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:EPF-Lausanne",
+  "presentation_link": "http://2008.igem.org/files/presentation/EPF-Lausanne.pdf",
+  "video_link": "http://2008.igem.org/files/video/EPF-Lausanne.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/EPF-Lausanne.pdf"
+ },
+ "ESBS-Strasbourg": {
+  "team_name": "ESBS-Strasbourg",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:ESBS-Strasbourg",
+  "presentation_link": "http://2008.igem.org/files/presentation/ESBS-Strasbourg.pdf",
+  "video_link": "http://2008.igem.org/files/video/ESBS-Strasbourg.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/ESBS-Strasbourg.pdf"
+ },
+ "ETH_Zurich": {
+  "team_name": "ETH_Zurich",
+  "region": "Europe",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:ETH_Zurich",
+  "presentation_link": "http://2008.igem.org/files/presentation/ETH_Zurich.pdf",
+  "video_link": "http://2008.igem.org/files/video/ETH_Zurich.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/ETH_Zurich.pdf"
+ },
+ "Freiburg": {
+  "team_name": "Freiburg",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Finalist",
+   "1st Runner Up, Winner of the PoPS Prize"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Freiburg",
+  "presentation_link": "http://2008.igem.org/files/presentation/Freiburg.pdf",
+  "video_link": "http://2008.igem.org/files/video/Freiburg.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Freiburg.pdf"
+ },
+ "Groningen": {
+  "team_name": "Groningen",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Groningen",
+  "presentation_link": "http://2008.igem.org/files/presentation/Groningen.pdf",
+  "video_link": "http://2008.igem.org/files/video/Groningen.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Groningen.pdf"
+ },
+ "Heidelberg": {
+  "team_name": "Heidelberg",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Best Human Practices Advance",
+   "Best Poster",
+   "Best Presentation "
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Heidelberg",
+  "presentation_link": "http://2008.igem.org/files/presentation/Heidelberg.pdf",
+  "video_link": "http://2008.igem.org/files/video/Heidelberg.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Heidelberg.pdf"
+ },
+ "Imperial_College": {
+  "team_name": "Imperial_College",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Best Manufacturing Project",
+   "Best New BioBrick Part, Natural"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Imperial_College",
+  "presentation_link": "http://2008.igem.org/files/presentation/Imperial_College.pdf",
+  "video_link": "http://2008.igem.org/files/video/Imperial_College.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Imperial_College.pdf"
+ },
+ "Istanbul": {
+  "team_name": "Istanbul",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Istanbul"
+ },
+ "KULeuven": {
+  "team_name": "KULeuven",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:KULeuven",
+  "presentation_link": "http://2008.igem.org/files/presentation/KULeuven.pdf",
+  "video_link": "http://2008.igem.org/files/video/KULeuven.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/KULeuven.pdf"
+ },
+ "LED": {
+  "team_name": "LED",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:LED"
+ },
+ "METU_Turkey": {
+  "team_name": "METU_Turkey",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:METU_Turkey",
+  "presentation_link": "http://2008.igem.org/files/presentation/METU_Turkey.pdf",
+  "video_link": "http://2008.igem.org/files/video/METU_Turkey.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/METU_Turkey.pdf"
+ },
+ "Newcastle_University": {
+  "team_name": "Newcastle_University",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Newcastle_University",
+  "presentation_link": "http://2008.igem.org/files/presentation/Newcastle_University.pdf",
+  "video_link": "http://2008.igem.org/files/video/Newcastle_University.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Newcastle_University.pdf"
+ },
+ "Paris": {
+  "team_name": "Paris",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Paris",
+  "presentation_link": "http://2008.igem.org/files/presentation/Paris.pdf",
+  "video_link": "http://2008.igem.org/files/video/Paris.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Paris.pdf"
+ },
+ "Slovenia": {
+  "team_name": "Slovenia",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Finalist",
+   "Best Health or Medicine Project",
+   "Grand Prize, Winner of the BioBrick Trophy"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Slovenia",
+  "presentation_link": "http://2008.igem.org/files/presentation/Slovenia.pdf",
+  "video_link": "http://2008.igem.org/files/video/Slovenia.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Slovenia.pdf"
+ },
+ "Sofia_BG": {
+  "team_name": "Sofia_BG",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Sofia_BG"
+ },
+ "TUDelft": {
+  "team_name": "TUDelft",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Best Wiki"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:TUDelft",
+  "presentation_link": "http://2008.igem.org/files/presentation/TUDelft.pdf",
+  "video_link": "http://2008.igem.org/files/video/TUDelft.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/TUDelft.pdf"
+ },
+ "TU_Munchen": {
+  "team_name": "TU_Munchen",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:TU_Munchen"
+ },
+ "UNIPV-Pavia": {
+  "team_name": "UNIPV-Pavia",
+  "region": "Europe",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:UNIPV-Pavia",
+  "presentation_link": "http://2008.igem.org/files/presentation/UNIPV-Pavia.pdf",
+  "video_link": "http://2008.igem.org/files/video/UNIPV-Pavia.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/UNIPV-Pavia.pdf"
+ },
+ "University_of_Sheffield": {
+  "team_name": "University_of_Sheffield",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:University_of_Sheffield",
+  "presentation_link": "http://2008.igem.org/files/presentation/University_of_Sheffield.pdf",
+  "video_link": "http://2008.igem.org/files/video/University_of_Sheffield.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/University_of_Sheffield.pdf"
+ },
+ "Valencia": {
+  "team_name": "Valencia",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Valencia",
+  "presentation_link": "http://2008.igem.org/files/presentation/Valencia.pdf",
+  "video_link": "http://2008.igem.org/files/video/Valencia.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Valencia.pdf"
+ },
+ "Warsaw": {
+  "team_name": "Warsaw",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Warsaw",
+  "presentation_link": "http://2008.igem.org/files/presentation/Warsaw.pdf",
+  "video_link": "http://2008.igem.org/files/video/Warsaw.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Warsaw.pdf"
+ },
+ "Colombia": {
+  "team_name": "Colombia",
+  "region": "Latin America",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Colombia",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ },
+ "LCG-UNAM-Mexico": {
+  "team_name": "LCG-UNAM-Mexico",
+  "region": "Latin America",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:LCG-UNAM-Mexico",
+  "presentation_link": "http://2008.igem.org/files/presentation/LCG-UNAM-Mexico.pdf",
+  "video_link": "http://2008.igem.org/files/video/LCG-UNAM-Mexico.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/LCG-UNAM-Mexico.pdf"
+ },
+ "Mexico-UNAM-IPN": {
+  "team_name": "Mexico-UNAM-IPN",
+  "region": "Latin America",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Mexico-UNAM-IPN",
+  "presentation_link": "http://2008.igem.org/files/presentation/Mexico-UNAM-IPN.pdf",
+  "video_link": "http://2008.igem.org/files/video/Mexico-UNAM-IPN.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Mexico-UNAM-IPN.pdf"
+ },
+ "Peru": {
+  "team_name": "Peru",
+  "region": "Latin America",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Peru"
+ },
+ "Bay_Area_RSI": {
+  "team_name": "Bay_Area_RSI",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Bay_Area_RSI",
+  "presentation_link": "http://2008.igem.org/files/presentation/Bay_Area_RSI.pdf",
+  "video_link": "http://2008.igem.org/files/video/Bay_Area_RSI.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Bay_Area_RSI.pdf"
+ },
+ "Brown": {
+  "team_name": "Brown",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [
+   "Best Environment Project"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Brown",
+  "presentation_link": "http://2008.igem.org/files/presentation/Brown.pdf",
+  "video_link": "http://2008.igem.org/files/video/Brown.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Brown.pdf"
+ },
+ "BrownTwo": {
+  "team_name": "BrownTwo",
+  "region": "US",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:BrownTwo",
+  "presentation_link": "http://2008.igem.org/files/presentation/BrownTwo.pdf",
+  "video_link": "http://2008.igem.org/files/video/BrownTwo.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/BrownTwo.pdf"
+ },
+ "Caltech": {
+  "team_name": "Caltech",
+  "region": "US",
+  "medal": "Gold",
+  "award": [
+   "Finalist",
+   "2nd Runner Up, Winner of the Synthetic Standard "
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Caltech",
+  "presentation_link": "http://2008.igem.org/files/presentation/Caltech.pdf",
+  "video_link": "http://2008.igem.org/files/video/Caltech.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Caltech.pdf"
+ },
+ "Davidson-Missouri_Western": {
+  "team_name": "Davidson-Missouri_Western",
+  "region": "US",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Davidson-Missouri_Western",
+  "presentation_link": "",
+  "video_link": "http://2008.igem.org/files/video/Davidson-Missouri_Western.mp4",
+  "poster_link": ""
+ },
+ "Duke": {
+  "team_name": "Duke",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Duke",
+  "presentation_link": "http://2008.igem.org/files/presentation/Duke.pdf",
+  "video_link": "http://2008.igem.org/files/video/Duke.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Duke.pdf"
+ },
+ "Gaston_Day_School": {
+  "team_name": "Gaston_Day_School",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Gaston Day School"
+ },
+ "Harvard": {
+  "team_name": "Harvard",
+  "region": "US",
+  "medal": "Gold",
+  "award": [
+   "Finalist",
+   "Best Food or Energy Project"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Harvard",
+  "presentation_link": "http://2008.igem.org/files/presentation/Harvard.pdf",
+  "video_link": "http://2008.igem.org/files/video/Harvard.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Harvard.pdf"
+ },
+ "Hawaii": {
+  "team_name": "Hawaii",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [
+   "Best Rookie Team"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Hawaii",
+  "presentation_link": "http://2008.igem.org/files/presentation/Hawaii.pdf",
+  "video_link": "http://2008.igem.org/files/video/Hawaii.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Hawaii.pdf"
+ },
+ "Illinois": {
+  "team_name": "Illinois",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Illinois",
+  "presentation_link": "http://2008.igem.org/files/presentation/Illinois.pdf",
+  "video_link": "http://2008.igem.org/files/video/Illinois.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Illinois.pdf"
+ },
+ "Johns_Hopkins": {
+  "team_name": "Johns_Hopkins",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Johns_Hopkins",
+  "presentation_link": "http://2008.igem.org/files/presentation/Johns_Hopkins.pdf",
+  "video_link": "http://2008.igem.org/files/video/Johns_Hopkins.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Johns_Hopkins.pdf"
+ },
+ "Michigan": {
+  "team_name": "Michigan",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Michigan",
+  "presentation_link": "http://2008.igem.org/files/presentation/Michigan.pdf",
+  "video_link": "http://2008.igem.org/files/video/Michigan.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Michigan.pdf"
+ },
+ "Minnesota": {
+  "team_name": "Minnesota",
+  "region": "US",
+  "medal": "Silver",
+  "award": [
+   "Best New BioBrick Part, Natural, Runner Up"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Minnesota",
+  "presentation_link": "http://2008.igem.org/files/presentation/Minnesota.pdf",
+  "video_link": "http://2008.igem.org/files/video/Minnesota.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Minnesota.pdf"
+ },
+ "Mississippi_State": {
+  "team_name": "Mississippi_State",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Mississippi_State",
+  "presentation_link": "http://2008.igem.org/files/presentation/Mississippi_State.pdf",
+  "video_link": "http://2008.igem.org/files/video/Mississippi_State.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Mississippi_State.pdf"
+ },
+ "Missouri_Miners": {
+  "team_name": "Missouri_Miners",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Missouri_Miners",
+  "presentation_link": "http://2008.igem.org/files/presentation/Missouri_Miners.pdf",
+  "video_link": "http://2008.igem.org/files/video/Missouri_Miners.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Missouri_Miners.pdf"
+ },
+ "MIT": {
+  "team_name": "MIT",
+  "region": "US",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:MIT",
+  "presentation_link": "http://2008.igem.org/files/presentation/MIT.pdf",
+  "video_link": "http://2008.igem.org/files/video/MIT.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/MIT.pdf"
+ },
+ "PennState": {
+  "team_name": "PennState",
+  "region": "US",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:PennState",
+  "presentation_link": "http://2008.igem.org/files/presentation/PennState.pdf",
+  "video_link": "http://2008.igem.org/files/video/PennState.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/PennState.pdf"
+ },
+ "Polytech": {
+  "team_name": "Polytech",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Polytech"
+ },
+ "Prairie_View": {
+  "team_name": "Prairie_View",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Prairie_View",
+  "presentation_link": "http://2008.igem.org/files/presentation/Prairie_View.pdf",
+  "video_link": "http://2008.igem.org/files/video/Prairie_View.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Prairie_View.pdf"
+ },
+ "Princeton": {
+  "team_name": "Princeton",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Princeton",
+  "presentation_link": "http://2008.igem.org/files/presentation/Princeton.pdf",
+  "video_link": "http://2008.igem.org/files/video/Princeton.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Princeton.pdf"
+ },
+ "Purdue": {
+  "team_name": "Purdue",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Purdue",
+  "presentation_link": "http://2008.igem.org/files/presentation/Purdue.pdf",
+  "video_link": "http://2008.igem.org/files/video/Purdue.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Purdue.pdf"
+ },
+ "Rensselaer": {
+  "team_name": "Rensselaer",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Rensselaer"
+ },
+ "Rice_University": {
+  "team_name": "Rice_University",
+  "region": "US",
+  "medal": "Gold",
+  "award": [
+   "Best Presentation, Runner Up"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:Rice_University",
+  "presentation_link": "http://2008.igem.org/files/presentation/Rice_University.pdf",
+  "video_link": "http://2008.igem.org/files/video/Rice_University.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Rice_University.pdf"
+ },
+ "UCSF": {
+  "team_name": "UCSF",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [
+   "Best New Application Area",
+   "Best Poster, Runner Up\""
+  ],
+  "wiki_link": "http://2008.igem.org/Team:UCSF",
+  "presentation_link": "http://2008.igem.org/files/presentation/UCSF.pdf",
+  "video_link": "http://2008.igem.org/files/video/UCSF.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/UCSF.pdf"
+ },
+ "UC_Berkeley": {
+  "team_name": "UC_Berkeley",
+  "region": "US",
+  "medal": "Gold",
+  "award": [
+   "Finalist"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:UC_Berkeley",
+  "presentation_link": "http://2008.igem.org/files/presentation/UC_Berkeley.pdf",
+  "video_link": "http://2008.igem.org/files/video/UC_Berkeley.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/UC_Berkeley.pdf"
+ },
+ "UC_Berkeley_Tools": {
+  "team_name": "UC_Berkeley_Tools",
+  "region": "US",
+  "medal": "Gold",
+  "award": [
+   "Best Software Tool "
+  ],
+  "wiki_link": "http://2008.igem.org/Team:UC_Berkeley_Tools",
+  "presentation_link": "http://2008.igem.org/files/presentation/UC_Berkeley_Tools.pdf",
+  "video_link": "http://2008.igem.org/files/video/UC_Berkeley_Tools.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/UC_Berkeley_Tools.pdf"
+ },
+ "University_of_Chicago": {
+  "team_name": "University_of_Chicago",
+  "region": "US",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:University_of_Chicago",
+  "presentation_link": "http://2008.igem.org/files/presentation/University_of_Chicago.pdf",
+  "video_link": "http://2008.igem.org/files/video/University_of_Chicago.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/University_of_Chicago.pdf"
+ },
+ "University_of_Washington": {
+  "team_name": "University_of_Washington",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [
+   "Best Presentation, Runner Up"
+  ],
+  "wiki_link": "http://2008.igem.org/Team:University_of_Washington",
+  "presentation_link": "http://2008.igem.org/files/presentation/University_of_Washington.pdf",
+  "video_link": "http://2008.igem.org/files/video/University_of_Washington.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/University_of_Washington.pdf"
+ },
+ "Utah_State": {
+  "team_name": "Utah_State",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Utah_State",
+  "presentation_link": "http://2008.igem.org/files/presentation/Utah_State.pdf",
+  "video_link": "http://2008.igem.org/files/video/Utah_State.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Utah_State.pdf"
+ },
+ "Virginia": {
+  "team_name": "Virginia",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Virginia",
+  "presentation_link": "http://2008.igem.org/files/presentation/Virginia.pdf",
+  "video_link": "http://2008.igem.org/files/video/Virginia.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Virginia.pdf"
+ },
+ "Wisconsin": {
+  "team_name": "Wisconsin",
+  "region": "US",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Wisconsin",
+  "presentation_link": "http://2008.igem.org/files/presentation/Wisconsin.pdf",
+  "video_link": "http://2008.igem.org/files/video/Wisconsin.mp4",
+  "poster_link": "http://2008.igem.org/files/poster/Wisconsin.pdf"
+ },
+ "Example": {
+  "team_name": "Example",
+  "region": "Other Regions",
+  "medal": "Results",
+  "award": [],
+  "wiki_link": "http://2008.igem.org/Team:Example",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ }
+}

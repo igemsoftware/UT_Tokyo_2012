@@ -1,0 +1,358 @@
+{
+ "Beijing_Normal": {
+  "team_name": "Beijing_Normal",
+  "id": "78"
+ },
+ "Chiba": {
+  "team_name": "Chiba",
+  "id": "84"
+ },
+ "CPU-NanJing": {
+  "team_name": "CPU-NanJing",
+  "id": "88"
+ },
+ "HKUSTers": {
+  "team_name": "HKUSTers",
+  "id": "113"
+ },
+ "iHKU": {
+  "team_name": "iHKU",
+  "id": "94"
+ },
+ "IIT_Madras": {
+  "team_name": "IIT_Madras",
+  "id": "86"
+ },
+ "Kyoto": {
+  "team_name": "Kyoto",
+  "id": "127"
+ },
+ "Melbourne": {
+  "team_name": "Melbourne",
+  "id": "85"
+ },
+ "NTU-Singapore": {
+  "team_name": "NTU-Singapore",
+  "id": "117"
+ },
+ "NYMU-Taipei": {
+  "team_name": "NYMU-Taipei",
+  "id": "116"
+ },
+ "Peking_University": {
+  "team_name": "Peking_University",
+  "id": "120"
+ },
+ "Tianjin": {
+  "team_name": "Tianjin",
+  "id": "132"
+ },
+ "Tokyo_Tech": {
+  "team_name": "Tokyo_Tech",
+  "id": "121"
+ },
+ "Tsinghua": {
+  "team_name": "Tsinghua",
+  "id": "108"
+ },
+ "USTC": {
+  "team_name": "USTC",
+  "id": "82"
+ },
+ "WEGO_Taipei": {
+  "team_name": "WEGO_Taipei",
+  "id": "114"
+ },
+ "Alberta_NINT": {
+  "team_name": "Alberta_NINT",
+  "id": "102"
+ },
+ "Calgary_Ethics": {
+  "team_name": "Calgary_Ethics",
+  "id": "107"
+ },
+ "Calgary_Software": {
+  "team_name": "Calgary_Software",
+  "id": "148"
+ },
+ "Calgary_Wetware": {
+  "team_name": "Calgary_Wetware",
+  "id": "131"
+ },
+ "Guelph": {
+  "team_name": "Guelph",
+  "id": "152"
+ },
+ "Lethbridge_CCS": {
+  "team_name": "Lethbridge_CCS",
+  "id": "155"
+ },
+ "Montreal": {
+  "team_name": "Montreal",
+  "id": "139"
+ },
+ "Toronto_Bluegenes": {
+  "team_name": "Toronto_Bluegenes",
+  "id": "161"
+ },
+ "University_of_Alberta": {
+  "team_name": "University_of_Alberta",
+  "id": "123"
+ },
+ "University_of_Lethbridge": {
+  "team_name": "University_of_Lethbridge",
+  "id": "147"
+ },
+ "University_of_Ottawa": {
+  "team_name": "University_of_Ottawa",
+  "id": "149"
+ },
+ "Waterloo": {
+  "team_name": "Waterloo",
+  "id": "93"
+ },
+ "BCCS-Bristol": {
+  "team_name": "BCCS-Bristol",
+  "id": "135"
+ },
+ "Bologna": {
+  "team_name": "Bologna",
+  "id": "79"
+ },
+ "Cambridge": {
+  "team_name": "Cambridge",
+  "id": "90"
+ },
+ "Edinburgh": {
+  "team_name": "Edinburgh",
+  "id": "118"
+ },
+ "EPF-Lausanne": {
+  "team_name": "EPF-Lausanne",
+  "id": "92"
+ },
+ "ESBS-Strasbourg": {
+  "team_name": "ESBS-Strasbourg",
+  "id": "105"
+ },
+ "ETH_Zurich": {
+  "team_name": "ETH_Zurich",
+  "id": "142"
+ },
+ "Freiburg": {
+  "team_name": "Freiburg",
+  "id": "157"
+ },
+ "Groningen": {
+  "team_name": "Groningen",
+  "id": "77"
+ },
+ "Heidelberg": {
+  "team_name": "Heidelberg",
+  "id": "150"
+ },
+ "Imperial_College": {
+  "team_name": "Imperial_College",
+  "id": "143"
+ },
+ "Istanbul": {
+  "team_name": "Istanbul",
+  "id": "83"
+ },
+ "KULeuven": {
+  "team_name": "KULeuven",
+  "id": "145"
+ },
+ "LED": {
+  "team_name": "LED",
+  "id": "164"
+ },
+ "METU_Turkey": {
+  "team_name": "METU_Turkey",
+  "id": "129"
+ },
+ "Newcastle_University": {
+  "team_name": "Newcastle_University",
+  "id": "104"
+ },
+ "Paris": {
+  "team_name": "Paris",
+  "id": "136"
+ },
+ "Slovenia": {
+  "team_name": "Slovenia",
+  "id": "133"
+ },
+ "Sofia_BG": {
+  "team_name": "Sofia_BG",
+  "id": "162"
+ },
+ "TUDelft": {
+  "team_name": "TUDelft",
+  "id": "115"
+ },
+ "TU_Munchen": {
+  "team_name": "TU_Munchen",
+  "id": "151"
+ },
+ "UNIPV-Pavia": {
+  "team_name": "UNIPV-Pavia",
+  "id": "81"
+ },
+ "University_of_Sheffield": {
+  "team_name": "University_of_Sheffield",
+  "id": "153"
+ },
+ "Valencia": {
+  "team_name": "Valencia",
+  "id": "141"
+ },
+ "Warsaw": {
+  "team_name": "Warsaw",
+  "id": "103"
+ },
+ "Colombia": {
+  "team_name": "Colombia",
+  "id": "159"
+ },
+ "LCG-UNAM-Mexico": {
+  "team_name": "LCG-UNAM-Mexico",
+  "id": "119"
+ },
+ "Mexico-UNAM-IPN": {
+  "team_name": "Mexico-UNAM-IPN",
+  "id": "134"
+ },
+ "Peru": {
+  "team_name": "Peru",
+  "id": "87"
+ },
+ "Bay_Area_RSI": {
+  "team_name": "Bay_Area_RSI",
+  "id": "80"
+ },
+ "Brown": {
+  "team_name": "Brown",
+  "id": "124"
+ },
+ "BrownTwo": {
+  "team_name": "BrownTwo",
+  "id": "165"
+ },
+ "Caltech": {
+  "team_name": "Caltech",
+  "id": "137"
+ },
+ "Davidson-Missouri_Western": {
+  "team_name": "Davidson-Missouri_Western",
+  "id": "91"
+ },
+ "Duke": {
+  "team_name": "Duke",
+  "id": "158"
+ },
+ "Gaston_Day_School": {
+  "team_name": "Gaston_Day_School",
+  "id": "169"
+ },
+ "Harvard": {
+  "team_name": "Harvard",
+  "id": "98"
+ },
+ "Hawaii": {
+  "team_name": "Hawaii",
+  "id": "125"
+ },
+ "Illinois": {
+  "team_name": "Illinois",
+  "id": "126"
+ },
+ "Johns_Hopkins": {
+  "team_name": "Johns_Hopkins",
+  "id": "110"
+ },
+ "Michigan": {
+  "team_name": "Michigan",
+  "id": "138"
+ },
+ "Minnesota": {
+  "team_name": "Minnesota",
+  "id": "101"
+ },
+ "Mississippi_State": {
+  "team_name": "Mississippi_State",
+  "id": "144"
+ },
+ "Missouri_Miners": {
+  "team_name": "Missouri_Miners",
+  "id": "146"
+ },
+ "MIT": {
+  "team_name": "MIT",
+  "id": "128"
+ },
+ "PennState": {
+  "team_name": "PennState",
+  "id": "100"
+ },
+ "Polytech": {
+  "team_name": "Polytech",
+  "id": "97"
+ },
+ "Prairie_View": {
+  "team_name": "Prairie_View",
+  "id": "160"
+ },
+ "Princeton": {
+  "team_name": "Princeton",
+  "id": "76"
+ },
+ "Purdue": {
+  "team_name": "Purdue",
+  "id": "154"
+ },
+ "Rensselaer": {
+  "team_name": "Rensselaer",
+  "id": "96"
+ },
+ "Rice_University": {
+  "team_name": "Rice_University",
+  "id": "122"
+ },
+ "UCSF": {
+  "team_name": "UCSF",
+  "id": "106"
+ },
+ "UC_Berkeley": {
+  "team_name": "UC_Berkeley",
+  "id": "112"
+ },
+ "UC_Berkeley_Tools": {
+  "team_name": "UC_Berkeley_Tools",
+  "id": "111"
+ },
+ "University_of_Chicago": {
+  "team_name": "University_of_Chicago",
+  "id": "163"
+ },
+ "University_of_Washington": {
+  "team_name": "University_of_Washington",
+  "id": "109"
+ },
+ "Utah_State": {
+  "team_name": "Utah_State",
+  "id": "89"
+ },
+ "Virginia": {
+  "team_name": "Virginia",
+  "id": "156"
+ },
+ "Wisconsin": {
+  "team_name": "Wisconsin",
+  "id": "130"
+ },
+ "Example": {
+  "team_name": "Example",
+  "id": "75"
+ }
+}

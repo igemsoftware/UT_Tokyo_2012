@@ -1,0 +1,714 @@
+{
+    "NTU-Singapore": {
+        "school": "Nanyang Technological University School of Chemical and Biomedical Engineering Singapore www.ntu.edu.sg", 
+        "description": "Comprised 7 undergraduates", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "117"
+    }, 
+    "Peking_University": {
+        "school": "Peking University Beijing, P.R.China http://en.pku.edu.cn/", 
+        "description": "Our team is composed mainly of Peking University undergraduates from several departments, College of Life Sciences, College of Chemistry & Molecular Engineering, and Department of Physics, etc.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "120"
+    }, 
+    "UC_Berkeley": {
+        "school": "University of California, Berkeley Berkeley, CA, USA berkeley.edu", 
+        "description": "University of California Wetlab Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "112"
+    }, 
+    "Paris": {
+        "school": "Center For Research and Interdisciplinarity (CRI) (Paris Descartes University) Paris, FRANCE www.cri-paris.org", 
+        "description": "Paris, FRANCE iGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "136"
+    }, 
+    "Bologna": {
+        "school": "University of Bologna  II Faculty of Engineering - Cesena Campus Cesena, FC, Italy www.eng.unibo.it", 
+        "description": "University of Bologna IGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "79"
+    }, 
+    "Minnesota": {
+        "school": "University of Minnesota-Twin Cities Minneapolis, MN  55455 USA www.umn.edu", 
+        "description": "University of Minnesota-Twin Cities joint team between the College of Biological Sciences and the Institute of Technology.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "101"
+    }, 
+    "Illinois": {
+        "school": "University of Illinois at Urbana-Champaign", 
+        "description": "University of Illinois at Urbana-Champaign IGEM Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "126"
+    }, 
+    "Prairie_View": {
+        "school": "Prairie View A&M; University Prairie View, TX 77446", 
+        "description": "Prairie View A&M; University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "160"
+    }, 
+    "EPF-Lausanne": {
+        "school": "Ecole Polytechnique Federale de Lausanne (EPFL) (Swiss Federal Institute of Technology - Lausanne) Lausanne, Vaud, CH www.epfl.ch", 
+        "description": "The most creative Bachelor, Master, and PhD engineering students in the world aiming to....", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "92"
+    }, 
+    "Mexico-UNAM-IPN": {
+        "school": "UNAM &ndash; UNIVERSIDAD NACIONAL AUTONOMA DE  M\u00c9XICO (National University of Mexico) Mexico City www.unam.mx IPN &ndash;  INSTITUTO POLIT\u00c9CNICO NACIONAL (National Polytechnic Institute) Mexico City www.ipn.mx", 
+        "description": "iGEM - Mexico (UNAM-IPN)", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "134"
+    }, 
+    "MIT": {
+        "school": "Massachusetts Institute of Technology", 
+        "description": "Massachusetts Institute of Technology IGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "128"
+    }, 
+    "Brown": {
+        "school": "Brown University,  Providence, Rhode Island, USA", 
+        "description": "Brown University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "124"
+    }, 
+    "University_of_Chicago": {
+        "school": "The University of Chicago, Chicago IL, USA  www.uchicago.edu", 
+        "description": "Monsters of the Midway", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "163"
+    }, 
+    "TUDelft": {
+        "school": "Delft University of Technology (TUDelft) Delft, The Netherlands www.tudelft.nl", 
+        "description": "An enthusiastic group of students in Life Science & Technology, Bio-Informatics, Mechanical Engineering and Biomedical Engineering", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "115"
+    }, 
+    "Slovenia": {
+        "school": "University of Ljubljana Ljubljana, Slovenia http://www.uni-lj.si/en/  National Institute of Chemistry Ljubljana, Slovenia http://www.ki.si", 
+        "description": "Slovenia_2008", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "133"
+    }, 
+    "CPU-NanJing": {
+        "school": "China Pharmaceutical University NanJing, JiangSu, CHINA www.cpu.edu.cn", 
+        "description": "China Pharmaceutical University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "88"
+    }, 
+    "Waterloo": {
+        "school": "University of Waterloo", 
+        "description": "University of Waterloo", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "93"
+    }, 
+    "Toronto_Bluegenes": {
+        "school": "University of Toronto Toronto, ON Canada www.utoronto.ca", 
+        "description": "engineering and life science students from Toronto", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "161"
+    }, 
+    "UNIPV-Pavia": {
+        "school": "Universita' degli Studi di Pavia Dipartimento di Informatica e Sistemistica Centro di Ingegneria Tissutale Pavia", 
+        "description": "Universita' degli Studi di Pavia", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "81"
+    }, 
+    "Calgary_Wetware": {
+        "school": "Calgary, Alberta, Canada", 
+        "description": "Calgary, Bachelor of Health Science", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "131"
+    }, 
+    "University_of_Washington": {
+        "school": "University of Washington, Seattle, WA  www.washington.edu", 
+        "description": "Biochemists, Bioengineers, Electrical Engineers, Computer Scientists, Microbiologists Unite!", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "109"
+    }, 
+    "Example": {
+        "school": "iGEM Headquarters", 
+        "description": "", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "75"
+    }, 
+    "Guelph": {
+        "school": "University  of Guelph", 
+        "description": "We are aggies, biologists, engineers and extension workers that will strive from year to year to prove the concept that synthetic biology (as an important part of biotechnology) can change lives and improve life in our communities and around the world.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "152"
+    }, 
+    "Harvard": {
+        "school": "Harvard University, Cambridge, MA  www.harvard.edu", 
+        "description": "Harvard University iGEM Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "98"
+    }, 
+    "HKUSTers": {
+        "school": "Hong Kong University of Science & Technology Clear Water Bay, Kowloon Hong Kong www.ust.hk/eng/index.htm", 
+        "description": "A group of Science and Engineering undergraduate students from HKUST inspired to make an impact in the iGEM competition", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "113"
+    }, 
+    "Johns_Hopkins": {
+        "school": "Krieger School of Arts & Sciences Whiting School of Engineering Bloomberg School of Public Health School of Medicine", 
+        "description": "The JHU team is interested in building toy systems in yeast and other organisms.  There is also a yeast genome synthesis project underway. Finally, there is a subgroup interested in space applications.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "110"
+    }, 
+    "Lethbridge_CCS": {
+        "school": "Calvin Christian School Monarch, AB, Canada  University of Lethbridge Lethbridge, AB, Canada www.uleth.ca", 
+        "description": "High school team from Lethbridge, AB -- Calvin Christian School", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "155"
+    }, 
+    "Calgary_Software": {
+        "school": "University of Calgary", 
+        "description": "University of Calgary, Department of Computer Science, Faculty of Science and Schulich School of Engineering, Department of Electrical and Computer Engineering and Department of Chemical & Petroleum Engineering", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "148"
+    }, 
+    "Peru": {
+        "school": "PUCP, UPCH, UNALM, UNMSM Lima Peru", 
+        "description": "The iGEM Peruvian Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "87"
+    }, 
+    "Edinburgh": {
+        "school": "University of Edinburgh Edinburgh, UK www.ed.ac.uk", 
+        "description": "University of Edinburgh", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "118"
+    }, 
+    "Wisconsin": {
+        "school": "University of Wisconsin-Madison Madison, WI, USA www.wisc.edu", 
+        "description": "University of Wisconsin-Madison iGEM Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "130"
+    }, 
+    "Michigan": {
+        "school": "University of Michigan Ann Arbor, MI, USA umich.edu", 
+        "description": "University of Michigan iGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "138"
+    }, 
+    "TU_Munchen": {
+        "school": "Technische Universit\u00e4t M\u00fcnchen (TUM), Garching, Germany, www.tum.de", 
+        "description": "A team composed of physics and biochemistry undergraduate students.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "151"
+    }, 
+    "University_of_Alberta": {
+        "school": "University of Alberta Edmonton, Alberta, Canada www.ualberta.ca", 
+        "description": "Undergraduate iGEM team 2008", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "123"
+    }, 
+    "Tsinghua": {
+        "school": "Tsinghua University, Beijing, China www.tsinghua.edu.cn", 
+        "description": "iGEM 2008 group of Tsinghua University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "108"
+    }, 
+    "IIT_Madras": {
+        "school": "Indian Institute of Technology Madras, Chennai, India www.iitm.ac.in", 
+        "description": "The IITM iGEM 2008 team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "86"
+    }, 
+    "Beijing_Normal": {
+        "school": "School of Environment Beijing Normal University Beijing, China www.bnu.edu.cn", 
+        "description": "We are organizing an iGEM team mainly constituted of students from Being Normal University. The main supporting and organizing faculty will be the School of Environment of BNU.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "78"
+    }, 
+    "Cambridge": {
+        "school": "University of Cambridge Cambridge, UK www.synbio.org.uk www.cam.ac.uk", 
+        "description": "University of Cambridge iGEM team 2008", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "90"
+    }, 
+    "Newcastle_University": {
+        "school": "Newcastle University, Newcastle upon Tyne, Tyne and Wear, UK, http://www.ncl.ac.uk", 
+        "description": "iGEM team from Newcastle University, United Kingdom", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "104"
+    }, 
+    "Virginia": {
+        "school": "University of Virginia Charlottesville, VA, USA virginia.edu", 
+        "description": "The University of Virginia's team is named the Virginia Genetically Engineered Machine (VGEM) Team, which focuses on applying synthetic biology to fundamental and applied metabolic engineering problems.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "156"
+    }, 
+    "UCSF": {
+        "school": "University of California, San Francisco, CA, USA (www.ucsf.edu) Peking University, Beijing, China (http://en.pku.edu.cn/) University of Ljubljana, Ljubljana, Slovenia (http://www.uni-lj.si/en/) Abraham Lincoln High School, San Francisco, CA, USA (http://www.lincolnhigh.net/)", 
+        "description": "Our team will be composed of 6 high school students, 3 undergraduate students and will be led by graduate students, postdocs and faculty from UCSF.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "106"
+    }, 
+    "Calgary_Ethics": {
+        "school": "University Of Calgary, Calgary, Alberta, www.ucalgary.ca", 
+        "description": "This team will be a dry lab and investigate the social, ethical, legal,....issues attached to synbio", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "107"
+    }, 
+    "UC_Berkeley_Tools": {
+        "school": "University of California, Berkeley Berkeley, CA, USA berkeley.edu", 
+        "description": "University of California computation tools team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "111"
+    }, 
+    "Istanbul": {
+        "school": "Koc University Istanbul, Turkey www.ku.edu.tr", 
+        "description": "The team includes undergraduate students from Koc University, Istanbul University, Istanbul Technical University, Isik University, Ege University and Princeton University. The team will be hosted on the Koc University campus during the summer as part of a summer research program for undergraduates.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "83"
+    }, 
+    "Missouri_Miners": {
+        "school": "Missouri University of Science and Technology Rolla, MO USA www.mst.edu", 
+        "description": "MST undergraduate student synthetic biology team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "146"
+    }, 
+    "Mississippi_State": {
+        "school": "Mississippi State University Mississippi State, MS, USA www.abe.msstate.edu", 
+        "description": "Mississippi State University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "144"
+    }, 
+    "University_of_Sheffield": {
+        "school": "University of Sheffield Sheffield United Kingdom www.shef.ac.uk", 
+        "description": "Team from the University of Sheffield, UK", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "153"
+    }, 
+    "BrownTwo": {
+        "school": "Brown University Providence, RI, USA brown.edu", 
+        "description": "The second Brown iGEM team.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "165"
+    }, 
+    "NYMU-Taipei": {
+        "school": "National Yang Ming University, Taipei, Taiwan www.ym.edu.tw", 
+        "description": "The first Taiwan team to win an iGEM gold medal since 2007. (igem.ym.edu.tw)", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "116"
+    }, 
+    "Groningen": {
+        "school": "University of Groningen", 
+        "description": "Multidisciplinary team from university of groningen which is in the north of the Netherlands", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "77"
+    }, 
+    "Tokyo_Tech": {
+        "school": "Tokyo Institute of Technology Yokohama, Japan http://www.titech.ac.jp/home.html", 
+        "description": "Students of Tokyo Tech", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "121"
+    }, 
+    "Princeton": {
+        "school": "Princeton University Princeton, NJ  USA www.princeton.edu", 
+        "description": "Our 2008 team.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "76"
+    }, 
+    "Imperial_College": {
+        "school": "Imperial College London", 
+        "description": "9 undergraduates (Biology and Engineering background) + 4 academic advisors + 2 Faculties", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "143"
+    }, 
+    "Polytech": {
+        "school": "Polytechnic University Brooklyn, NY", 
+        "description": "Polytechnic University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "97"
+    }, 
+    "Freiburg": {
+        "school": "University of Freiburg, Germany, www.uni-freiburg.de", 
+        "description": "University of Freiburg 2008 team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "157"
+    }, 
+    "Gaston_Day_School": {
+        "school": "Gaston Day School Gastonia, NC, USA www.gastonday.org", 
+        "description": "The team consists of rising juniors and seniors in high school.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "169"
+    }, 
+    "Montreal": {
+        "school": "McGill University", 
+        "description": "10 undergraduates 2 instructors 2 theory students, 6 experimentalists, 2 computer specialists", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "139"
+    }, 
+    "PennState": {
+        "school": "Pennsylvania State University University Park, PA www.psu.edu", 
+        "description": "The PennState iGEM team has participated since 2005 with bacterial relay race, diauxie elimination, and dosimeter projects.  This year the team is primarily composed of undergraduate students across several disciplines (chemical engineering, bioengineering, and biology) instructed by faculty members, graduate students, and postdoctoral scholars from Penn State's main campus at University Park, PA.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "100"
+    }, 
+    "LED": {
+        "school": "University of Latvia www.lu.lv", 
+        "description": "We are a team.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "164"
+    }, 
+    "iHKU": {
+        "school": "The University of Hong Kong", 
+        "description": "The University of Hong Kong", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "94"
+    }, 
+    "Colombia": {
+        "school": "COLOMBIA team instructor HOUSTON, TEXAS. USA olimpa@aol.com", 
+        "description": "undergraduate colombian students from different universities", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "159"
+    }, 
+    "Bay_Area_RSI": {
+        "school": "University of California, Berkeley Stanford University", 
+        "description": "Our team is composed of undergraduates from University of California, Berkeley and Stanford University.  We seek to apply Synthetic Biology to Regenerative Biology.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "80"
+    }, 
+    "Tianjin": {
+        "school": "Tianjin University, Tianjin, P.R.China, http://www.tju.edu.cn", 
+        "description": "2008 iGEM team of Tianjin University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "132"
+    }, 
+    "Chiba": {
+        "school": "Chiba University Chiba, JAPAN www.chiba-u.ac.jp/e", 
+        "description": "Chiba University iGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "84"
+    }, 
+    "ESBS-Strasbourg": {
+        "school": "Ecole sup\u00e9rieure de Biotechnologie de Strasbourg", 
+        "description": "iGEM team of the ESBS, Strasbourg.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "105"
+    }, 
+    "Caltech": {
+        "school": "California Institute of Technology Pasadena, CA 91125, USA www.caltech.edu", 
+        "description": "Caltech 2008 iGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "137"
+    }, 
+    "BCCS-Bristol": {
+        "school": "University of Bristol", 
+        "description": "A team from the Bristol Centre for Complexity Sciences at the University of Bristol, U.K.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "135"
+    }, 
+    "Valencia": {
+        "school": "Universidad Polit\u00e9cnica de Valencia, Spain Universidad de Valencia, Spain www.intertech.upv.es", 
+        "description": "Valencia Team has members of the two universities in the city of Valencia, Spain. 4 undergrad students, 4 advisors and 4 faculty make up the team.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "141"
+    }, 
+    "Heidelberg": {
+        "school": "University of Heidelberg, Germany www.uni-heidelberg.de", 
+        "description": "Joint team from faculties of biology and physics", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "150"
+    }, 
+    "LCG-UNAM-Mexico": {
+        "school": "Universidad Nacional Autonoma de Mexico", 
+        "description": "Undergraduate program in genome sciences at Cuernavaca Mexico.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "119"
+    }, 
+    "Utah_State": {
+        "school": "Utah State University Logan, UT 84322 www.usu.edu", 
+        "description": "Utah State University iGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "89"
+    }, 
+    "Kyoto": {
+        "school": "Kyoto University", 
+        "description": "Kyoto university members from JAPAN", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "127"
+    }, 
+    "Davidson-Missouri_Western": {
+        "school": "Davidson College Davidson, NC USA www.bio.davidson.edu  Missouri Western State University St. Joseph, MO  USA http://www.missouriwestern.edu/biology/", 
+        "description": "One team composed of undergraduates on two separate campuses.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "91"
+    }, 
+    "ETH_Zurich": {
+        "school": "ETH Zurich, Zurich, Switzerland", 
+        "description": "Mix of biologists and engineers", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "142"
+    }, 
+    "Rice_University": {
+        "school": "Rice University Houston, TX, USA www.rice.edu", 
+        "description": "The Rice synthetic BiOwlogists.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "122"
+    }, 
+    "Duke": {
+        "school": "Duke University Durham, NC, USA www.duke.edu", 
+        "description": "Duke iGEM Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "158"
+    }, 
+    "Sofia_BG": {
+        "school": "Department of Medical Genetics, Medical University - Sofia, Bulgaria http://mu-sofia.bg/", 
+        "description": "The team of Sofia, Bulgaria", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "162"
+    }, 
+    "WEGO_Taipei": {
+        "school": "Taipei Wego Private High School, TPE, R.O.C. www.wghs.tp.edu.tw", 
+        "description": "A group consists of 15 highschool students.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "114"
+    }, 
+    "METU_Turkey": {
+        "school": "Middle East Technical University", 
+        "description": "METU_TURKEY team is composed of 16 undergraduate students, 4 graduate students and 2 instructors.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "129"
+    }, 
+    "University_of_Lethbridge": {
+        "school": "University of Lethbridge Lethbridge, Alberta, Canada www.uleth.ca", 
+        "description": "University of Lethbridge undergraduate iGEM Team 2008", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "147"
+    }, 
+    "Purdue": {
+        "school": "Purdue University West Lafayette, Indiana www.purdue.edu", 
+        "description": "Purdue University iGEM team. West Lafayette, Indiana", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "154"
+    }, 
+    "USTC": {
+        "school": "Hefei , Anhui , China www.ustc.edu.cn", 
+        "description": "we are from USTC , China", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "82"
+    }, 
+    "Hawaii": {
+        "school": "University of Hawaii at Manoa", 
+        "description": "students and faculty", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "125"
+    }, 
+    "Melbourne": {
+        "school": "University of Melbourne Victoria, Australia www.unimelb.edu.au", 
+        "description": "University of Melbourne: departments and schools of biochemistry, genetics, engineering", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "85"
+    }, 
+    "Rensselaer": {
+        "school": "Rensselaer Polytechnic Institute Troy, NY, USA rpi.edu", 
+        "description": "Rensselaer Polytechnic Institute iGEM team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "96"
+    }, 
+    "Alberta_NINT": {
+        "school": "National Institute for Nanotechnology 11421 Saskatchewan Dr. Edmonton, Alberta     T6G 2M9 www.nint.ca", 
+        "description": "New iGEM team at the National Institute for Nanotechnology at the University of Alberta, Canada", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "102"
+    }, 
+    "KULeuven": {
+        "school": "K.U.Leuven Leuven Belgium www.kuleuven.be www.kuleuven.be/bioscenter", 
+        "description": "iGEM 2008 team from the Center for Bio-Science, Bio-Engineering and Bio-Technology (BioSCENTer) of the Katholieke Universiteit Leuven", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "145"
+    }, 
+    "University_of_Ottawa": {
+        "school": "University of Ottawa Ottawa, Ontario, Canada www.uottawa.ca", 
+        "description": "We are a team of 10 students and 3 private investigators joining the iGEM community.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "149"
+    }, 
+    "Warsaw": {
+        "school": "Unviversity of Warsaw Warsaw, Poland www.uw.edu.pl/en", 
+        "description": "Faculty of Biology Team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "103"
+    }
+}

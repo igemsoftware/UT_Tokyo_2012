@@ -1,0 +1,1282 @@
+{
+    "St_Andrews": {
+        "school": "St Andrews University", 
+        "description": "St Andrews University iGEM Team", 
+        "title": "Kill Switch Engage: Intracellular Protegrin-1 Production and its Potential Applications", 
+        "track": "Health & Medicine", 
+        "abstract": "For the 2011 St Andrews iGEM Team project, we are creating an intracellular Escherichia coli 'kill switch' that functions differently from any found in nature.  Our kill switch is designed by inserting an antimicrobial peptide (AMP) gene into E. coli.  The AMP in question is protegrin-1, an 18 amino acid residue.  Protegrin-1\u2019s secondary structure is a beta -sheet conformation including a b-hairpin turn, which allows it to imbed itself into the phospholipid bilayer and disrupt bacterial cell walls by creating pores within the membrane.The antimicrobial activity of protegrin-1, including the action of pore formation, provides us with a wealth of potential applications for this kill switch, including drug delivery, conjugation both in vivo and in vitro, and its use as a basic biosafety tool.", 
+        "id": "628"
+    }, 
+    "UTP-Panama": {
+        "school": "Republic of Panama http://www.utp.ac.pa/", 
+        "description": "Synthetic Biology Team of the \"Universidad Tecnologica de Panama\".", 
+        "title": "THERMOGENIC RESPONSE NUTRIENT BIOSENSOR (THE RENBO)", 
+        "track": "Food & Energy", 
+        "abstract": "To develop flexible and better sensors for environmental, agricultural and engineering applications are the aims of the UTP-Panama Team 'SynBio Engineering Tool kit'. In this way we work with Nitrate Biosensor (PyeaR - GFP composite) developed by Team BCCS-Bristol 2010, which expresses fluorescent signals upon nutrient detection, producing a high-resolution map of arable land.  To achieve this goal we use the collateral effect of the AOX enzyme (Alternative oxidase) mainly designed to generate heat in response to a cold-shock, using the hybB promoter which increases the bacteria growth at temperatures below 20C.Finally we design a prototype device with a better cold shock promoter (CspA) developed by UNAM-CINVESTAV Team in 2010, in order to give our E. coli an 'Intelligent Coat', which means that not only survives a cold-shock but is also able to keep up with its duties, due of improving their expression mechanisms at low temperature.", 
+        "id": "672"
+    }, 
+    "KAIT_Japan": {
+        "school": "Kanagawa Institute of Tecnnology Atsugi, Kanagawa, Japan http://www.kait.jp", 
+        "description": "Applied Bioscience", 
+        "title": "Colony on Colony -Colony formation like layer cake-", 
+        "track": "Foundational Advance", 
+        "abstract": "We tried to overlap colony on colony. Generally, colony and colony don't overlap and approach each other, because of the cell-cell communications. Bacterias also have a system, so called quorum sensing, to control of production of signal chemicals depend on the bacteria\u2019s density.We pay attention quorum sensing system. Bacterias produce and secret autoinducer against other bacterias by quorum sensing system, as a result of the system, bacteria senses other bacterias. Most of Gram-negative bacterias make use of autoinducer named AHL. We applied E. coli to our experiment and we use aiia which is catabolic enzyme to inhibit AHL. We tried to make a recombinant bacteria to cancelled sensing of other bacterias and expected to form the colony of bacterias on the other bacterias.", 
+        "id": "647"
+    }, 
+    "Bilkent_UNAM_Turkey": {
+        "school": "Bilkent University, Ankara, Turkey http://www.bilkent.edu.tr/bilkent-tr/index.html UNAM Institute of Materials Science and Nanotechnology, Ankara, Turkey http://unam.bilkent.edu.tr/index.html", 
+        "description": "Bilkent University will join to iGEM 2011 with a team of undergraduate students from Department of Molecular Biology and Genetics and Department of Chemistry. Instructors from UNAM Institute of Materials Science and Nanotechnology at Bilkent University will be leading our team.", 
+        "title": "Biodegradation of TNT and TNT derivatives by nfsI-transfected Chlamydomonas reinhardtii", 
+        "track": "Environment", 
+        "abstract": "\"We aim for the genetic modification of the unicellular microalga Chlamydomonas reinhardtii by introducing the nfsI gene belonging to the bacterium Enterobacter cloacae in order to investigate how nitroreductase expressing-microalgae respond to trinitrotoluene (TNT) exposure. Our experimental design is as follows: firstly, obtain a synthetic gene of nfsI with flanking prefix and suffix of standard Biobricks, and ligate this insert to pRbcBRL, a vector with appropriate expression and selection system for Chlamydomonas reinhardtii and obtain pRbcnfsI. Then, Chlamydomonas reinhardtii will be transfected with the with the designed plasmid. The transfected algae will then be grown in presence of TNT and/or TNT derivatives and the effectiveness of nitroreductase activity on biological degradation of TNT will be investigated.\"", 
+        "id": "596"
+    }, 
+    "UNAM-ITESM_Mexico_City": {
+        "school": "School of Science, the Institute for Applied Mathematics and Cellular Physiology Institute from UNAM as well as the ITESM, Mexico City Campus", 
+        "description": "A team formed by students from the National University of Mexico (UNAM) and the Monterrey Institute of Technology (ITESM) in Mexico City", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "657"
+    }, 
+    "Minnesota": {
+        "school": "University of Minnesota St. Paul, MN, USA umn.edu", 
+        "description": "University of Minnesota - Twin Cities", 
+        "title": "E. coli Based Biotemplating", 
+        "track": "Manufacturing", 
+        "abstract": "\"The objective of our project is the construction of a light-inducible system in which E. coli is engineered to express silacatein in order to create a biotemplating system. This system has many potential uses, such as the creation of precise nano-structures or biomemetic bone. The coliroid light-inducible system was assembled by cloning a fusion protein of Cph1 and EnvZ, called Cph8, from a previous iGEM group, and isolating and cloning the two other genes (Heme Oxigenase and PcyA) required for functionality of the system and putting all the parts into a vector. Then the silicatein alpha gene isolated from Subterities domuncula was fused with E. coli outer membrane protein A (OmpA) and ice nucleation protein (INP) and inserted in the vector under control of the coliroid system.\"", 
+        "id": "632"
+    }, 
+    "Dundee": {
+        "school": "University of Dundee DUNDEE DD1 5EH Scotland http://www.dundee.ac.uk/", 
+        "description": "A team of Universiy students led by the College of Life Sciences but including Applied Computing and Mathematical Biology students.", 
+        "title": "The Sphereactor - a synthetic bacterial microcompartment", 
+        "track": "Foundational Advance", 
+        "abstract": "Bacterial microcompartments are proteinaceous reaction chambers designed to 'cage in' metabolic pathways and increase efficiency. Potentially, these could be engineered to house any chemical reaction imaginable; to sequester toxic material; or to confer new physical properties to a host. Here, a synthetic microcompartment ('The Sphereactor') was designed and built. This was assisted by the creation of new mobile apps and web-based tools for DNA analysis. A synthetic operon was constructed, based on the pduABJKNTU genes from Salmonella, that assembled into the empty Sphereactor, which was also affinity-tagged to allow its isolation for downstream applications. A new targeting sequence comprising 20 residues of PduD was shown to target GFP into The Sphereactor. Attempts were made to pack the Sphereactor with many other proteins. Together, the Sphereactor and its new targeting sequence is a foundational advance that could influence the design of new metabolic pathways or inspire new bioremediation or biomedical projects.", 
+        "id": "562"
+    }, 
+    "EPF-Lausanne": {
+        "school": "Lausanne, CH-1015, Switzerland www.epfl.ch", 
+        "description": "A bunch of Swiss engineers who love synthetic biology", 
+        "title": "Teenage Mutant Ninja TetRs: A Transcription Factor Development Pipeline", 
+        "track": "Foundational Advance", 
+        "abstract": "\"To create novel devices, and to fine-tune systems for a specific response to a stimulus, synthetic biology relies on a library of parts with specific functionalities and characteristics. Here, we present our efforts to expand the choice of regulatory parameters in a system by engineering TetR-based transcription factors with a large range of DNA-binding specificities and affinities.  Specifically, we have generated several TetR and pTet promoter variants using site-directed mutagenesis, and characterized their respective interactions using fluorescent reporter assays and MITOMI-based microfluidic devices. In addition, we are developing a proof-of-concept high-throughput measurement system based on bacterial cell lysis to in vivo select desirable variant protein-DNA interactions . This system is based on a repression cascade, in which TetR binding to the pTet promoter element triggers cell lysis in an affinity-dependent manner, enabling us to collect the plasmids of suitable TetR variants for sequence analysis and downstream processing.\"", 
+        "id": "613"
+    }, 
+    "Waseda-Japan": {
+        "school": "Waseda University, Shinjuku, Tokyo, Japan http://www.waseda.jp/top/index-e.html", 
+        "description": "1+1=3", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "520"
+    }, 
+    "Debrecen_Hungary": {
+        "school": "University of Debrecen, Medical and Health Science Center http://www.dote.hu", 
+        "description": "Our group is focusing on the prokaryotic-eukaryotic interface.", 
+        "title": "Oilrig or nuclear hormone receptors: How to find lipids in the environment?", 
+        "track": "Food & Energy", 
+        "abstract": "\"Nuclear hormone receptors (NHRs) are ligand activated transcription factors. They are able to regulate the expression of their target genes by direct DNA-binding, in a ligand-dependent manner. NHRs bear high homology to each other and are modular into distinct regions: N-terminal regulatory region, DNA-binding domain, a Hinge region, Ligand binding domain (LBD) and a C-terminal region. Some Nematode NHRs can be activated by extracted oil contamination of the soil so they can use as possible oil sensors in the future. Zinc finger motifs are the tools of NHRs to bind DNA and regulate gene expression directly. These tiny elements can be tested as direct gene regulators. Controlled gene induction can also lead to programmed cell death which is a less harmful tool in order to quit non-functionable cells.\"", 
+        "id": "626"
+    }, 
+    "ZJU-China": {
+        "school": "Zhejiang University Hangzhou, Zhejiang province, CHINA www.zju.edu.cn", 
+        "description": "Our team is from Zhejiang University", 
+        "title": "Rainbofilm", 
+        "track": "New Application", 
+        "abstract": "Rainbofilm is a stratified expression system in biofilm, a self-organized module extensible for various needs. Researchers found a vertical oxygen gradient establishes in the biofilm. Such property allows us to use oxygen sensitive promoters to artificially induce differentiated functions through the spatial distribution of cells. Thus, the multi-step reaction can be processed within the different layers of the biofilm.The biofilm and its layered structure form spontaneously. Also biofilm has the natural resistance to high levels of toxin. These two properties render the Rainbofilm a convenient stable system for bio-production and bio-sensor. The system can cater to different needs simply by changing downstream genes. One possible application is ethanol production. The cellulose is degraded to monose from the bottom to the middle layer, and the ethanol is produced and secreted in the surface to minimize the toxicity to the inner cells.", 
+        "id": "561"
+    }, 
+    "UIUC-Illinois": {
+        "school": "University of Illinois Urbana Champaign Urbana, Il", 
+        "description": "University of Illinois Urbana Champaign iGEM team", 
+        "title": "E. chiver", 
+        "track": "New Application", 
+        "abstract": "\"Our project, E. chiver, drew inspiration from the commonly used CRIM system, a series of plasmids that allows the user to integrate constructs into lambdoid phage sites common to many bacterial chromosomes.  Our E. chiver system adds several elements yielding new applications.  Our team designed two E. chiver constructs utilizing Lambda and P21 machinery.  Each can in theory be used to shuttle a plasmid construct between two forms:  a single chromosomal insert and a high copy number plasmid.   In their current designs the systems must function separately, but possible routes have been identified by our team to make the co-functioning of these systems possible.  We can see elements of our project being used in drug delivery systems as a method to keep a gene of interest dormant unless in the correct condition/location, and with further exploration into the co-functioning routes it may be used to create a 'bacterial filing cabinet'.\"", 
+        "id": "617"
+    }, 
+    "MIT": {
+        "school": "Massachusetts Institute of Technology Cambridge, MA, USA web.mit.edu", 
+        "description": "Massachusetts Institute of Technology", 
+        "title": "Towards Tissue Self-Assembly via Juxtacrine Signaling", 
+        "track": "Health & Medicine", 
+        "abstract": "\"Current medical practices are only able to scratch the surface of tissue engineering or organ development. Fortunately, nature has provided us with robust, cellular systems capable of governing the autonomous formation of complex structures. To pursue control of multicellular systems, we engineered a number of ligand-receptor signaling mechanisms: the Notch-Delta juxtacrine signaling pathway and an assortment of G-Protein Coupled Receptors. Both signaling systems were modified to activate orthogonal genetic circuits, allowing for processing and integration of numerous signals. In order to facilitate and maintain pattern formation, we introduced cadherin, a natural intercellular glue. To understand and predict multicellular behavior, we developed a simulation framework based on the Synthetic Biology Open Language and CompuCell 3D modeling environment. Our models motivated several circuit designs we subsequently tested in the laboratory. Altogether, our developments establish a paradigm for manipulation of intercellular communication systems to drive self-organization of tissues.\"", 
+        "id": "511"
+    }, 
+    "NYC_Software": {
+        "school": "Weill Cornell Medical College New York, NY, USA med.cornell.edu  NYU Polytechnic University Brooklyn, NY, USA poly.edu", 
+        "description": "We are always coming up with new software tools for iGEM projects, so now we have a team just for them!", 
+        "title": "Deinococcus Genome Sequencing & Registry/ Biobrick Tools", 
+        "track": "Software Tools", 
+        "abstract": "\"Our goal is to sequence the genomes of several Deinococcus bacteria, construct phylogenetic trees and identify links between radiation resistant species using a combination of publicly available genome analysis tools. By sequencing the genomes of species of the radiation-resistant Deinococcus genus, we hope to identify genes that may be responsible for increased protection against superoxide radicals and ionizing radiation. We are also performing RNA-seq experiments to ascertain what genes are upregulated by radiation exposure.We also realize that there are significant gains to be made on the software side of synthetic biology, so we are working with others to code tools to integrate into the Registry and into iGEM teams' biobricking pipelines.\"", 
+        "id": "651"
+    }, 
+    "Brown-Stanford": {
+        "school": "Brown University Providence, RI USA http://www.brown.edu/  Stanford University Stanford, CA USA http://www.stanford.edu/", 
+        "description": "Students from Brown and Stanford focusing on space applications", 
+        "title": "Mars BioTools: Synthetic Biology for Space Exploration", 
+        "track": "New Application", 
+        "abstract": "\"One of the major challenges of space exploration is the enormous cost of launching materials, limiting the size and affordability of long-term missions. Synthetic Biology can revolutionize space exploration and settlement by providing a microbial platform for catalyzing critical reactions and manufacturing essential products. Biological devices have a major advantage over classical machines: the ability to self-replicate and regenerate.Project RegoBrick uses bacteria to cement Martian and Lunar regolith simulant into a concrete-like compound. Extraterrestrial settlements will be able to use such a process to build structures using resources readily available in the environment, instead of having to transport materials from Earth.Project PowerCell develops a universal energy source from engineered cyanobacteria, which generate carbon and nitrogenous nutrients from sunlight and air and secrete them to sustain other microbes. This system will allow future settlers to transform resources on other planets into fuel, food, drugs, and other useful products.\"", 
+        "id": "656"
+    }, 
+    "HIT-Harbin": {
+        "school": "Harbin Institute of Technology Harbin, Heilongjiang Province, China www.hit.edu.cn", 
+        "description": "From a group of aspiring students", 
+        "title": "The Reform of Two Strains in Yogurt", 
+        "track": "Food & Energy", 
+        "abstract": "\"Since lots of people in China are lactose intolerance, they have no access to drinking milk in the past. With the development of the dairy industry in China, yogurt has become highly accepted by consumers, including those lactose intolerance people. And postacidification has always been the most vital factor which affects the shelf life and flavor of yogurt. So our team takes it as our track. Through the literature, we have discovered a gene, called lacR, which could combine with the lactose operon to inhibit the production of lactic acid in Bulgaria Lactobacillus. If lacR could be highly transcripted in Bulgaria Lactobacillus when the pH value of yogurt declines to a certain level, the acidification of yogurt would be postponed. Meanwhile, we also want to transfer part of human collagen genes to Streptococcus Thermophilus in order to enhance the nutrition of yogurt.\"", 
+        "id": "609"
+    }, 
+    "Gaston_Day_School": {
+        "school": "Gaston Day School Gastonia, NC, USA www.gastonday.org", 
+        "description": "The Gaston Day School team is composed entirely of high school students from 9th to 12th grades.", 
+        "title": "Red Fluorescent Nitrate Detector", 
+        "track": "Environment", 
+        "abstract": "\"Increasing levels of fertilizer required for mechanized farming can result in elevated nitrate levels in soil and groundwater. Due to contaminated food and water, humans are at risk for methemoglobinemia caused by enterohepatic metabolism of nitrates into ammonia. This process also oxidizes the iron in hemoglobin, rendering it unable to carry oxygen. Infants in particular are susceptible to methemoglobinemia, also known as 'blue baby syndrome', when formula is reconstituted using water contaminated with nitrates. By combining the red fluorescent protein coding region with a nitrate sensitive promoter, we are developing an inexpensive, simple, visual test for nitrate contaminated water. Use of this detector in agricultural areas could alert families to the presence of nitrates in groundwater and prevent blue baby syndrome. \"", 
+        "id": "614"
+    }, 
+    "Berkeley": {
+        "school": "University of California, Berkeley", 
+        "description": "The University of California, Berkeley iGEM team!", 
+        "title": "DETECTR", 
+        "track": "New Application", 
+        "abstract": "\"Biosensors have widespread applications ranging from diagnostics to environmental monitoring. Vibrio cholerae's ToxR system can be used as a component in biological devices capable of detecting a wide variety of molecules. A periplasmic domain causes ToxR homodimerization, activating transcription of the ctx promoter. By replacing the periplasmic domain of ToxR with existing or engineered ligand-dependent homodimers, we hope to link ToxR dimerization (and gene expression) to the presence of specific ligands. Initially, ToxR constructs proved to be toxic to E. coli. To address ToxR toxicity, we screened microarray data for promoters that exhibited stress-based down regulation. We constructed a negative feedback system with the rffGH promoter, which permits the use of potentially toxic proteins like our various ToxR chimeras. By fusing existing or engineered ligand dependent homodimers to ToxR, this modular system can be applied to develop new biosensors. \"", 
+        "id": "641"
+    }, 
+    "Wageningen_UR": {
+        "school": "Wageningen University and Research Centre Systems and Synthetic Biology Microbiology Dreijenplein 10  6703 HB Wageningen  The Netherlands  http://www.ssb.wur.nl/UK http://www.mib.wur.nl/UK", 
+        "description": "Team from Wageningen University.", 
+        "title": "The Synchroscillator: Controlling and Visualizing Synchronized Oscillations in Real Time", 
+        "track": "Foundational Advance", 
+        "abstract": "\"One aim of Synthetic biology is to re-engineer naturally occurring gene circuits to produce artificial systems that behave predictably. Our project involved streamlining and providing additional functionality to a recently published synchronized oscillatory circuit, in an attempt to reproduce and further characterize its dynamics. Our genetic circuit consists of modified (and BioBricked) elements of the Vibrio fischeri lux quorum sensing system composed to form interconnected positive and negative feedback loops, which dynamically regulate the expression of GFP. In order to provide our E. coli host with the right environment required for population-wide oscillations, we designed and manufactured a custom flow-chamber capable of maintaining a defined cell population while independently varying the growth conditions. The chamber was specifically designed for time-lapse studies with a fluorescence microscope. We detected synchronized oscillatory gene expression under zero-flow conditions, suggesting an unexpected level of robustness. This should facilitate its integration with more advanced genetic circuits.\"", 
+        "id": "546"
+    }, 
+    "Fatih_Turkey": {
+        "school": "Medical School at Fatih University", 
+        "description": "Undergraduate students of Medical  School at Fatih University", 
+        "title": "The Rainbow Graveyard", 
+        "track": "New Application", 
+        "abstract": "\"E. Coli is one of the gram-negative bacteria and most of their types are harmless. However some of E.Coli types such as enterohaemorrhagic E.Coli (EHEC) can cause serious disease.In our project we designed an innovative model to prevent gram-negative growth and infection. In our model, to prevent E.Coli growth we modified non-infectious gram-positive bacteria B.Subtilis by transforming it with a construct, which was designed to produce limulus anti-LPS factor (LALF) together with a signal peptide. LALF is expected to bind and neutralize Lipopolysaccharide (LPS) found in gram-negative bacteria cell wall. On the other hand, to show E.Coli growth inhibition, we prepared another construct, which carries reflectin sequence with a signal peptide sequence and transferred into E.Coli. Reflectin protein produces color by reflecting light in different wavelenghts. This ability helps us to detect whether E.Coli is dead or alive.\"", 
+        "id": "541"
+    }, 
+    "DTU-Denmark-2": {
+        "school": "Technical University of Denmark Kgs. Lyngby, Denmark www.dtu.dk", 
+        "description": "Masters students from the Department of Systems Biology at the Technical University of Denmark. The project focus will be on an assembly standard.", 
+        "title": "Plug'n'Play with DNA: a novel assembly system", 
+        "track": "Foundational Advance", 
+        "abstract": "The DTU-Denmark 2 team is designing a novel standardized assembly system, called 'Plug\u00e2&euro;&trade;n\u00e2&euro;&trade;Play with DNA', where any biological parts can be gathered without use of restriction enzymes and ligases. Our goal is to create a new assembly standard of biological parts in the form of pre-produced PCR-products, which can be directly mixed with a vector. This will make synthetic biology faster and assembly of an expression vector possible within a few hours. We have created a library of standardized biological parts for mammalian cells and fungi ready to plug'n'play. The simple and easy use of this new assembly system have been demonstrated by developing a reporter targeting system a mammalian cell line as well as for fungi. This novel assembly system represents an improvement of the conventional BioBrick assembly, which have its limits when creating synthetic biology with eukaryotic parts.", 
+        "id": "678"
+    }, 
+    "Waterloo": {
+        "school": "University of Waterloo Waterloo, Ontario Canada www.uwaterloo.ca", 
+        "description": "Undergraduates at the University of Waterloo.  Participants from Biology, Engineerng and Math", 
+        "title": "In vivo Fusion Protein Assembly Using Self Excising Ribozyme.", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Introns, self-excising ribozymes, can become a useful tool to create in vivo protein fusions of BioBrick parts. To make this possible, intron sequences are used to flank non-protein parts embedded in coding sequences. An intron sequence with an embedded recombination site is capable of in vivo insertion of a compatible protein fusion part. As an example, a GFP-fusion was created with an intervening lox site that is removed from the final protein using the intron to form a fully functional GFP protein. In vivo protein fusions can be applied to a larger number of modular systems to make complicated expression systems, such as synthetic antibodies or plants capable of Cry-toxin domain shuffling.\"", 
+        "id": "576"
+    }, 
+    "HU-Micro": {
+        "school": "Humboldt-Universitaet zu Berlin Germany www.hu-berlin.de", 
+        "description": "Team of undergraduates, doctoral students and postdocs trained in microbiology, molecular genetics and biochemistry. We are mainly working on bacterial hydrogen metabolism.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "684"
+    }, 
+    "GeorgiaState": {
+        "school": "Georgia State University Atlanta, GA, USA www.gsu.edu", 
+        "description": "Undergraduate students doing synthetic biology in Atlanta!", 
+        "title": "Isolation & Characterization of P. pastoris promoters in E. coli", 
+        "track": "Manufacturing", 
+        "abstract": "\"Pichia pastoris is a methylotrophic yeast used as an alternative host for protein production in addition to Escherichia coli and Saccharomyces cerevisiae. There are several reasons why P. Pastoris is an ideal host organism. Its ability to perform eukaryotic post-translational modifications, high yields of recombinant protein, and its genetic similarity to S. cerevisiae are very attractive traits (Cereghino and Cregg, 2000). The Georgia State University iGEM team has isolated three promoters from P. pastoris. These promoters have been inserted into standard biobrick vectors. The team plans to transform these parts into E. coli and characterize their productivity using fluorescence.\"", 
+        "id": "529"
+    }, 
+    "UNIPV-Pavia": {
+        "school": "Universit\u00e0 degli Studi di Pavia Dip. Informatica e Sistemistica Centro di Ingegneria Tissutale Pavia, Italy http://www.unipv.it", 
+        "description": "Universit\u00e0 degli Studi di Pavia", 
+        "title": "Ctrl+E. - Signalling is nothing without control", 
+        "track": "Information Processing", 
+        "abstract": "\"Our work aims at implementing the engineering concept of closed-loop control in E. coli, exploiting quorum sensing. As a proof of concept, we designed a simple genetic controller that regulates the concentration of 3OC6-HSL signalling molecule around  a user-defined set-point. The controlled variable (3OC6-HSL) increases as a function of the exogenous anhydroTetracycline input, that triggers LuxI expression. The controller senses the 3OC6-HSL concentration and activates the production of AiiA, that degrades it.To observe the desired behaviour, a fine tuning of the system was necessary.  The transcriptional/translational strength of the regulatory elements (promoter+RBS in several combinations) and the enzyme activities were measured and exploited to identify a mathematical model able to predict the behaviour of the controlled system. These predictions made possible an in silico rational fine tuning of the circuit: the most promising modules were selected and assembled into the final circuit, avoiding a cost and time expensive combinatorial approach. \"", 
+        "id": "516"
+    }, 
+    "UEA-JIC_Norwich": {
+        "school": "University of East Anglia, Norwich, Norfolk, UK www.uea.ac.uk The John Innes Centre, Norwich, Norfolk, UK www.jic.ac.uk", 
+        "description": "University of East Anglia and the John Innes Centre team.", 
+        "title": "The evolution of synthetic biology; The introduction of new photosynthetic eukaryotes as model organisms.", 
+        "track": "New Application", 
+        "abstract": "\"There are challenges using plants in iGEM, namely growth time and the complexity with adapting synthetic biology approaches for plants. However, plants are a major focus of synthetic biology due to their potential use in an array of applications from food security to synthesis of biofuels. The short time scale of the iGEM competition has often meant that plant based projects are challenging and there have been very few in previous years. As the first iGEM team at UEA and in co-operation with the JIC, we felt that we could make a significant contribution to plant based synthetic biology. The overall aim of our project is to help develop and where possible pioneer some of the fundamental technologies and methodologies needed to make plant based synthetic biology projects possible. To achieve this we hope to adapt existing synthetic biology approaches which are successful in Escherichia coli for use in plants.\"", 
+        "id": "509"
+    }, 
+    "Toronto": {
+        "school": "University of Toronto", 
+        "description": "University of Toronto undergraduate team operating out of Dr. Boris Steipe's lab in the Department of Biochemistry.", 
+        "title": "Magnetasense", 
+        "track": "New Application", 
+        "abstract": "\"Magnetotactic bacteria use the Earth's magnetic field to guide them to favourable environments. This is known as magnetotaxis, and is achieved in these bacteria by creating uniformly shaped cubo-octahedral magnetite nanoparticles. Mms6 is a critical catalytic protein which binds to magnetite in order to facilitate the formation of an uniform crystal structure. Using the Mms6 gene from Magnetospirillium Magneticum AMB-1 we intend to create a magnetite synthesis pathway in E.Coli.  Finally as a proof of concept, we will also show how we can use the formation of magnetite as a novel gene expression system. We intend to achieve this through the use a ToxR - Mms6 fusion protein and the ctx promoter from Vibrio cholerae. This novel gene expression system can be used to help bridge the gap between biological and digital systems.\"", 
+        "id": "601"
+    }, 
+    "WITS-CSIR_SA": {
+        "school": "The University of the Witwatersrand, Johannesburg, South Africa", 
+        "description": "A team from the University of the Witwatersrand in collaboration with the CSIR.", 
+        "title": "Biotweet: A riboswitch controlled location-based networking framework", 
+        "track": "New Application", 
+        "abstract": "\"Bacterial chemotaxis is controlled via a signalling cascade, where CheZ is a protein integral in the directed movement of bacteria towards a stimulus. The aim was to control chemotaxis such that bacteria will be attracted to a defined substance followed by the ability to travel back to another stimulus at the start location, upon activation of an IPTG inducible toggle switch. Two riboswitches were used to control the translation of a CheZ fluorescent protein fusion, the first sensitive to theophylline and the second to atrazine. Fluorometry was used to prove the activation of the riboswitches. A theophylline concentration of 1.5mM resulted in the highest expression of the fusion protein. Motility experiments indicated that CheZ mutants regained motility in the presence of theophylline. Since riboswitches can be engineered for many substances, this system has possible applications as a networking template in multiple situations, be they industrial or medical.\"", 
+        "id": "537"
+    }, 
+    "Example": {
+        "school": "iGEM Headquarters", 
+        "description": "Team Example for iGEM HQ.", 
+        "title": "-- Not provided yet --", 
+        "track": "Software Tools", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "670"
+    }, 
+    "DTU-Denmark": {
+        "school": "Technical University of Denmark Kgs. Lyngby, Denmark dtu.dk", 
+        "description": "We are a group of master students from the Technical University of Denmark, from the Systems Biology department. Our project is still under construction, but will involve RNA.", 
+        "title": "Tuning regulation with a non-coding RNA trap", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Small regulatory RNA is an active area of research with untapped possibilities for application in biotechnology. One such application could be the optimization and fine-tuning of synthetic biological circuits, which is currently a cumbersome process of trial and error. We have investigated a novel type of RNA regulation, where the inhibition caused by a small regulatory RNA is relieved by another RNA called trap-RNA. The system displays a large dynamic range and can uniquely target and repress any gene of interest providing unprecedented flexibility. We suspect that any level of repression is achievable by simply altering the sequences of the involved RNAs. Multiple such systems can coexist without interfering and are thus compatible with more complex designs. Furthermore the trap-RNA can be fused to any transcript in effect allowing any gene to act as an activator.\"", 
+        "id": "564"
+    }, 
+    "Osaka": {
+        "school": "Osaka University 565-0871 1-5 Yamadaoka, Suita, Osaka, Japan", 
+        "description": "Students from departments of Osaka University", 
+        "title": "Bio-dosimeter", 
+        "track": "Environment", 
+        "abstract": "\"On March 11, 2011, the Great East Japan Earthquake struck off the coast of Eastern Japan and triggered a series of events that led to a nationwide nuclear crisis. The need for low-cost, portable and easy-to-use dosimeters became apparent as radiation measurements could only be conducted at sparsely-distributed installations and the values reported infrequently. We have decided to tackle the issue by building a biological dosimeter. Focus is placed on modularly transferring radiation response and DNA repair genes from the extremophilic bacterium Deinococcus radiodurans to the well-characterized, easily cultivable chassis Escherichia coli. The native DNA damage detection and repair systems of E. coli will be also modified to efficiently sense ionizing radiation through detection of the resultant DNA damage. Finally, detection will be connected to visible outputs such as color pigment production, resulting in a biological device capable of detecting ionizing radiation and alerting users to it through color change. \"", 
+        "id": "602"
+    }, 
+    "Sevilla": {
+        "school": "University of Seville Seville, SPAIN www.us.es", 
+        "description": "iGEM team from the University of Seville, Spain", 
+        "title": "Arcanum Project", 
+        "track": "Foundational Advance", 
+        "abstract": "We propose a new standard in order to do synthetic biology at a higher level of abstraction, above the biobrick. Our intention is to define a universal substance (Ubbit) for communication between modules of bacteria. Each module is composed of different transformed bacterial strains that work co-ordinately so that the whole module performs a logic operation based on a binary code. Having a unique communication substance means there's no need to understand how the modules work or what's inside, the only important thing is knowing which operation it performs and the inputs and outputs it has. This would allow us to build bigger circuits with different modules that could carry out more complex operations.", 
+        "id": "514"
+    }, 
+    "UC_Davis": {
+        "school": "UC Davis One Shields Drive Davis, Ca 95616 www.ucdavis.edu", 
+        "description": "University of California, Davis", 
+        "title": "The Generation and Characterization of Mutant Libraries for BioBrick Circuit Synthesis", 
+        "track": "Foundational Advance", 
+        "abstract": "\"The Registry of Standard Biological Parts offers inducible BioBrick promoters and their corresponding repressors in a limited range of strengths and activities. To broaden the application of this key part type, we have produced and characterized libraries for the LacI, TetR repressible and lambda c1 regulated promoters, as well as the LacI, TetR and cI repressors, some of the most commonly used repressor and promoter parts. These new libraries can be used to engineer genetic circuits requiring inducible parts with varying activity levels and chemical sensitivities. To demonstrate their utility, we used our new parts to construct diverse circuits that capitalize on differences in their activity levels.\"", 
+        "id": "611"
+    }, 
+    "WHU-China": {
+        "school": "Wuhan University Wuhan P.R.CHINA www.whu.edu.cn", 
+        "description": "\"Improve Oneself, Promote perseverance, Seek truth and Make Innovations\" It is our first time to join the iGEM family. This is the team for Wuhan University, Wuhan, P.R.CHINA.", 
+        "title": "Colorful E.coli Weave Time and Space.", 
+        "track": "Foundational Advance", 
+        "abstract": "Our project focuses on constructing colorful E.coli, which includes two parts. We plan to construct two systems consisting of several strains of E.coli: one produces different pigments due to the change of time, and the other produces different pigments with the change of position.In the first part, the strain of E.coli works as an oscillator which can yield different kinds of pigment periodically with the help of a signal transformation system.In the second part, we came up with the idea of 'colorful E.film\u00a1'. In hope to create a colorful film, we will construct three E.coli strains which can produce and secrete three primary colors respectively in the presence of the three primary lights. Therefore, if we use a color picture as an input signal, the output will be the copy of it on the plate.", 
+        "id": "560"
+    }, 
+    "Johns_Hopkins": {
+        "school": "Johns Hopkins University, Baltimore, MD, USA  www.jhu.edu", 
+        "description": "The iGEM 2011 team from the Johns Hopkins University", 
+        "title": "VitaYeast: addressing malnutrition with synthetic vitamin production in baker's yeast", 
+        "track": "Food & Energy", 
+        "abstract": "While hunger is a major issue in developing nations, it is often a lack of specific nutrients rather than total calories that underlies specific health issues including infant mortality, birth defects, and blindness. To ameliorate worldwide malnutrition, we engineered baker's yeast to produce vitamins A and C. 'VitaYeast' can be used to bake bread without special equipment, training, orreagents. We designed our genetic constructs using state-of-the-art optimization techniques, simulations, and data from our parts characterization experiments. In order to realize this design, we developed an extensive yeast toolkit including promoters, UTRs, and vectors. We synthesized the violacein pathway, which, combined with our vitamins and intermediate metabolites, represent a new set of yeast reporters. Finally, to assess the potential of VitaYeast to combat hunger in the real world, we have sought IRB approval to distribute an extensive survey on attitudes toward genetic engineering of food world-wide.", 
+        "id": "530"
+    }, 
+    "HokkaidoU_Japan": {
+        "school": "Hokkaido University, Sapporo, Japan http://www.hokudai.ac.jp/", 
+        "description": "Undergraduate team members are from department of science, technology, agriculture and medicine.", 
+        "title": "Dr. E. coli: Quest for injectable proteins", 
+        "track": "New Application", 
+        "abstract": "We further developed 'Dr. E. coli': our project of iGEM 2010. Last year, we showed that Type 3 Secretion System (T3SS) works in E. coli by injecting GFP into RK13 cells. T3SS is a syringe like organelle found in bacterium such as Salmonella which uses it to inject virulence effector proteins into a target eukaryotic cell.  We think this system can be applied to direct reprogramming of somatic cells among many other things.  We tested T3SS performance and tried to make it more convenient. For this purpose we designed a plasmid backbone which can instantly produce ready-to-inject fusion proteins from ordinary biobrick part. Using it, we tried to further characterise this system by injecting a library of protein domains.  In Science Gallery we exhibited awesome photographs related with biotechnology in public. We tried to catch the pedestrians' interest in current synthetic biology and explore their thoughts.", 
+        "id": "547"
+    }, 
+    "HUST-China": {
+        "school": "Huazhong University of Science and Technology Wu Han,Hu Bei,China www.hust.edu.cn", 
+        "description": "The igem team of Huazhong University of Science and Technology", 
+        "title": "Super E.coli Architect", 
+        "track": "Software Tools", 
+        "abstract": "\"Super E.coli Architect  is a design software of engineering bacteria. It offers a convenient and efficient design platform,which contributes to making simple ideas into a complete solutions. The existing synthetic biology softwares involve some specific functions such as finding genes and metabolism pathways, modeling and biobrick design.And these softwares are often oriented to scientific researchers. But we think that there is a hope in synthetic biology to turn the science of artificial biosystem into a engineering program having a standard process. Therefore, we constructed a software, Super E.coli Architect, oriented to designers more than scientists.Providing all the necessary technical support,Super E.coli Architect can release desighners from technical details,helping them work as the architects,allowing them to take more attention into constructing kinds engineering bacterias for solving practical problems.\"", 
+        "id": "580"
+    }, 
+    "Paris_Bettencourt": {
+        "school": "Hosted at the Paris Descartes University, Paris, France, students and mentors of the team participate from multiple universities and engineering schools across the Paris region.", 
+        "description": "The Paris 2011 iGEM team, hosted at the Centre for Research & Interdisciplinarity of the Paris Descartes University's Medical Faculty", 
+        "title": "TuBe or not TuBe? Toward a new bacterial cell-to-cell communication", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Bacterial communication and resource sharing, hitherto thought to be mediated through the medium has been challenged by a recent paper (G.P.Dubey et al.) suggesting an extraordinary new form of communication between B.subtilis cells and even exchanges with E.coli through nanotubes. We set to provide new evidence for this cell-to-cell communication and to allow the synthetic biology community to harness its potential for amorphous computing and metabolic engineering. We developed and characterized new B.subtilis BioBricks designed to validate this finding by testing a wide range of molecules that could potentially travel through the nanotubes and be detected via signal amplification. We worked on molecules of different size and nature to best characterize the transfer. Modeling suggests that we will be able to follow the diffusion through the nanotube network by fluorescence microscopy. TuBe or not TuBe? Our ongoing experiments will shed light on this elusive question. \"", 
+        "id": "606"
+    }, 
+    "UNITS_Trieste": {
+        "school": "University of Trieste, Department of Life Sciences  Trieste, Italy http://www.univ.trieste.it/", 
+        "description": "University of Trieste", 
+        "title": "Synbiome: a three-cell type interkingdom consortium", 
+        "track": "New Application", 
+        "abstract": "The synbiome project exploits synthetic biology to obtain a synthetic stable community of eukaryotic and prokaryotic cells. Two different bacterial strains 'A','\u2018B' and one eukaryotic cell type 'C' will be engineered to establish mutualism: 'A' produces a N-acyl homoserine lactone (AHL) sensed by 'B', which in turn produces a different AHL sensed by 'A'. In addition, both bacterial cells activate,  through AHL, an enzyme necessary to convert cellobiose to glucose, which represents the only energy source for the whole consortium. The eukaryotic cell 'C' responds to AHL through a hybrid protein, thereby producing a secreted beta-lactamase, which allows the bacterial cells to grow in the presence of ampicillin. The creation of a consortium of inter-dependent cells from different kingdoms is expected to pave the way to multiple applications, since different cells might cooperate and, for instance, better produce complex molecules.", 
+        "id": "553"
+    }, 
+    "OUC-China": {
+        "school": "Ocean University of China Qingdao,Shangdong Province, P.R.C www.ouc.edu.cn", 
+        "description": "Vast ocean embraces streams, norms promise one's dream.", 
+        "title": "Theory of Five Elements", 
+        "track": "Information Processing", 
+        "abstract": "Our work aims to illuminate the ancient Chinese philosophical theory called 'Wu Xing', also Theory of FIVE Elements, by artificially assembling a communication system between bacteria. This theory explains the composition and phenomena of the physical universe. In the system there exists close relationships classified as mutual promoting and restraining under certain conditions, by which functions of the various systems are coordinated and homeostasis of universe maintained. In our project, five modified nutritionally deficient bacteria represent the five elements in the theory. They talk to each other emitting and receiving specific signals called AHLs. Five pairs of signal receivers and producers, like luxR and luxI, are involved in achieving the process. Moreover, one will help another producing the essential nutrition for living while limit the production of a third member. Through such mechanism, the whole group survive and live in moderate coexistence, just like the effect of the philosophical theory.", 
+        "id": "594"
+    }, 
+    "UT-Tokyo": {
+        "school": "University of Tokyo, Tokyo, Japan http://www.u-tokyo.ac.jp/index_e.html", 
+        "description": "Students from a variety of deparments of the University of Tokyo.", 
+        "title": "SMART E.coli: Self Mustering with Aspartate-Responsive Taxis", 
+        "track": "Manufacturing", 
+        "abstract": "Bio-systems as a means for environmental remediation have been extensively investigated. However, these devices have often been limited by the requirement of a high cell density at the target site in order to achieve higher efficiencies. To overcome this, we devise an inducible self- assembling system in Escherichia coli utilizing L-aspartate (L-Asp) chemotaxis. Our system consists of two cell types: 'guiders' and 'workers'. When exposed to a signal, the former discharge and generate a signal-centered spatial L-Asp gradient, and the latter lose motility by repression of a flagellum-regulating gene (cheZ). These cells remain at the source of the signal and cannot escape. Using E. coli-derived stress-sensitive promoters cloned de novo, we provide evidence that our system enables auto-assembly and localization after exposure to ultraviolet radiation. Since the input can be varied to other inducible promoters, we anticipate that our system to greatly enhance the potential of engineered cellular machineries.", 
+        "id": "518"
+    }, 
+    "Tokyo_Metropolitan": {
+        "school": "Tokyo Metropolitan University Hachioji 192-0397, Tokyo, Japan http://dept.biol.metro-u.ac.jp/en/", 
+        "description": "iGEM team in the Tokyo Metropolitan University", 
+        "title": "BeE.coli", 
+        "track": "Health & Medicine", 
+        "abstract": "\"We propose the project \"\"BeE.coli\"\" as a micro injection system. BeE.coli has the abilities to move fast and target pathogens concentrated area. Getting close to pathogens, it sends the killer gene to them with conjugation. Then pathogens will be killed. To accomplish this project, we planned to add three functions to E.coli. First, expression of the mutant H-NS proteins enables E.coli to move faster. This contributes to increasing the frequency of conjugation. Second function is new taxis for AHL. We make the target bacteria as a model of pathogens, and they produce AHL. BeE.coli goes for the area where high concentrations of AHL that means concentration of target bacteria. Last, BeE.coli kills pathogens by sending the killer gene with the conjugative plasmid. BeE.coli has the anti killer gene repressing the killer gene. In the future, BeE.coli will be useful for medical scenes. \"", 
+        "id": "543"
+    }, 
+    "SJTU-BioX-Shanghai": {
+        "school": "Shanghai Jiao Tong University Shanghai, China www.sjtu.edu.cn", 
+        "description": "Team from Bio-X center of Shanghai Jiao Tong University", 
+        "title": "Codon Switch Controlling Protein Biosynthesis", 
+        "track": "New Application", 
+        "abstract": "\"SJTU-BioX-Shanghai iGEM team is designing a modulating device that achieves fine tuning of target protein biosynthesis (translation). The translation of the protein can be finely turned up/down with the control of the number of rare codons and the different strength of tRNA induction. Besides, our device can be made into a real switch that can be turned on/off without background protein expression in two ways. One is to use any codon but initial codons to initiate translation, the other is to use stop codon as the controlling element. Moreover, our design would be a brand-new way to selectively express part of a gene or introduce point mutations into target residues in proteins, thus favoring the study of the important domains or residues of a target protein. \"", 
+        "id": "567"
+    }, 
+    "Washington": {
+        "school": "University of Washington, Seattle, WA http://www.washington.edu/", 
+        "description": "University of Washington (Seattle) iGEM Team 2011", 
+        "title": "\"Make it or Break it: Diesel Production and Gluten Destruction, the Synthetic Biology Way\"", 
+        "track": "Food & Energy", 
+        "abstract": "Synthetic biology holds great promise regarding the production of important compounds, and the degradation of harmful ones. This summer, we harnessed the power of synthetic biology to meet the world's needs for fuel and medicine.  Make It:  We constructed a strain of Escherichia coli that produces a variety of alkanes, the main constituents of diesel fuel, by introducing a pair of genes recently shown convert fatty acid synthesis intermediates into alkanes.  Break It:  We identified a protease with gluten-degradation potential, and then reengineered it to have greatly increased gluten-degrading activity, allowing for the breakdown of gluten in the digestive track when taken in pill form.  Finally, to enable next-generation cloning of standard biological parts, BioBrick vectors optimized for Gibson assembly were constructed and used to construct the Magnetosome Toolkit: genes for biofabrication of magnetic particles.", 
+        "id": "590"
+    }, 
+    "CBNU-Korea": {
+        "school": "Department of Microbiology,Chungbuk National university, Chung-ju city, Chung-buk, Korea, Republic of http://microbio.chungbuk.ac.kr/", 
+        "description": "we will get a Novel Prize!", 
+        "title": "\"GOD, Genome Organization & Design for synthetic minimal genome.\"", 
+        "track": "Software Tools", 
+        "abstract": "\" Synthetic minimal genome is the smallest possible group of genes that would be sufficient to sustain cellular life form. However, synthesizing genome is kind of tough way. So, we decide to synthesize minimal chromosome which consists of essential genes and has normal nature of normal chromosome such as self-replication, partition and control.For this project, we employed chromosome II of v.cholerae and used some genes about replication system(rctA, rctB and origin of chromosome II) and partition system(parA, parB and several parS sites) of chromosome II.Also, we are developing our own essential gene database and genome organization design software named 'GOD' that can solve design problem until unsolved. Both are based on pattern, arrangement and direction data of genes from DEG and NCBI with statistical analyzing.\"", 
+        "id": "605"
+    }, 
+    "USTC-China": {
+        "school": "University of Science and Technology of China Hefei, Anhui, China http://ustc.edu.cn", 
+        "description": "University of Science and Technology of China iGEM 2011 wetlab team", 
+        "title": "Bacterial 'Amitosis'", 
+        "track": "Foundational Advance", 
+        "abstract": "So far we have successfully constructed a novel system in which bacterial colonies will automatically divide into two parts after certain time. Over the summer we have been working on assembling riboswitches finely tuned by small molecules, which will act as the main power to drive two parts away from each other, and toggle switches pushed on and off while memorizing current state, which will play the role of giving birth to two 'different' kinds of bacteria in one colony. Furthermore, we have been modulating the toggle switch to produce a more balanced ratio and creatively integrating quorum sensing into our system to optimize our results.As to modeling, we have not only been building models of the movement in this 'amitosis', but also been collecting and analyzing data for a aptamers database for small molecules and corresponding genomic sequences and structures in guiding bacteria.", 
+        "id": "557"
+    }, 
+    "Calgary": {
+        "school": "University of Calgary", 
+        "description": "The University of Calgary iGEM team", 
+        "title": "Senseomonas NAstytoxins (title formatting: Italicize)", 
+        "track": "Environment", 
+        "abstract": "\"The University of Calgary's iGEM team is working on developing an electrochemical biosensor for Naphthenic Acids (NAs).  NAs are toxic surfactants released into tailings ponds as a by-product of the bitumen extraction process of oil sands.  Microorganisms indigenous to tailings ponds that are uniquely capable of degrading NAs suggest that bioremediation may be a viable solution.  To be successful, however, levels of NAs need to be monitored and existing methods for detection are costly and offsite.  Using two NA-degrading organisms relatively new to iGEM: microalgae and pseudomonads, we used bioinformatics and a novel NA affinity-based screen in an attempt to identify a sensory element.  In the process, we have characterized an electrochemical reporter system and built a working measurement device.  We have also submitted new parts for future work in microalgae, as well as novel parts to move constructs between Pseudomonas and E. coli.\"", 
+        "id": "640"
+    }, 
+    "VIT_Vellore": {
+        "school": "School of Biosciences and Technology VIT University, Vellore-632014 India www.vit.ac.in", 
+        "description": "Team of undergraduate students", 
+        "title": "In vivo Drug Factory", 
+        "track": "Health & Medicine", 
+        "abstract": "In our project we propose a novel approach to the problem of sustained drug release, controlled using the concentrations of the target molecule and using synthetic biology.Our 'in vivo drug factory' involves using E. coli. strains which are  located in the human gut to manufacture and deliver drugs in the required concentration \u2013 controlled by a promoter. We have incorporated two safety features.-  hok/sok post-segregational killing mechanism. In case of plasmid loss during replication -minimizing the growth of unwanted bacteria-  'kill-switch' \u2013 using bacteriophage holins ensures that in the case of adverse reactions, the production can be shut off.We have chosen lactose intolerance for our pilot study as it is high prevalent and it involves a pre-characterized lacZ system. Our system is controlled by intestinal glucose concentration.Our system could be potentially used for treating other inborn errors of metabolism, when coupled with the appropriate promoter.", 
+        "id": "513"
+    }, 
+    "Edinburgh": {
+        "school": "University of Edinburgh Edinburgh Scotland United Kingdom www.ed.ac.uk", 
+        "description": "University of Edinburgh iGEM team", 
+        "title": "Improved biorefineries using synergy: a feasibility study", 
+        "track": "Food & Energy", 
+        "abstract": "\"A biorefinery is a special type of refinery in which biomass, such as plant cellulose, is converted by microorganisms into useful products. Edinburgh's 2011 iGEM project is a feasibility study into the creation of biorefineries using E. coli, the workhorse of synthetic biology; and whether biorefineries can be improved by arranging for the different enzymes involved to be in close proximity to each other, so as to create synergy between them. We investigate two methods of bringing the enzymes close together: cell surface display via Ice Nucleation Protein, and phage display via M13's major coat protein. We attempt a new DNA assembly protocol, provisionally named \"\"BioSandwich\"\". We construct computer models of synergy. Finally, we consider the broader economic and social questions surrounding the construction of a biorefinery: can it be done, and should it be done?\"", 
+        "id": "523"
+    }, 
+    "Michigan": {
+        "school": "University of Michigan Ann Arbor, MI, USA www.umich.edu", 
+        "description": "iGEM team from the University of Michigan", 
+        "title": "DNA directed cell immobilization using outer membrane protein containing zinc finger domain", 
+        "track": "New Application", 
+        "abstract": "\"The ability of zinc finger domains to selectively bind specific double stranded DNA sequences have largely been applied intracellularly, such as in engineered zinc finger nucleases for genomic manipulations. Proteins containing zinc finger domains can also be used extracellularly to precisely adhere objects to surfaces containing bound oligonucleotides. This project aims to utilize the specificity of zinc finger protein to direct binding of Escherichia coli to oligonucleotides bound on surfaces. The fusion protein engineered to contain a fragment of the OmpA membrane domain and a zinc finger domain allows the protein to be expressed on the outside of the cell while remaining bound to the host cell. Possible applications of this project include creating patterns with fluorescently labeled cells or studying cell-cell interactions.\"", 
+        "id": "618"
+    }, 
+    "Hong_Kong-CUHK": {
+        "school": "The Chinese University of Hong Kong Shatin, NT Hong Kong www.cuhk.edu.hk", 
+        "description": "A team comprises of students from various undergraduate programs at the Chinese University of Hong Kong.", 
+        "title": "ChloriColight", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Control of gene switch by phototuningConventional induction systems usually involve addition of a chemical agent that functions either by turning on or off an output event, which is equivalent to flipping an on/off switch.  In our project, we aim to replace such analog system with a phototunable cascade, which can trigger a measurable output (e.g. gene expression) according to the wavelengths, intensities, and durations of a light source in a quantitative manner.  In the long run, this system could be further modified to convert light into other types of output, such as osmolality and electric current.\"", 
+        "id": "559"
+    }, 
+    "Strathclyde_Glasgow": {
+        "school": "http://www.strath.ac.uk/", 
+        "description": "University of Strathclyde iGEM team 2011", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "521"
+    }, 
+    "Harvard": {
+        "school": "Harvard University Cambridge, MA, USA http://www.harvard.edu/", 
+        "description": "Harvard University", 
+        "title": "Engineering customized zinc finger protein arrays by massively multiplexed protein design and selection", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Gene therapy is a powerful approach for the treatment of disease; however, current therapies using viral vectors carry significant risk of tumorigenesis due to their use of non-specific gene insertion. To meet this challenge, we engineered zinc finger proteins (ZFPs), which are tailored to bind to DNA with high specificity, enabling precise genome editing. Our group has developed a foundational technology for synthesizing nearly 50,000 unique ZFPs using chip-based DNA synthesis based on bioinformatic analysis and for identifying the best binder using a novel genomically encoded 1-hybrid genetic selection scheme in a massively multiplexed fashion. Further, we employed multiplex automated genome engineering (MAGE) for facile editing of the E. coli genome enabling rapid modification of ZFP target sites, gene knockouts and silent codon substitutions. These tools allow for low-cost creation of ZFPs targeting any endogenous human gene, which will increase the accessibility of customized genome editing for gene therapy.\"", 
+        "id": "615"
+    }, 
+    "Tsinghua": {
+        "school": "Tsinghua University Beijing P.R.CHINA www.tsinghua.edu.cn", 
+        "description": "We are a group of enthusiastic students interested in iGEM and synthetic biology and always ready to share our thoughts and ideas! This is the team for Tsinghua University, Beijing, P.R.CHINA.", 
+        "title": "E. colimousine", 
+        "track": "Information Processing", 
+        "abstract": "We aim at constructing an E. Coli strain that can transport target protein along the concentration gradient of a cue molecule back and forth, acting as a bus in the information processing network.We first conjugated domain of outer membrane protein A (OmpA) with SH3 domain which has high affinity for proline-rich motif. These two together would function as a binding vehicle directly sensing substrate in the media.Considering efficient and specific release from strong binding, HIV-protease site was incorporated into the binding cassette. Another bacteria strain expressing the protease would wait on the finish line to cut off target protein.Besides loading and unloading, we took advantage of 'tar' and 'tar*' receptor to manipulate E. Coli chemotaxis along aspartate and PAA concentration gradients and control the direction of the movement and binding and releasing with transcription factors.", 
+        "id": "533"
+    }, 
+    "Bielefeld-Germany": {
+        "school": "Bielefeld University, Bielefeld, Germany www.uni-bielefeld.de", 
+        "description": "Team from Bielefeld University", 
+        "title": "The Bisphenol A-Team: A Cell-free Approach for Biosensors", 
+        "track": "Manufacturing", 
+        "abstract": "The development of sensitive and selective biosensors is an important topic in synthetic biology. We want to provide nanobiotechnological building blocks as a basis for cell-free biosensors. Therefore we worked with S-layers (crystalline bacterial surface layers) which build up well-defined nanosurfaces and can be attached to the surface of beads. As an example we are developing a cell-free bisphenol A (BPA) biosensor based on a coupled enzyme reaction fused to S-layer proteins for everyday use. BPA is a supposedly harmful substance which is e.g. used in the production of polycarbonate. To detect BPA it is degraded by a fusion protein under formation of NAD+ which is detected by a NAD+-dependent enzymatic reaction with a molecular beacon.", 
+        "id": "525"
+    }, 
+    "Grenoble": {
+        "school": "University Joseph Fourier (Grenoble 1), Grenoble, France, http://www.ujf-grenoble.fr  Grenoble Institute of Technology, Grenoble, France, http://www.grenoble-inp.fr", 
+        "description": "We are forming a joint team with student from the university of Grenoble (biology students) and the major engineering school in Grenoble, the Grenoble Institute of Technology (engineering students).", 
+        "title": "MercuroColi: A new way to quantify heavy metals.", 
+        "track": "Environment", 
+        "abstract": "Our project aims at constructing an easy to use, transportable sensor capable of quantifying the concentration of mercury, in an aqueous sample. Our system is based on a comparison between an unknown mercury concentration and a known IPTG concentration. A linear IPTG gradient is present on a test-strip containing the engineered bacteria. When the mercury solution is added, the regulatory network will switch to one of two states depending on the IPTG/mercury ratio. Bacteria become either 'sender' or 'receiver'. The bacteria sensing a predominance of mercury over IPTG, the 'senders', will release a quorum sensing molecule which is detected by the nearby 'receivers'. The reception of quorum sensing molecules will induce the expression of a red dye in the 'receivers'. In this way, a red line emerges at a position in the IPTG gradient from which the unknown mercury concentration can be deduced.", 
+        "id": "545"
+    }, 
+    "Northwestern": {
+        "school": "Northwestern University: Evanston, IL, USA www.northwestern.edu synbio.northwestern.edu", 
+        "description": "Northwestern University", 
+        "title": "My NU P.A.L.", 
+        "track": "Health & Medicine", 
+        "abstract": "\"Pseudomonas aeruginosa is an opportunistic pathogen commonly found in immunocompromised patients.  In addition to being the primary cause of lung infections in cystic fibrosis patients, many severe nosocomial infections can be attributed to P. aeruginosa. Currently, the standard detection method requires a potential sample to be grown overnight and then screened for the pathogen of interest. Our goal is to create a faster detection method without sacrificing reliability or experimental resolution. To realize our objective, we harnessed the native cell signaling and quorum sensing machinery of P. aeruginosa.  Quorum sensing in P. aeruginosa is a complex hierarchy that governs the expression of numerous virulence genes. Quorum sensing elements from P. aeruginosa were transplanted into E. coli and used to express detectable reporters. We are thus creating a novel biosensor capable of detecting the presence of P. Aeruginosa both quickly and effectively.\"", 
+        "id": "575"
+    }, 
+    "Tokyo-NoKoGen": {
+        "school": "Tokyo University of Agriculture and Technology Koganei, Tokyo, JAPAN www.tuat.ac.jp", 
+        "description": "Students from the Department of Biotechnology, Graduate School of Engineering, Tokyo University of Agriculture and Technology (Tokyo Nokodaigaku)", 
+        "title": "EcoLion - an E. coli collecting heavy metal ions in BMC", 
+        "track": "Environment", 
+        "abstract": "\"We developed the EcoLion, which collects heavy metals from the environment, aimed at cleaning up heavy-metal pollution as well as for the mining of valuable metals for industrial applications. A bacterial micro-compartment (BMC) was engineered into our E. coli micromachine to act as a tank to accumulate heavy metals. Heavy metal ions, such as Zn2+, Cd2+, and As2+, that are taken up by the cell will be trapped inside the tank by a metallothionein fused to a BMC-localizing tag. Using BMC in such a way will be very advantageous as it may achieve the accumulation of high concentrations of heavy metals in one place. The EcoLion that has stored heavy metals will be conveniently collected by light using phototaxis or self-aggregation. This EcoLion may ultimately be applied for collecting a number of different toxic or valuable molecules by using specific target-binding peptides or proteins.\"", 
+        "id": "519"
+    }, 
+    "Lyon-INSA-ENS": {
+        "school": "Institut National des Sciences appliqu\u00e9es de Lyon, France,  http://www.insa-lyon.fr/en, http://biosciences.insa-lyon.fr/  Ecole Normale Sup\u00e9rieure de Lyon, France http://www.ens-lyon.eu", 
+        "description": "INSA-Lyon and ENS-Lyon constitute the iGEM2011 competition team of Lyon.", 
+        "title": "Cobalt Buster: decontamination of trace cobalt from radioactive effluents.", 
+        "track": "Environment", 
+        "abstract": "The activity of nuclear power plants releases many radioactive elements in water. Cobalt is one of them, and is a major concern for these industries because of its high level of radiation.Currently, nonspecific ion exchange resins are used. Our E. coli 'Cobalt buster' strain aims at capturing cobalt specifically, even at extremely low concentrations, to increase resin lifetime and decrease the volume of nuclear waste. In a previous study, an E. coli strain has been modified by adding a transporter for cobalt and inactivating cobalt efflux pump.Then, our work focused on making this strain adherent in response to cobalt, via cobalt inducible production of curlis. These properties will enable to create an efficient biofilter, which will be easily separated from the effluent, allowing efficient and cheap bioremediation of trace cobalt in nuclear wastewater.", 
+        "id": "540"
+    }, 
+    "Tsinghua-A": {
+        "school": "Tsinghua University, Beijing, 100084, China www.tsinghua.edu.cn", 
+        "description": "A team from Tsinghua university automation department", 
+        "title": "ECHO: an E.Coli Homochronous Oscillator.", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Tsinghua-A iGEMers dedicate in pursuing the goal of the construction of a biological oscillator with two Escherichia coli populations expressing gene one after another, giving red and green fluorescent light alternatively. E.coli populations communicate bi-directionally by a class of signaling molecules involves in bacteria quorum sensing, that is, N-Acyl homoserine lactones (AHL), to regulate the gene expression of each other. By engineering their gene circuits, two groups (we call them CELL-A and CELL-B) will form a network, with B inducing A and A restricting B, thus cycle in a homochronous way. We have established a mechanism to change the rate of the AHL expression, allowing us to control the period and the phase of the oscillatory cycle. Moreover, a mathematical model has been made to analyze the dynamics of the system, and computer simulation software is introduced into the process.\"", 
+        "id": "574"
+    }, 
+    "UT_Dallas": {
+        "school": "University of Texas at Dallas Richardson, TX, USA utdallas.edu", 
+        "description": "University of Texas at Dallas IGEM2011", 
+        "title": "Immunobots:  a step towards intelligent probiotics", 
+        "track": "Health & Medicine", 
+        "abstract": "The human bowel hosts a rich diversity of symbiotic microflora that provides a powerful engineering platform for intelligent probiotics. These 'immunobots' will ideally work in-sync and enhance natural self-repair mechanisms for a range of intestinal diseases associated with tissue damage. Towards this end, we engineered a bacterial chemotaxis pathway that utilizes a chimeric receptor to successfully interface with the immune system. In addition, we introduced an inducible secondary bacterial population that can trigger system-wide self-destruction, conferring an additional level of user control. Each module of our system was characterized using fluorescent reporters and the integrated parts were evaluated by controlled experiments involving wound signal gradients. We envision a probiotic solution that can facilitate localized tissue repair for damage resulting from inflammatory bowel diseases, including ulcerative colitis and Crohn's disease.", 
+        "id": "569"
+    }, 
+    "UNAM-Genomics_Mexico": {
+        "school": "Centro de Ciencias Gen\u00f3micas UNAM Av. Universidad s/n Col. Chamilpa 62210 Cuernavaca, Morelos. M\u00e9xico. www.lcg.unam.mx", 
+        "description": "Team of Undergraduate Program in Genomic Sciences from Universidad Nacional Autonoma de Mexico.", 
+        "title": "Hydrobium etli", 
+        "track": "Food & Energy", 
+        "abstract": "\"Among the biological systems that produce hydrogen, the most efficient ones achieve it through reactions catalyzed by enzymes with iron-sulfur clusters which require hypoxic microenvironments to work. The bacterium Rhizobium etli, during its symbiotic relationship with the common bean Phaseolus vulgaris, can transform nitrogen gas into ammonia in a process called nitrogen fixation. In exchange the plant provides the bacteria with carbon sources and a protected niche inside its root, where Rhizobium etli reaches a hypoxic state. We will exploit this microenvironment to produce hydrogen in Rhizobium etli introducing a pathway assembled with elements from Clostridium acetobutylicum, Desulfovibrio africanus and Chlamydomonas reinhardtii, while maintaining nitrogen fixation.The two goals of our project are to make Rhizobium etli a powerful agent in environmental protection by nitrifying soils and producing hydrogen from solar energy, and to standardize the work in Rhizobials.\"", 
+        "id": "535"
+    }, 
+    "Fudan-Shanghai": {
+        "school": "Fudan University, Shanghai, China www.fudan.edu.cn", 
+        "description": "Fudan University", 
+        "title": "\"E.tree, neon light and the dinner service\"", 
+        "track": "New Application", 
+        "abstract": "What is the first thing that comes to your mind when you see this: tree, neon lights and dinner?  Christmas! Well, exactly, and that is what our project all about.Part I: E.treeThe 'leaves' change color according to the nutrients in the 'soil': if the soil is rich in nitrates, the 'leaves' are healthy and green; otherwise, the leaves turn yellow.Part II: neon lightsEach engineered E.coli emits one color of fluorescence; after a while, the light fades and another color of light is emitted. Different combination of such E.coli could therefore achieve the effect of neon lights.Part III: dinner serviceThe genetically modified bacteria involve a certain self-feedback system. When the 'customer' is starving, it orders dinner from the 'chef'; and the chef serves meals. While the 'customer' is full, it tells the 'chef' that no more food is wanted, so the 'chef' stops cooking.", 
+        "id": "604"
+    }, 
+    "IIT_Madras": {
+        "school": "IIT Madras Chennai, Tamil Nadu, India 600036 Website: www.iitm.ac.in", 
+        "description": "A group of enthusiastic undergraduates from Departments of Biotechnology and Electrical Engineering, IIT Madras.", 
+        "title": "P.rex: Photonivorous bacteria for Resolution and Efficient eXpression", 
+        "track": "New Application", 
+        "abstract": "\"Make ATP when the sun shines'. Proteorhodopsin, the inspiration for our motto is a proton pump, native to marine bacteria, that uses light to generate proton gradient across the cell membrane. This leads to Photophosphorylation, as the proton gradient drives ATP-synthase to produce ATP. We have designed a cloning vector containing a Proteorhodopsin generator which confers a survival advantage to transformants in nutrient limiting conditions. And thus, we propose a novel screening technique that uses metabolic stress to screen for transformants in the presence of light. In addition, using the stress alleviation due to proteorhodopsin activity, we intend to enhance the yield of recombinant proteins and substrate consumption efficiency.\"", 
+        "id": "572"
+    }, 
+    "Korea_U_Seoul": {
+        "school": "Korea University Seoul, Korea www.korea.ac.kr compbio.korea.ac.kr", 
+        "description": "We are undergraduates mostly majoring life sciences and biotechnology at the Korea University. We joined iGEM this year again (Previous teams were KU_Seoul in iGEM2009 and Korea_U_Seoul in iGEM2010).", 
+        "title": "Synthesis of Synthetic Micro-Alkanes ('Synfuels') in Engineered Escherichia coli", 
+        "track": "Food & Energy", 
+        "abstract": "Our team concentrated on finding the solution to the world's diminishing natural oil and gas resources and greenhouse gas emissions. The aim of our project is the production of biofuels, alkanes, using bacterial cells as factories. Alkanes, so called 'Green' hydrocarbon fuels, are chemically energetically the same as petroleum-based fuels, thus no penalty for use of conventional engines is encountered from their use. For alkane biosynthesis, we designed a synthetic circuit using bacterial bioluminescence system and aldehyde decarbonylase from Vibrio harveyi and cyanobacteria, respectively. Free fatty acids in the cells firstly are reduced and converted to fatty aldehydes by LuxC, LuxD and LuxE and then fatty aldehydes finally are decarbonylated and turned into alkanes.", 
+        "id": "610"
+    }, 
+    "UNICAMP-EMSE_Brazil": {
+        "school": "State University of Campinas - UNICAMP Campinas, SP, Brazil www.unicamp.br/unicamp/en  \u00c9cole Nationale Sup\u00e9rieure des Mines de Saint - \u00c9tienne - EMSE Saint-\u00c9tienne, France www.emse.fr/en/", 
+        "description": "Binational team composed by students of Brazil (UNICAMP) and France (EMSE).", 
+        "title": "STRESS WARS", 
+        "track": "Health & Medicine", 
+        "abstract": "\"Stress and autoimmune diseases cause imbalances in immune system, observed in the biased naive T-CD4+ Lymphocytes differentiation towards T-lymphocyte-'helper'-1 in autoimmune diseases, or Th2 in stressful condition, favoring cellular or humoral adaptive responses. This can lead to bacterial evasion of host defense systems and susceptibility to some pathogens. Since nowadays we are exposed to continuously stress, perhaps we can avoid the negative effects caused by this condition. Thus, a mechanism that counteracts this imbalance is highly desirable. The ability of some bacteria to sense stress hormones such as Catecholamines will be used to produce Interleukin-12 and inducing Th1 lineage. On the other hand, the ability to sense Nitric-Oxide released in inflammatory conditions will be used to trigger Interleukin-10 production, counteracting excessive immunity. A switch control system will sustain the balance. The 'Jedi Bacteria' containing these devices would be a useful probiotic to fight against the battle imposed by stress.\"", 
+        "id": "554"
+    }, 
+    "Potsdam_Bioware": {
+        "school": "Institute for Biochemistry and Biology University of Potsdam Potsdam Germany http://www.syntbio.net/iGEM", 
+        "description": "A team of enthusiastic students mainly from the life sciences.", 
+        "title": "\"Modification, Selection and Production of Cyclic Peptides for Therapy\"", 
+        "track": "Health & Medicine", 
+        "abstract": "\"One key task of biopharmaceuticals is the binding and blocking of deregulated proteins. Towards this goal, we mutate and select microviridins, which are tricyclic depsipeptides from cyanobacteria. They are small but stable due to their post-translational side-chain crosslinking. Microviridins have a high potential for therapy as they can block disease-relevant proteases. Yet, the possibilities of cyclic peptides are largely untapped since genetic systems for optimization are not well established. Thus, we developed synthetic systems for the mutation, selection and production of such peptides. We use the 6.5 kb microviridin (mdn) gene cluster cloned in E. coli plasmids, established random mutagenesis and generated focused libraries of microviridins. For selection against a panel of proteases, we are applying and testing phage display, and we are constructing a novel in-vivo selection device, which links protease blocking to antibiotic resistance. Our systems, including the 6.5 kb cluster, adhere to the BioBrick standards.\"", 
+        "id": "627"
+    }, 
+    "HKUST-Hong_Kong": {
+        "school": "The Hong Kong University of Science and Technology", 
+        "description": "A team of Science and Engineering undergraduates who want to have an adventure into synthetic biology and make a difference to this world", 
+        "title": "E. trojan", 
+        "track": "New Application", 
+        "abstract": "\"Adding to the already massive arsenal of bacteria, highly-resistant (HR) /E. coli/ are found to be capable of supporting less-resistant (LR) individuals experiencing antibiotic stress through indole signalling - allowing LR individuals to survive in antibiotic concentrations that would otherwise be lethal. Our team has engineered disruptor /E. coli/ expressing mutated toluene-4-monooxygenase, which facilitates indole degradation. Introducing this disruptor strain into an /E. coli/ culture of HR and LR individuals is thus hypothesized to result in massive LR cell death at a lower-than-expected antibiotic concentration. If successful, indole degradation may become a possible strategy in boosting antibiotics effectiveness in medical practices against bacteria relying on similar signalling methods. We are also constructing a novel strain of /E. coli/ that utilizes an essential gene (/nadE/) for antibiotic-free transformation and plasmid maintenance. This strain can help future iGEM teams reduce their antibiotics consumption without deviating significantly from widely used transformation protocols. \"", 
+        "id": "524"
+    }, 
+    "XMU-China": {
+        "school": "Xiamen university", 
+        "description": "young", 
+        "title": "i-ccdB: Intelligent Control of Cell Density in Bacteria", 
+        "track": "Manufacturing", 
+        "abstract": "We have developed a series of devices which program a bacteria population to maintain at different cell densities. A genetic circuit has been designed and characterized to establish a bacterial 'population-control' device in E. coli based on the well-known quorum-sensing system from Vibrio fischeri, which autonomously regulates the density of an E. coli population. The cell density is influenced by the expression levels of a killer gene (ccdB) in our device. We have successfully controlled the expression levels of ccdB by site-directed mutagenesis of a luxR promoter (lux pR) and error-prone PCR of gene luxR, and we are building a database for a series of mutation sites corresponding to different cell densities and fluorescent intensities. An artificial neural network will be built to model and predict the cell density of an E. coli population. This work can serve as a foundation for future advances involving fermentation industry and information processing.", 
+        "id": "658"
+    }, 
+    "IvyTech-South_Bend": {
+        "school": "Ivy Tech Community College of Indiana www.ivytech.edu", 
+        "description": "Biotechnology Program Undergraduates", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "664"
+    }, 
+    "West_Point": {
+        "school": "USMA West Point, NY www.usma.edu", 
+        "description": "The West Point team is a group of undergraduates interested in designing custom sensor-reporter systems for use in several environmental problems.", 
+        "title": "Visual Detection of Cholera via Modified E. Coli", 
+        "track": "Health & Medicine", 
+        "abstract": "\"Cholera (Vibrio cholerae) is a bacterium that causes intestinal infections in humans.  While it is rare in industrialized nations, cholera remains a major threat in developing nations; there are an estimated 3-5 million cases resulting in over 100,000 deaths annually.  West Point's 2011 iGEM team is developing a simple test kit to determine the presence of cholera contamination in drinking water. Inserting a plasmid coding for Beta-Galactosidase (_-Gal) enzyme induced by an arabinose promoter (araBAD) into E. coli creates a biological specimen that will produce the _-Gal in the presence of arabinose.  When the modified specimen is mixed with cholera the _-Gal is released into solution where it reacts with X-gal, also in the solution, producing a blue-violet color.  If no cholera is present, the solution remains clear.  Our technique should produce visible results in the order of minutes, rather than the typical day(s) it currently takes for similar techniques.\"", 
+        "id": "583"
+    }, 
+    "UCSF": {
+        "school": "University of California, San Francisco, CA, USA http://www.ucsf.edu/, and Abraham Lincoln High School, San Francisco, CA, USA", 
+        "description": "High school students from Abraham Lincoln High School in San Francisco work in labs over the summer at the UCSF campus.", 
+        "title": "Building a Synthetic Community: Yeast We Can!", 
+        "track": "Health & Medicine", 
+        "abstract": "Many microbial cells form biofilms as a means of survival. Biofilms are formed when a large number of microbial cells aggregate together.  This year, the UCSF iGEM team has engineered artificial biofilms via yeast cell surface display.  We synthetically engineered S. cerevisiae to form tunable biofilm-like structures by inducing the display of adhesive proteins on their surface. By combining the natural yeast mating receptors - Aga1 and Aga2 - with adhesive proteins from a variety of organisms, we created several adhesive interactions among yeast cells. Our synthetic cell adhesions can serve as a model for biofilm formation and primitive multicellular structures.", 
+        "id": "644"
+    }, 
+    "Grinnell": {
+        "school": "Grinnell College Grinnell Iowa www.grinnell.edu", 
+        "description": "Grinnell College", 
+        "title": "Exploiting the Secretion System of Environmental Caulobacter crescentus to Deliver Biofilm-inhibiting Proteins", 
+        "track": "Manufacturing", 
+        "abstract": "\"Caulobacter crescentus is a non-pathogenic aquatic bacterium that can grow to high densities in low-nutrient environments. It has a robust Type I secretion system that secretes a single protein, RsaA. This is a surface layer protein that totals 10-12 percent of all of the protein in the cell. We created a toolbox of biobrick parts that enable this system to secrete any protein of interest when fused to the C-terminal secretion signal of RsaA. Because Caulobacter is cheap and easy to grow but cannot survive in a human host, it has the potential to be an efficient chassis for enzyme-based drug delivery. As a proof-of-concept, we engineered non-biofilm forming strains of Caulobacter to secrete two enzymes, Esp and DspB, which have been shown to degrade biofilms. We tested our strains and demonstrated that our recombinant enzymes are secreted and that they do inhibit Staphylococcus aureus biofilm formation.\"", 
+        "id": "531"
+    }, 
+    "USTC-Software": {
+        "school": "University of Science and Technology of China Hefei, Anhui, China en.ustc.edu.cn", 
+        "description": "USTC Software Team", 
+        "title": "Lachesis", 
+        "track": "Software Tools", 
+        "abstract": "USTC 2011 dry team as a one has worked diligently on designing and implementing a user friendly and interacting-prone software which will get nearer to biology reality and free synthetic biologist from considering unnecessary minutia as well as help both layman and expert draw deep understanding of the mechanism on how the gene circuit run. We offer a visualizing tool which give insight into the dynamics of a biology network. User dominated parameter adjustment process is also provided to assist in getting the required behavior. In order to assess the network's immunology to parameter perturbation, a PCA analysis approach is exploited to depict the structure of a 'good' behaved region.", 
+        "id": "507"
+    }, 
+    "BU_Wellesley_Software": {
+        "school": "Boston University Boston, MA USA www.cidarlab.org  Wellesley College Wellesley, MA USA http://cs.wellesley.edu/~oshaer/", 
+        "description": "Joint team between Boston University and Wellesley College focused on creating novel bio-design automation tools coupled with creative human computer interfaces.", 
+        "title": "\"Trumpet, Puppeteer, E-Notebook, Optimus Primer, and Gnome-Surfer: A Workflow for Collaborative Research, Design, and Assembly\"", 
+        "track": "Software Tools", 
+        "abstract": "\"We present tools which facilitate the research, design, and fabrication of biological constructs. Our workflow comprises Gnome Surfer for research, Trumpet and Optimus Primer for design, and Puppeteer and E-Notebook for the construction of those designs. Gnome surfer promotes collaborative research by allowing users to browse genes, Parts, and other DNA along with their associated literature on a table-top surface. Using Optimus Primer, primers can be designed for the selected Parts. Trumpet generates permutable constructs from these Parts by interleaving invertase sites among them. To assemble these permutable constructs, we present a Protocol Automation Stack comprising a high-level programming language called Puppeteer, executable on a robot. For improving manual protocol execution, we are developing an Electronic Lab Notebook that helps capture data, and schedule resources and lab activities. Our unique tools offer an end-to-end workflow that is collaborative, includes wetlab automation and organization, and provides algorithms for designing configurable constructs.\"", 
+        "id": "577"
+    }, 
+    "Cornell": {
+        "school": "Cornell University Ithaca, NY 14853 USA cornell.edu", 
+        "description": "CU GEM", 
+        "title": "BioFactory", 
+        "track": "Manufacturing", 
+        "abstract": "\"Cornell's 2011 iGEM team has designed a new, scalable, and cell-free method to produce complex biomolecules. Current methods for purification from cellular lysate are expensive and time consuming. Biofactory utilizes modified enzymes, capable of being attached to surfaces, in the creation of a modular microfluidic chip for each enzyme. The surface bonding is performed by the well characterized biotin-avidin mechanism. When combined in series, these chips operate as a linear biochemical pathway for continous flow reactions. Additionally, we engineered E. Coli with the mechanism for light-induced apoptosis to easily lyse cultures producing the necessary enzymes. The resulting lysate is flowed through the microfluidic channels, coating them with the desired enzyme. We believe these methods will reduce unwanted side reactions, and lower the costs of producing bio-pharmaceuticals in the future. \"", 
+        "id": "597"
+    }, 
+    "Missouri_Miners": {
+        "school": "Missouri University of Science and Technology Rolla, MO USA www.mst.edu", 
+        "description": "The Missouri S&T; Synthetic Biology team", 
+        "title": "Glucose Sensor", 
+        "track": "Health & Medicine", 
+        "abstract": "\"In the bodies of people with diabetes, the ability to recognize and respond to glucose concentrations in the blood has been compromised. As a result, glucose accumulates to dangerous levels. High blood glucose concentrations can cause irreversible damage to critical organs, impairing their functionality. With parts from the iGEM registry, our team created a glucose-controlled promoter linked to a yellow fluorescence production gene in E. coli. The concentrations of glucose to which the promoter responds can be determined. Once the concentration is known, the promoter can be mutated so that it will be activated by varying concentrations of glucose and be used as a glucose sensor for people with diabetes. In the future, an insulin gene could be added to this system for use in insulin pumps, where specific glucose levels trigger insulin production in E. coli.\"", 
+        "id": "621"
+    }, 
+    "Panama": {
+        "school": "Universidad de Panama, Panama City, Republic of Panama Universidad Tecnol\u00f3gica de Panama, Panama City, Republic of Panama", 
+        "description": "Team from Panama consisting of University of Panama and the Technological University of Panama students.", 
+        "title": "Alternative E. coli Oil Spill Bioremediation Kit", 
+        "track": "Environment", 
+        "abstract": "Since late April 2010, the world has experienced a devastating oil spill throughout the Gulf of Mexico that has become one of the worst environmental disasters in worldwide history. Oil spills can pollute air and water and alter ecosystems for years. For this reason, last year's Panama team designed a BioBrick that can biosynthesize rhamnolipids under the presence of rhamnose and beta-hydroxyalkanoic acids. Rhamnolipids have emulsifying properties that reduces the surface tension of water, making the hydrocarbons easier to recover and biodegrade. This year we want to create a BioBrick that provides rhamnose for rhamnolipid biosynthesis and for other purposes as well. We also want to create a bioremediation system using existing biobricks that will produce the rhamnolipid while biodegrading the hydrocarbons in vivo. The system will be designed to operate with a lysis gene that will kill the cells once bioremediation of the contamination site is done.", 
+        "id": "653"
+    }, 
+    "UPO-Sevilla": {
+        "school": "Universidad Pablo de Olavide Sevilla, Spain www.upo.es", 
+        "description": "iGEM team from Universidad Pablo de Olavide in Sevilla, Spain", 
+        "title": "FLASHBACTER: Improving robustness in bistable systems", 
+        "track": "New Application", 
+        "abstract": "The core of our project is the development of molecular systems that reproduce the behavior of an electronic flip-flop, allowing the construction of living memory devices closer to the robustness of informatics. Several iGEM teams based their work on the construction or use of biological flip-flop systems, with more problems than expected. The UPO-Sevilla team considers the design, construction and improvement of this type of systems, encompassing different regulation levels (transcription, translation, protein proteolysis and epigenetic regulation) in different model organisms, from bacteria to yeast. We leverage our informatics knowledge to improve biological systems, so we can control precisely the cellular machinery.In addition, we intend to develop a Foundational Advance for Synthetic Biology: the miniTn7 BioBrick toolkit, a transposon-based system to integrate BioBricks into microbial genomes. And a Software tool: the BioBrick Creator, to facilitate the design of BioBrick sequences and their inclusion in the Parts Registry.", 
+        "id": "510"
+    }, 
+    "GeorgiaTech": {
+        "school": "Georgia Institute of Technology Atlanta, GA, USA", 
+        "description": "Syn Bio at the North Avenue Trade School", 
+        "title": "De Novo Adaptation of Streptococcus thermophilus CRISPR1 Defense in Bacillus Subtilis", 
+        "track": "New Application", 
+        "abstract": "A diverse range of Bacteria and Archaea acquire resistance to foreign DNA by integrating short fragments of the invading nucleic acid into clusters of regularly interspaced short palindromic repeats (CRISPRs) on their genomic DNA. For our project we have PCR amplified the CRISPR1 locus from the chromosome of Streptococcus thermophilus [DGCC7710] and ligated it into an integration vector to place it on the chromosome of Bacillus subtilis through allelic recombination on the chromosome. B. subtilis served as our model organism because it does not naturally posses a CRISPR mechanism. This should demostrate that the S. thermophilus CRISPR1/Cas system can be transferred into Bacillus subtilis and provide heterologous protection against plasmid transformation and phage infection.", 
+        "id": "582"
+    }, 
+    "ITESM_Mexico": {
+        "school": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey campus Quer\u00e9taro. Quer\u00e9taro, QRO, MX  www.qro.itesm.mx", 
+        "description": "Students from Queretaro, Mexico, and their XynE.coli project. first time n this thing", 
+        "title": "SensE.coli: Dual light controlled arabinose biosensor", 
+        "track": "Environment", 
+        "abstract": "Integrating the work of many other previous iGEM teams (Tokyo NoKoGen 2010, Chiba 2009, 2010, British Columbia 2009, Cambridge 2010, UNAM-Genomics Mexico 2010, ITESM Monterrey 2010), the aim of this project is to develop a way of giving a cell the command to perform a function at user's will, improving current lock-and-key designs.   A novel mechanism based on an E.coli chassis, was designed with two main objectives:  to sense arabinose reporting its concentration and to use light receptors to trigger the expression of the required pathways. The first receptor enables E.coli to activate (express), the arabinose sensing mechanism; whereas the second receptor activates a quick deactivation(degradation), of the sensing mechanism depriving the cell of that capability.", 
+        "id": "587"
+    }, 
+    "UANL_Mty-Mexico": {
+        "school": "Facultad de Ciencias Biologicas Universidad Autonoma de Nuevo Leon Monterrey Nuevo Leon, Mexico http://www.fcb.uanl.mx/www/", 
+        "description": "The iGEM team from the Universidad Autonoma de Nuevo Leon (UANL) in Monterrey, Mexico  J. Claudio Moreno-Rocha secondary email: igem2011jc@gmail.com", 
+        "title": "Simple Light Code Interpretation Enabling Circuit in Escherichia coli", 
+        "track": "Information Processing", 
+        "abstract": "Information processing through living things remains a challenge to science. Genetic logic-gates and switches have been used to this purpose[1]. Moreover, light induction systems have been recently constructed[2]. Our project aims to enable a bacterial community, constituted by three E. coli strains, to interpret a simple light based code. Chromosome insertion of light induction's genes will be performed in order to create light responsive chassis. Furthermore, each strain will contain plasmids carrying the genetic constructions needed for the interpretation of the code, which relies on logic-gates and switches. Phage lambda's based biphasic switch[3], which theoretically allows controlling the independent expression of two different proteins through a single input, is introduced to iGEM.", 
+        "id": "566"
+    }, 
+    "Alberta": {
+        "school": "University of Alberta Edmonton, Alberta, Canada www.ualberta.ca", 
+        "description": "The University of Alberta iGEM team", 
+        "title": "Genetically engineering a common fungus to produce biodiesel from cellulosic waste.", 
+        "track": "Food & Energy", 
+        "abstract": "\"Converting food into biofuel is an unsustainable proposition. Our project focuses on the creation of cellulosic biodiesel using waste products. We are engineering Neurospora crassa, a highly efficient cellulose metabolizer, to produce an excess of fatty acids by both inhibiting beta oxidation and up-regulating fatty acid synthesis by the one-step replacement of the FadD gene with a thioesterase gene. We are testing the growth of Neurospora on a variety of waste substances and are developing an efficient chemical esterification method to convert the fatty acids into fatty acid methyl esters, a common biodiesel requiring no changes to current fuel delivery infrastructure.  Neurospora crassa's broad substrate preferences give it unique advantages for bioproduction from cellulose. We have therefore developed an efficient and reliable system for modular bioengineering of Neurospora including a starter kit of basic reusable parts with the intent of creating a novel chassis for metabolic engineering and synthetic biology. \"", 
+        "id": "612"
+    }, 
+    "Bard-Annandale": {
+        "school": "Bard College Annandale-on-Hudson, NY, USA www.bard.edu", 
+        "description": "This is the iGEM team of Bard college", 
+        "title": "Zener Diode Quorum Sensing:  Communication in One Direction at a Time", 
+        "track": "Information Processing", 
+        "abstract": "\"A directional quorum sensing system was made using E. coli immobilized in a microfluidic chip. One strain of E. coli carrying the LuxI and LuxAB genes was trapped in hydrogel at one end of microfluidic channel.  Another strain of E. coli carrying a LuxR operon attached with a GFP reporter gene and LuxCDE gene was similarly trapped at the other end of the channel. Depending on the direction of flow, one group of E. coli will be downstream of the other and therefore capable of receiving a chemical signal.  Acting as an analog of zener diode, this device is capable of controlling the direction of communication between the E. coli. The orthogonal visual responses, one fluorescent and one luminescent, should be clear indicators of which way communication took place. This device is a novel member of the growing toolkit available to perform logic operations with living systems.\"", 
+        "id": "595"
+    }, 
+    "Uppsala-Sweden": {
+        "school": "Uppsala University, Uppsala, Sweden, www.uu.se", 
+        "description": "Students majoring in natural sciences or engineering with an emphasis on biology, molecular biotechnology and/or quantitative approaches (mathematics, computer science, physics and chemistry)", 
+        "title": "Expand the colidroids into colorful light sensing", 
+        "track": "New Application", 
+        "abstract": "\"Regulation of gene expression by light-sensing is a milestone in synthetic biology. In this project we strive to upgrade the existing coliroid system by making it triple-chromatic.Our triple-chromatic coliroid system employs sensors for red light, green light and blue light in one and same platform. These sensors are to be activated both independently and together. This functions as a triple-switch of genetic regulation. In combination of switching the individual sensors on-and-off, one can achieve higher dimensions of transcriptional control. The proof of concept is shown by coupling each type of sensor with chromoproteins, proteins that naturally show color when expressed.Instead of visualization by e.g. UV light, our colidroid system can be visualized with naked eye. Other than a bacterial piece of art, our system will be very useful in the future concerning e.g. biomaterial. \"", 
+        "id": "592"
+    }, 
+    "CongoDRC-Bel_Campus": {
+        "school": "UNIVERSITY TECHNOLOGY BELCAMPUS", 
+        "description": "12  STUDENT AND 2 PROFESORS", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "534"
+    }, 
+    "METU-BIN_Ankara": {
+        "school": "Middle East Technical University - METU  Ankara - Turkey  http://www.metu.edu.tr/", 
+        "description": "METU-BIN is an interdisciplinary research team whose main focus is on the intersection of Systems Biology approaches and Synthetic Biology applications. For this aim METU-BIN team is composed of 9 students and 2 advisors from different disciplines such as Electronics, Computer Science, Mathematics, Statistics, Bioinformatics and Molecular Biology.", 
+        "title": "M4B: Mining for Biobricks", 
+        "track": "Software Tools", 
+        "abstract": "\"Main goal of METU-BIN 2011 project is to provide  a web based tool that helps synthetic biologists at the pre-experimental step to design their genetic constructs using the biobricks according to their input and output parameters.1-        A network of all bioparts in 2011 distribution will be generated, which describes the functional relations between the subatomic bioparts.2-        A search algorithm will be developed to reveal all possible device combinations for the user defined input and output within bioparts of 2011 distribution.3-        Visualization tools will be applied for graphical representaiton of the results.4-        A web-based user interface will be provided for the developed software.The functional relations of subatomic bioparts will be examined and each combination will be registered as one incidence. The most frequently used combinations will be given a priority while providing the possible device combinations as a list which satisfies the user defined requirements.\"", 
+        "id": "536"
+    }, 
+    "Virginia_Tech": {
+        "school": "Students from multiple schools working over the summer at Virginia Tech.", 
+        "description": "This team is focused on the experimental validation of GenoCAD.", 
+        "title": "Fluorescent Protein Characterization", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Fluorescent proteins have become ubiquitous tools for studying cellular processes. To be particularly effective for these applications, fluorescent proteins must feature fast maturation and degradation rates, and these rates must be well-characterized and documented. The 2011 VT iGEM team has worked to find and characterize fluorescent proteins and degradation tags that more quickly degrade them.  Here, we present chemical and mathematical models based on two parameters, maturation and degradation rates, and in doing so, we explored difficulties in the process of characterizing parts. In conducting our experimentation, we tested fluorescent proteins with different degradation tags in Escherichia coli and Saccharomyces cerevisiae using automated fluorescent microscopy techniques, and then worked to determine a comprehensive, accurate mathematical basis for fluorescent protein characterization. \"", 
+        "id": "555"
+    }, 
+    "ENSPS-Strasbourg": {
+        "school": "School of Physics of Strasbourg, ENSPS Strasbourg  ESBS, School of Biotechnology Strasbourg", 
+        "description": "A team of computer scientists belonging to the school of physics of Strasbourg", 
+        "title": "Biobricks model generator for electronic simulators", 
+        "track": "Software Tools", 
+        "abstract": "\"Despite the research made in the field of automation of the design of synthetic biosystems, there is no existing generic tool for the moment. However, in the field of microelectronics, automated system design has been proven over 40 years experience. By analogy with the behavior of biosystems and the working of some electronic circuits, it seems possible to rely on microelectronics tools to design biosystems. This project is aimed to create a graphical user interface for designers of synthetic biosystems. This would help them in their design process by simulating the system. The midterm objective is to base the software on the database of biological material, fed by other iGEM teams. It will model the studied system in an electronic modeling language and provide simulation results to the user.\"", 
+        "id": "522"
+    }, 
+    "NTNU_Trondheim": {
+        "school": "Norwegian University of Science and Technology, Trondheim, Norway www.ntnu.edu", 
+        "description": "Undergraduate team", 
+        "title": "Fluorescent Stress Sensor", 
+        "track": "New Application", 
+        "abstract": "\"ppGpp (Guanosine pyrophosfate) is a global regulator of gene expression in bacteria. Production of ppGpp up-regulates central genes for starvation survival, and down-regulates genes involved in growth and proliferation, e.g. rRNA operons and the rrnB P1 promoter. ppGpp production is induced by amino acid starvation and other general stress and starvation factors, making this signal molecule suitable for monitoring stress in bacteria.The sensor consists of two parts. mCherry (a red fluorescent protein) controlled by the Lac promoter, and the Lac Inhibitor controlled by the rrnB P1 promoter.We observed a statistically significant reduction in fluorescence during growth compared to cultures with IPTG-inhibited LacI, demonstrating lacI production by rrnB P1. Results suggest that the rrnB P1 promoter produces less lacI when the cells are grown in minimal medium, possibly due to amino-acid starvation and ppGpp shutting it down. Computer modeling supports these results.\"", 
+        "id": "639"
+    }, 
+    "METU_Turkey_SoftLab": {
+        "school": "Middle East Technical University", 
+        "description": "A team consisting of Biology, Computer Engineering and Computer Education students", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "616"
+    }, 
+    "Rajasthan": {
+        "school": "University of Rajasthan,Jaipur.", 
+        "description": "team is composition of m.Tech students from various streams to enjoy the beauty of Genetics engineering and with the philosophy to a green earth.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "667"
+    }, 
+    "NYMU-Taipei": {
+        "school": "National Yang Ming University (NYMU) Taipei, Taiwan www.ym.edu.tw", 
+        "description": "National Yang Ming University (NYMU) in Taiwan has established its synthetic biology iGEM Team since 2007.", 
+        "title": "Tailoring Your Avatar", 
+        "track": "New Application", 
+        "abstract": "\"Optogenetics, the latest neuroscientific method, has improved specificity for stimulating certain cell types of neurons, reversible bi-directional stimulation, and elevated spatiotemporal precision. However, to achieve neuronal network stimulation, light cables are still needed, leaving long-standing annoying issues regarding immune responses unresolved. This year NYMU-Taipei iGEM team creates wireless neuro-stimulator, focusing on achieving remote neuro-stimulation to minimize the invasion and damage to the neuron. To achieve this goal, we use a species of magnetic bacteria, Magnetospirillum magneticum AMB-1. We have chosen mms13, a transmembrane protein as our target for protein design, as it serves as a linker between reception of wireless magnetic field and optogenetic neuro-stimulation output. Regarding the neuroimmune response, we choose three genes to achieve symbiosis within glial cell: MinC, a division inhibitor, INV, a gene for invasion and LLO, a gene for facilitated escape from phagosomes. Overall, our project will make optogenetic neuro-stimulation wireless and safe.\"", 
+        "id": "624"
+    }, 
+    "KIT-Kyoto": {
+        "school": "Kyoto Institute of Technology Matsugasaki, Sakyo-ku, Kyoto, Japan  http://www.kit.ac.jp/english/index.html", 
+        "description": "Our team consists of undergraduate students, graduate students (instructor) and professors (supervisor) of Kyoto Institute of Technology.", 
+        "title": "Mr.D -who will cure leukemia-", 
+        "track": "Health & Medicine", 
+        "abstract": "\"Our team, KIT-Kyoto challenges making a leukemia disease model in Drosophila melanogaster. Drosophila is being used as many hereditary disease model because over 70% of known human disease genes have similarities to Drosophila genes. This year, we focus on a leukemia in which the etiology and the therapy have not been established. We therefore decided to make a leukemia disease model in Drosophila. We insert human leukemia genes into Drosophila genome and also fuse a green fluorescent protein(GFP) with a leukemic protein to monitor its expression in E. coli or Drosophila. We expect that establishing a leukemia disease model in Drosophila will be a first step to determine the etiology and to establish the method of therapy in future.\"", 
+        "id": "579"
+    }, 
+    "British_Columbia": {
+        "school": "University of British Columbia Vancouver, BC CANADA ubc.ca", 
+        "description": "University of British Columbia iGEM Team 2011", 
+        "title": "iSynthase: Mass production of terpenes in yeast", 
+        "track": "Manufacturing", 
+        "abstract": "\"In nature, terpenes are mostly synthesized and secreted by plants as a defense against pathogenic attacks by insects and fungi, such as the case of the mountain pine beetle infestation. These compounds are also utilized in  pharmaceuticals, fragrances, food, and energy industries, which drives interest for high-scale production. Hence, we aim to optimize production of terpenes in Saccharomyces cerevisiae yeast by constructing the biosynthetic pathways necessary to synthesize and retain these compounds. To simulate the system, we are also developing a model of terpene production in yeast using SimBiology Toolkit in MATLAB. In parallel, we are constructing a mathematical model to predict the dynamics of the mountain pine beetle populations in British Columbia, Canada under the influence of our synthetic yeast. \"", 
+        "id": "517"
+    }, 
+    "Tokyo_Tech": {
+        "school": "Tokyo Institute of Technology 4259 Nagatsuta-cho, Midori-ku, YOKOHAMA, Japan, 226-8503 http://www.titech.ac.jp/", 
+        "description": "Students of Tokyo Institute of Technology", 
+        "title": "Cool down in summer with our rock-paper-scissors game", 
+        "track": "New Application", 
+        "abstract": "\"In Japan, summer is terribly hot. To have more pleasant summers, we created a rock-paper-scissors game in which the winner gets a refreshing shower of rain.We make it rain by producing isoprene, which is the base for the creation of condensation nuclei that are used to make rain. As it rains and water evaporates things will cool down by giving away the heat of evaporation to water.To make it even fresher, we also created urea coolers! They are pocket size and contain E. coli-synthetized urea that has been dried. By adding water to them they will cool down as the heat of solution is used to dissolve the urea.The RPS game works based on a genetic randomizer, and we have confirmed this by creating mathematical models of it. We have also optimized the urea and isoprene production by flux analysis. Let's play rock-paper-scissors and make it rain!\"", 
+        "id": "649"
+    }, 
+    "ETH_Zurich": {
+        "school": "ETH Zurich, Switzerland www.ethz.ch", 
+        "description": "Team of students from the ETH Zurich main campus and its Basel-located Department of Biosystems Science and Engineering", 
+        "title": "SmoColi", 
+        "track": "Information Processing", 
+        "abstract": "SmoColi is a bacterio-quantifier of acetaldehyde concentration that can be used as a passive smoke detector. Acetaldehyde is a toxic and carcinogenic component of cigarette smoke. It has a boiling point of 20.2C and is very volatile, thus can be used as an information carrier through air. The SmoColi cells are immobilized in an agarose-filled microfluidic device. The test solution is fed on one end of a microfluidic channel, in which an acetaldehyde gradient is established by synthetic cellular degradation. The cells are engineered to sense acetaldehyde by a synthetically re-designed fungal acetaldehyde-responsive transactivator. The sensor is linked to a band-pass filter that drives GFP expression. This allows establishment of an input-concentration-dependent, spatially located fluorescent band displaying quantitative information about acetaldehyde. Finally, if the acetaldehyde concentration exceeds the threshold of malignance, a quorum-sensing-based mCherry alarm system springs into action, turning the whole device red.", 
+        "id": "625"
+    }, 
+    "HSU": {
+        "school": "Huangshan University Huangshan,Anhui,China www.hsu.edu.cn", 
+        "description": "Huangshan University iGEM 2011 team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "573"
+    }, 
+    "NCTU_Formosa": {
+        "school": "National Chiao Tung University Hsinchu, Taiwan", 
+        "description": "Department of biological science and technology, National Chiao Tung University", 
+        "title": "Pathway Commander", 
+        "track": "New Application", 
+        "abstract": "\"Controlling the flux through a synthetic metabolic pathway lies in selecting well-matched genetic components that when coupled, can reliably produce the desired behavior. Each generating different protein expression levels in order to test performance in reliability and consistency, but this process is both tedious and time consuming. To overcome this problem, our team provided a novel circuit design method_ Pathway Commander. We construct a single version of a synthetic metabolic pathway circuit that can use culture temperature shifts to control the expression levels of a series of metabolic proteins at the precise times. We have implemented the Pathway_Commander design in (1) Carotenoid synthesis Pathway, (2) Violacein biosynthesis pathways and (3) Butanol synthesis pathway in E. coli. This circuit design utilizes a temperature controlled system that gives precision control over metabolic protein expression which amounts to optimal synthesis that can maximize synthesis of a given compound or drug. \"", 
+        "id": "539"
+    }, 
+    "Rutgers": {
+        "school": "Rutgers, The State University of New Jersey New Brunswick, NJ, USA www.rutgers.edu", 
+        "description": "2011 Rutgers University iGEM team", 
+        "title": "Complex Circuits in Synthetic Biology", 
+        "track": "Information Processing", 
+        "abstract": "\"The Rutgers iGEM Team designed two complex genetic circuits, Etch-a-Sketch and Full Adder, and created a software tool, MYS!S. The Etch-a-Sketch circuit enables a lawn of bacteria to be drawn on with a laser. This seemingly inconsequential task presents many engineering challenges: the bacteria need to be sensitive in order to respond to a laser pulse, yet selective to use in ambient lighting. The second circuit allows bacteria to emulate a digital full adder. The circuit makes use of individually non-functional split reporters that can reform functional reporters with the help of fused 'zipper' domains. In addition to the circuit, we have made easily fuse-able BioBricks of these domains in order to facilitate the engineering of more split proteins, which should assist in the creation of logic circuits. MYS!S aims to improve the parts registry by checking and giving directions to modify Biobricks to conform to assembly standards. \"", 
+        "id": "588"
+    }, 
+    "TzuChiU_Formosa": {
+        "school": "Tzu Chi University, Hualien, Taiwan Website: www.tcu.edu.tw", 
+        "description": "Tzu Chi University is located at the Eastern Taiwan. TzuChiU_Formosa participated iGEM in 2009 for the first time and is happy to meet with all teams from worldwide this year. Our team members will come from various departments of Tzu Chi University.", 
+        "title": "Photo-Paper", 
+        "track": "Manufacturing", 
+        "abstract": "\"For centuries, paper-making has been a traditional but indispensable industry. Wood pulp is the major raw material for paper-making, moreover, the complicated processes toward paper-making may contribute to deforestation and environmental pollution. Gluconacetobacter hansenii is a bacterium which produces bacterial cellulose. It has an acs operon, consisting of genes that called acsAB, acsC, and acsD. Together these genes used UDP-glucose as substrate and synthesize. We aim to clone acs operon and transform it into environmental friendly and economical microbes in order to produce large amount of cellulose for paper industry. In doing so we minimized global deforestation as well as CO2 emission. We also aim to introduce acs operon into cyanobacteria which would used only light, CO2 and water to produce glucose and the acs operon to produce cellulose. With manufacturing processes, we believe this project can develop into a new, eco-friendly thus revolutionized the paper industrial. \"", 
+        "id": "571"
+    }, 
+    "Freiburg": {
+        "school": "University of Freiburg Baden-W\u00fcrttemberg Germany http://www.uni-freiburg.de", 
+        "description": "A biology-oriented team of students from the University of Freiburg", 
+        "title": "Lab in a cell -  protein purification", 
+        "track": "Foundational Advance", 
+        "abstract": "\"In the future more therapeutic proteins will be produced by the pharmaceutical industry to cure various diseases. The key to allow less developed countries to improve their own research in this field lies in making large scale protein purification fast and affordable but also ecofriendly to save precious resources. By eliminating routine use of expensive materials, our novel tool will utilize sustainable laboratory equipment and widespread His-Tag technology to guarantee reliable protein purification for all.We propose an expression system induced by blue, green and red light, combined with subsequent temperature controlled autolysis of E. coli. Purification of the his-tagged protein of interest will be accomplished by an adaptor protein of our own design which binds the His-Tag on one side and the surface of serological pipettes on the other. Two subsequent pipetting steps for washing and purification of the cell lysate will quickly elute the product.\"", 
+        "id": "608"
+    }, 
+    "Nairobi": {
+        "school": "University of Nairobi Nairobi Kenya", 
+        "description": "University of Nairobi igem team", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "591"
+    }, 
+    "Duke": {
+        "school": "Duke University Durham, NC, USA www.duke.edu", 
+        "description": "Duke iGEM team 2011", 
+        "title": "Engineering Bacterial Genetic Toggle Switch Controllers Using Synthetic Zinc Finger Transcription Factors", 
+        "track": "New Application", 
+        "abstract": "\"Additions to the synthetic biologists' toolkit are expected to be interoperable and modular in order to facilitate standardization of these tools. The Genetic Toggle Switch originally presented by Collins et al (2000) was a major breakthrough in synthetic biology and utilized constitutive promoters. Here, we use Zinc Fingers as transcriptional repressors in a newly designed interfacing network, the controller, for a modified version of the original toggle switch. The controller interface is made with emphasis on interoperability and applications in mind. Specifically, we use zinc finger repressors and degradation tags to reduce cross-talk and make the network more robust. Nine ZF transcription factors are computationally characterized and submitted to the registry. The interfacing controller and toggle switch are stochastically modeled to predict gene expression levels and are subjected to experimental testing. \"", 
+        "id": "655"
+    }, 
+    "uOttawa": {
+        "school": "University of Ottawa", 
+        "description": "Undergraduates from University of Ottawa, Canada", 
+        "title": "A platform for robust quantification of transcriptional regulators and promoters and a new assembly protocol", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Currently, there are few tools for quantitatively characterizing BioBricks in the model organism S. cerevisiae. Furthermore, current standard BioBrick assembly protocols continue to be laborious, and have the tendency to deliver inconsistent results. To address this issue, team uOttawa has engineered two strains of S. cerevisiae that allow for the rapid integration of both transcriptional regulators and their trans-regulated promoters. Transcriptional factors (TF) and promoters transformed into these strains yield fluorescently tagged TFs or fluorescently reported promoters respectively. This dual-colour system enables the quantification of the relationship between TF expression and promoter responsiveness. To expand the registry with well-characterized parts, all of these tagged transcriptional regulators and promoters will be submitted. Finally, we also describe a fast, efficient and cost-effective assembly protocol developed by our lab that was used to assemble all constructs built by our team. \"", 
+        "id": "642"
+    }, 
+    "Imperial_College_London": {
+        "school": "Imperial College London London, UK imperial.ac.uk", 
+        "description": "Imperial College London 2011 iGEM team", 
+        "title": "When AuxIn met Root", 
+        "track": "Environment", 
+        "abstract": "\"In an effort to combat soil erosion, we have developed the AuxIn system. This system is comprised of three modules combined in an E. coli chassis. The first involves secretion of the plant growth factor indole 3-acetic acid (auxin). This plant hormone will promote root growth which is essential for anchoring soil.The second module rewires the chemotactic mobility of the cell by introducing a novel receptor protein which is sensitive to root exudates. The bacteria can then be naturally taken up by root cells for targeted auxin delivery. The final module uses a toxin-antitoxin system to prevent horizontal gene transfer. While the plasmid containing the AuxIn system can be maintained inside our chassis, it will induce lysis in any other bacteria.By improving root growth, the AuxIn system provides a synthetic biology approach to tackling worldwide problems such as soil erosion and desertification. \"", 
+        "id": "515"
+    }, 
+    "ArtScienceBangalore": {
+        "school": "Srishti School of Art, Design and Technology http://srishti.ac.in", 
+        "description": "ArtScienceBangalore is a team of young artists and designers exploring synthetic biology", 
+        "title": "Everything is Everywhere but our PCR selects (Ubiquitous Genetically Engineered Machines)", 
+        "track": "Environment", 
+        "abstract": "The Biobrick has been used as an abstraction or template for creating standardized functional parts. This year's ArtScienceBangalore project proposes alternate  re-appropriations of the BioBrick by using existing BioBrick primers as random-PCR primers in investigating soil samples. This random PCR will provide a succinct signature of the biological diversity present in these samples. These investigations of soil lead us to ask questions about citizen's science 'performed' by non-institutional actors using accessible tools as well as gives us a glimpse into the 'post-natural world' where BioBricks may end up in our environment and may very well show up as bands in a gel. By imagining a world in which the Biobrick has become the accepted standard for synthetic biology, and where these engineered products are ubiquitous in our lives and environments, the samples we archive will serve as the baseline from which the subsequent extent of human influence can be measured.", 
+        "id": "645"
+    }, 
+    "Groningen": {
+        "school": "University of Groningen", 
+        "description": "iGEM team from the University of Groningen", 
+        "title": "Count Coli", 
+        "track": "Information Processing", 
+        "abstract": "\"Our project aims to design a genetic device able to count and memorize the occurrences of an input signal. We  achieved this by utilization of auto-inducing loops, that act as memory units, and an engineered riboregulator, acting as an AND gate. The design of the device is modular, allowing free change of both input and output signals. Each increase of the counter results in a different output signal. The design allows implementation of any number of memory units, as the AND gate design enables to extend the system in a hassle-free way.In order to tweak bistable autoinducing loops we need a very fast and robust method for characterizing parts. For this we have created a genetic algorithm that will enable us to find parameters of the parts used in the design. It also allows the combination of data from multiple experiments across models with overlapping components.\"", 
+        "id": "607"
+    }, 
+    "Peking_S": {
+        "school": "Peking University Haidian District,Beijing, P.R.C www.pku.edu.cn", 
+        "description": "Beyond the interest, beyond the responsibility, beyond the science and, beyond the competition. We highly expect a communication  with anyone who is interested in iGEM and synthetic biology!", 
+        "title": "A 'Chemical Wire' Toolbox for Synthetic Microbial Consortia", 
+        "track": "Information Processing", 
+        "abstract": "Cell-cell communication-based multicellular networks provide an extended vista for synthetic biology. However, 'chemical wires' that allow versatile concurrent communications are far from sufficient.Accordingly, our project intends to develop a versatile 'chemical wire' toolbox for both multicellular Boolean computing and non-Boolean dynamics by two approaches. Firstly, a set of recently reported novel quorum sensing systems have been characterized. Secondly, quorum sensing (QS) based transcriptional repression system have been built from the ground up by conversing LuxR family of transcription activators into repressors. We next sought to develop design rules of microbial consortia as supplements to this toolbox. To validate this toolbox together with the design rules, several robust combinational and sequential logic circuits that are difficult to be implemented in single cell have been constructed as a proof of concept for Boolean logic. As for non-Boolean dynamics, a balancer of microbial population density have been created with supporting microfluid device.", 
+        "id": "581"
+    }, 
+    "Peking_R": {
+        "school": "Peking University,Beijing,China www.pku.edu.cn", 
+        "description": "We are the Peking_R team aiming at rational modification of metabolic pathways. We hope to make new friends who are interested in iGEM and synthetic biology through this competition!", 
+        "title": "Soft-coding of genetic program for synthetic biology", 
+        "track": "New Application", 
+        "abstract": "\"During genetic program tuning, mutagenesis and following screening of each mutant, which can be named as hardcoding approach, is usually the only choice, although laborious and time-consuming. But actually there can be an alternative - softcoding approach, which refers to designs that allow for the customization of performance of genetic programs via external input without having to edit the DNA sequence case by case.This year our team aims to establish a genetic fine-tuning platform based on the softcoding of genetic program in bacteria, composed of a toolbox and a methodology -- The toolbox consists of interoperable and modular ligand-responsive riboswitches/ribozymes, while the methodology is automated design of synthetic RBS with customized translation rate. When combining them together, the configuration of RBS strength in genetic program can be fast and easily determined by variable concentration of external ligand and an RBS that meets this configuration will be automatically generated.\"", 
+        "id": "598"
+    }, 
+    "SYSU-China": {
+        "school": "Sun Yat-sen Univ. Guangzhou,Guangdong,PRC www.sysu.edu.cn", 
+        "description": "Students who are geeks", 
+        "title": "Nuclear-Leakage Rescuer", 
+        "track": "Environment", 
+        "abstract": "\"As the nuclear-leakage issue in Japan has caught world-wide attention this year, we consider that engineered E. coli nuclear cleaner will be effective to this issue. Our project consists of two parts. On one hand, the radiation-sensitive promoter PrecA and gene CheZ will build chemotaxis to Ionising radiation and lead engineered E.coli to move toward seriously affected places. On the other hand, when moved in a proper radiation level, the less radiation-sensitive promoter PrecN and gene trkD will activate a kind of ion channel which can absorb the Cs+ ions.  Our nuclear cleaner will become capable in dealing with the nuclear-leakage issue. We also tried to get the idea of synthetic biology known by designing an iPhone app and a card game, carrying a survey and holding forums.\"", 
+        "id": "629"
+    }, 
+    "Colombia": {
+        "school": "Universidad de Los Andes, Bogot\u00e1, Colombia. Universidad Nacional de Colombia, Bogot\u00e1 Colombia.", 
+        "description": "The team is comprised by students from Biology, Physics and Engineering departments at the University of the Andes and National University at Bogot\u00e1, Colombia.", 
+        "title": "Bacterial prevention of rust headaches", 
+        "track": "Environment", 
+        "abstract": "\"Our objective is to create a bacterial 'detect and alert' system as an aid for defending coffee plantations against fungi (rust). Our bacteria will detect chitin, an organic compound found in fungal cell walls, and alert the plant by stimulating an early hypersensitive response.Two strains of bacteria will be created: one that detects chitin using a two component system from V. fischerii and produces chitinase to attack the fungus as well as a signaling molecule to activate the second strain. This second strain will process and amplify the signal, and if it decides that there is a threat it will produce a second signal that mimics the internal alarm system of the plant to activate the hypersensitive response. The design is modular to allow other combinations of fungus-host plant systems to be created easily.We expect this biocontrol method to prove very useful for farmers and reduce fungicide use.\"", 
+        "id": "669"
+    }, 
+    "CTGU-Yichang": {
+        "school": "China Three Gorges University Yichang 443002, China www.ctgu.edu.cn", 
+        "description": "The iGEM team at China Three Gorges University, Yichang, China", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "662"
+    }, 
+    "UST-Beijing": {
+        "school": "University of Science and Technology Beijing", 
+        "description": "University of Science and Technology Beijing", 
+        "title": "Gene H-transfer: bile acid receptor in E.coli & proteorhodpsin in mitochindrial inner membrane", 
+        "track": "Food & Energy", 
+        "abstract": "\"In order to celebrate the power of gene H(orizontal)-transfer between pro- and eukaryotes, we constructed two fusion proteins and tested their function: (1). a synthetic bile acid receptor in E.coli using a mammalian nuclear receptor LXR. As proof-of-principle, the regulatory circuit in symbiotic bacteria could be harmoniously linked to metabolic pathway of their host.  Potential application includes in situ synthesis of pharmaceuticals on-demand in the digestive tract.  (2) a synthetic light-driven proton pump in human mitocondrial inner membrane using a bacterial proteorhodopsin. Preliminary testing demonstrated cellular sensitivity to light radiation.  Application and utility relies on result of in-depth characterization of such system design.  \"", 
+        "id": "603"
+    }, 
+    "Nevada": {
+        "school": "University of Nevada, Reno Reno,NV  iGEM 2011 Team Nevada on Facebook!", 
+        "description": "Department of Biochemistry and Molecular Biology", 
+        "title": "So Happy Together: A Cooperative Relationship between Cyanobacteria and E. Coli for production of biofuels", 
+        "track": "Food & Energy", 
+        "abstract": "\"Traditional methods for obtaining biofuels have relied on the fermentation of agricultural crops. The problems are reduction in land available for food production, relatively low levels of CO2 biofixation, and large biomass requirements. Our project aims to overcome these problems by utilizing E. coli for the production of biodiesel (C-12 fatty acids) and bioethanol. There have been a number of examples of biofuel production in E. coli; however 30-40% of production cost is based on media costs. Our project will surmount these high production costs by engineering the cyanobacteria, Synechocystis PCC6803, to secrete large quantities of glucose that will feed our biofuel-producing E .coli. Cyanobacteria and E.coli will be co-cultivated to allow the mutual transfer of carbon to produce biofuels.  This project provides an efficient means for producing biofuels without a carbon source.  It will also create a novel cooperative system between bacterial species that may have further industrial implications.\"", 
+        "id": "558"
+    }, 
+    "UQ-Australia": {
+        "school": "University of Queensland, QLD Australia, www.uq.edu.au", 
+        "description": "we are the 2011 iGEM team from the University of Queensland", 
+        "title": "Timely E. coli: Engineering a novel cellular oscillator", 
+        "track": "Foundational Advance", 
+        "abstract": "\"The human circadian rhythm drives many important processes in the body in accordance with the sleep/wake cycle. A characteristic of this biological clock is the periodic oscillation of gene expression. Current parts in the Registry designed to regulate periodic oscillations of gene expression have shown limited success. Here we demonstrate a biological clock being standardised as a set of BioBrick parts. Our network is controlled by an engineered promoter, Plac/ara, which features both an activator and a repressor domain. This controls the production of downstream genes to activate other inducible promoters, pBAD and GlnAp2, eventually leading to the production of a repressor protein, lacI, which inhibits Plac/ara, resulting in oscillatory expression. This project shows the feasibility of standardising the biological clock in E. coli and grounds further development for applications in regulated drug/hormone delivery and ion channel control.\"", 
+        "id": "570"
+    }, 
+    "UTP-Poland": {
+        "school": "University of Technology and Life Science", 
+        "description": "University of Technology and Life Science", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "636"
+    }, 
+    "Columbia-Cooper": {
+        "school": "Columbia University, New York NY http://www.columbia.edu/ The Cooper Union, New York, NY http://cooper.edu/ Genspace NYC Inc., Brooklyn NY http://genspace.org/", 
+        "description": "Architecture Masters and engineering undergraduate students from Cooper Union and Columbia University, one instructor from each of these schools, and an instructor from the nonprofit organization Genspace NYC.", 
+        "title": "DOT DOT DOT... Environmentally-Friendly Manufacture of Quantum Dots in E. coli", 
+        "track": "Manufacturing", 
+        "abstract": "\"Quantum dots (QDs) are semiconducting nanoscale crystals with unique optical properties. They have many applications, including medical imaging, enhanced LEDs, solar cells, and solid state quantum computation. Our project pioneers a greener manufacturing process for QDs.  We are BioBricking several metal binding peptides, expressing them in E. coli, and characterizing their ability to nucleate QDs from cadmium salts. In addition, since cadmium is dangerous to the environment, we will create QDs using less toxic metals such as zinc. We are also building a manufacturing 'tuning' device that will sense specific light wavelengths emitted by nucleated QDS and activate antibiotic resistance.\"", 
+        "id": "643"
+    }, 
+    "USC": {
+        "school": "University of Southern California Los Angeles, CA, USC", 
+        "description": "University of Southern California", 
+        "title": "Bioengineering a mechanism to override plasmid-based antibiotic resistance", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Bacteria protect their genome and remove foreign DNA through a primitive immune-like system called clustered-regularly-interspaced-short-palindromic-repeats (CRISPR). Plasmids commonly used in molecular biology are mobile genetic elements that facilitate horizontal gene transfer in the wild and enable the spreading of antibioticresistance genes between microorganisms. Plasmids contain unique DNA sequences that can be targeted by the CRISPR system. We exploited this system by engineering E.coli with an inducible mechanism of self-curing plasmid based antibiotic resistance.  We synthesized a version of CRISPR encoding a spacer that matches the GFP DNA sequence. We tested the synthetic CRISPR array against E.coli harboring a tetO::GFP plasmid that confers ampicillin resistance.  Activation ofCRISPER-gfp destroys the gfp-containing plasmid restoring the bacterial host's sensitivity to ampicillin. We will use the synthetic CRISPR system as a biological tool, combining it with other BioBricks for use in applications that will impact health and medicine, biotechnology, molecular biology, and genetics.\"", 
+        "id": "512"
+    }, 
+    "Wisconsin-Madison": {
+        "school": "University of Wisconsin-Madison, Madison, Wisconsin http://www.engr.wisc.edu/iGEM/", 
+        "description": "University of Wisconsin-Madison iGEM team", 
+        "title": "Optimizing biosensors through a two-phase directed evolution", 
+        "track": "Environment", 
+        "abstract": "\"The University of Wisconsin - Madison 2011 iGEM team sought to create fluorescent E. coli biosensors for ethanol and alkanes, two molecules with significance for sustainable fuel production. Through expression of heterologous genes, E. coli strains which appear to have a response to a specific biofuel were generated. However, these biosensors did not produce the low uninduced and high induced levels of expression desired. This situation appears to be common among biosensor-based iGEM projects. In order to improve the biofuel sensors, as well as provide a framework for other teams to do the same, a universal biosensor directed evolution construct was assembled. The device can be used to both select for high expression in the presence of an analyte, as well as select for no expression in its absence. In conjunction with mutagenesis of key genes, this device could be used to significantly improve existing and novel biosensors. \"", 
+        "id": "634"
+    }, 
+    "Tianjin": {
+        "school": "Tianjin University,Tianjin,China", 
+        "description": "Our team is aiming at creating genetically engeered bacteria machine with creativity and originality.", 
+        "title": "Expecto Patronum---Reconstruction of TOR pathway to increase the tolerance of yeast to composite inhibitors", 
+        "track": "Food & Energy", 
+        "abstract": "Although 'Harry Potter and the Deathly Hallows' marks the termination of J. K. Rowling's popular novels, we recreate a fantastic world where patronus are produced by Saccharomyces cerevisiae to fight against dementors inside the cell. Ethanol fermented by yeast from lignocellulosic materials can be an environmentally friendly fuel. However, rapid and efficient fermentation of lignocellulosic hydrolysates is limited because of inhibitors generated during pretreatment in addition to monomeric sugars. Inhibitors strongly affect the normal physiology of yeast as well as its ethanol productivity, just like the dementors taking away people's hope and happiness. Nevertheless, we reconstruct TOR protein, a central component of major signaling transduction network controlling cell growth, to increase the tolerance of yeast. A new TOR after directional mutation will play the role of patronus to defend the influence of inhibitors, keep the overall signaling networks in good order, and finally provide a prosperous world for ethanol production.", 
+        "id": "563"
+    }, 
+    "LMU-Munich": {
+        "school": "Ludwig-Maximilians-Universitaet Muenchen, Germany http://www.uni-muenchen.de/index.html", 
+        "description": "A team of biologists, chemists and bioinformatics will focus on new reporter strains useful in monitoring heavy metal pollution.", 
+        "title": "WOO-HOO! - The Bacterial Heavy Metal Detector Kit", 
+        "track": "Environment", 
+        "abstract": "\"Heavy metal ions of human origin contaminate waters worldwide and represent a major threat to human health, especially in lesser developed countries. The compliance with strict drinking water quality standards as a prerequisite to a healthy living requires qualitative and quantitative methods for monitoring metal ion concentration. Applying standard chemical methods is costly, complicated and sometimes requires high-tech machinery, which is often not available.We therefore aim at creating a set of bacterial biosensors for some of the most toxic heavy metal ions found in drinking water, by fusing metal-responsive promoters under the control of transcriptional regulators with reporter genes such as GFP. The biosensors will be evaluated to qualitatively determine the metal ion specificity and subsequently quantitatively describing the concentration-dependent output of the reporters. Such a tool kit can be applied to quantify the metal ion content in water samples in an easier and cheaper way.\"", 
+        "id": "549"
+    }, 
+    "Penn": {
+        "school": "University of Pennsylvania Philadelphia, PA, USA www.upenn.edu", 
+        "description": "University of Pennsylvania iGEM 2011 team", 
+        "title": "Cellular phones - an optogenetic cellular signaling system", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Paracrine cell signaling typically occurs through chemical messengers. Such signaling is limited by diffusion coefficients and unique cell properties, and cannot easily be controlled in therapeutic applications. The goal of this project was to demonstrate light-based cell signaling in mammalian cells. Using luminescent proteins and optogenetic tools, we constructed 'Sender' and 'Receiver' HEK 293T cells which send and receive blue light, respectively. The Sender Cell expresses a 480nm light emitting protein. The Receiver Cell expresses Channelrhodopsin-2, an ion channel gated by 480nm light. When the Receiver Cell is illuminated, Channelrhodopsin-2 opens, triggering a second luminescent protein via calcium influx. Since the luciferases in this system require an externally added luciferin substrate, we have also been developing Pre-coelenterazine, a genetically encoded luciferin which could allow our system to function autonomously. Our light signaling system has eventual applications in interkingdom signaling and optical controlling of synthetic networks.\"", 
+        "id": "548"
+    }, 
+    "Caltech": {
+        "school": "California Institute of Technology Pasadena, CA, USA www.caltech.edu", 
+        "description": "Student team from the California Institute of Technology", 
+        "title": "Bioremediation of Endocrine Disruptors Using Genetically Modified Escherichia Coli", 
+        "track": "Environment", 
+        "abstract": "\"Endocrine disruptors, or substances that mimic estrogen in the body, have detrimental biological effects on the reproduction of several species of fish and birds; the Caltech team focuses on bioremediation of these toxins. Our goal is to create a system housed in E. coli that can be used to process water and remove endocrine disruptors on a large scale. We focus on isolating degradation systems for the common endocrine disruptors bisphenol A (BPA), DDT, nonylphenol and estradiol.  We synthesized known degradation enzymes DDT dehydrochlorinase, BisdA and BisdB, and characterized the behavior of these enzymes when acting on our target endocrine disruptors. In addition, we explored the potential of certain cytochrome p450s to initiate degradation of these chemicals, focusing on WT-F87A degradation of BPA. Finally, we characterized the functionality of E. coli protein processing when E. coli is deployed as an easily containable biofilm on various substances in aqueous environments.\"", 
+        "id": "620"
+    }, 
+    "BCCS-Bristol": {
+        "school": "University of Bristol, Bristol, BS8 1TR, United Kingdom www.bris.ac.uk", 
+        "description": "Team at the Bristol Centre for Complexity Sciences - University of Bristol", 
+        "title": "-- Not provided yet --", 
+        "track": "Software Tools", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "589"
+    }, 
+    "Queens_Canada": {
+        "school": "Queen's University Kingston, ON, Canada queensu.ca", 
+        "description": "An interdiciplinary team of Queen's University undergraduate students.", 
+        "title": "Nemoremediation: Engineering C. Elegans into a Toolkit for Soil Bioremediation", 
+        "track": "Environment", 
+        "abstract": "\"Naphthalene is a pollutant produced by oil sands operations. The Queen's team has engineered the nematode worm C. elegans into a toolkit for dealing with this compound in the soil. We have produced constructs with GPCRs from M. musculus, R. norvegicus, and H. sapiens intended to enhance the worm's ability to chemotax toward naphthalene. We are working on a field bioassay based on fluorescent proteins that will indicate the presence of naphthalene in a soil sample. The goal is to have a population of green fluorescent worms chemotaxing toward and a population of red fluorescent worms chemotaxing away from the napthalene in the soil sample. Finally, we have biobricked the P. putida gene nahD, which encodes a degradative enzyme as part of a naphthalene catabolic pathway. The nahD gene encodes the enzyme 2-hydroxychromene-2-carboxylic acid isomerase, which catalyzes the fourth step in the catabolic pathway. \"", 
+        "id": "631"
+    }, 
+    "Macquarie_Australia": {
+        "school": "Macquarie University, Sydney, NSW, Australia http://www.bmfrc.mq.edu.au/home.jsp", 
+        "description": "Biomolecular Sciences", 
+        "title": "Switch-a-roo: engineering a photoresponsive 'E.colight switch'", 
+        "track": "New Application", 
+        "abstract": "Photoreceptors are ubiquitous proteins that allow an organism to sense light. These proteins have evolved in unique environments to sense light intensity in different colour ranges. This experiment focuses on constructing a biological switch that uses two photoreceptors from separate organisms -- Deinococcus radiodurans and Agrobacterium tumafaciens. The coupling of heme oxygenase supplies our photoreceptor proteins with biliverdin, allowing for the self-assembly of the switch within host systems. The switch is the first stage of a two component light sensor and when expressed at high level, there is a noticeable colour change of the cell when it is activated by light.", 
+        "id": "646"
+    }, 
+    "Valencia": {
+        "school": "Universidad Polit\u00e9cnica de Valencia Universidad de Valencia Universidad Cat\u00f3lica de Valencia \"San Vicente M\u00e1rtir\" Valencia, Spain", 
+        "description": "Students from Valencia universities participate once again in this thriving competition.", 
+        "title": "Water Colicin Cleaner: disinfected water by E. coli", 
+        "track": "Environment", 
+        "abstract": "\"Water Colicin Cleaner is a biological alternative for disinfecting contaminated water using synthetic biology. We kill targeted pathogens by means of antimicrobial peptides in Escherichia coli. As a proof of concept we have chosen to aim for enterobacteria, focusing on E. coli contamined water, as a proxy of fecal water. The cleaning of E. coli will be possible thanks to the colicin protein. The activity of these proteins will be controlled by a biological pH-stat, using light-driven cyanobacteria to control pH of the media.We will deliver a DIY kit as a prototype platform for killing pathogens responsible of diseases such as cholera, diarrhea and typhoid fever, ending with more than 2 million deaths in the last year according to the 2011 WHO Guidelines for Drinking-Water Quality.W.C. Cleaner is an effective, low-cost device, that will help people that struggle to find pathogen-free drinking water avoid important diseases.\"", 
+        "id": "565"
+    }, 
+    "Glasgow": {
+        "school": "University of Glasgow, UK http://www.gla.ac.uk/", 
+        "description": "undergraduate students", 
+        "title": "DISColi: Bio-photolithography in Device Engineering Using Different Wavelengths of Light", 
+        "track": "Manufacturing", 
+        "abstract": "\"The DISColi project aims to design and construct a novel bio-photolithographic system for the engineering of biofilms into functional 2D and 3D structures and devices in response to different patterns and wavelengths of light.  In this project we worked with light responsive promoters, a novel biofilm-forming synthetic biology chassis, E. coli Nissle 1917, and novel biobricks including several designed for biofilm dispersal and fluorescent reporters with wider utility than GFP. The main aims of our project can be separated into three light-controlled components: the designed sculpting of biofilms; 3D printing for encapsulation of cells; and the controlled modular synthesis of a variety of products. We expect this technology to have applications for material synthesis and compound manufacture in remote locations, for example outer space.\"", 
+        "id": "660"
+    }, 
+    "UNIST_Korea": {
+        "school": "Ulsan National Institute of Science and Technology Ulsan South Korea- 689-798  http://unist.ac.kr/index.jsp", 
+        "description": "A rocking team of 4 undergraduate students from UNIST Korea", 
+        "title": "Engineering Synthetic Self-Killing Device for Microbial Cell Factories (CHOp-Coli-LATE)", 
+        "track": "Environment", 
+        "abstract": "\"Recently, microbe-driven fermentation products are gaining increased importance. However, release of these microbes to the open environment would pose increasing threat to the society due to the possibility of changes expected in the indigenous microbial population. Hence, we have engineered a synthetic self-killing system for the famous industrial workhorse, Escherichia coli. High temperature (370C), native quorum sensing molecule (AI-2) and the darkness present in the fermentor will keep the self-killing system turned off. Environmental signals such as low temperature (25 0C), foreign quorum sensing molecules and light encountered by the E. coli outside of the fermentor would trigger the self-killing device. Unlike other lysis device, we have introduced a novel self-killing device that chops up the DNA. Thus, this system would not only favor cell death but also ensure that all the genetic materials are destroyed and guarantee that there would be no horizontal gene transfer.\"", 
+        "id": "526"
+    }, 
+    "Utah_State": {
+        "school": "Utah State University Logan, UT, USA www.usu.edu", 
+        "description": "2011 iGEM team from Utah State University", 
+        "title": "CyanoBricks: Expression Testing and Bioproduct Development", 
+        "track": "Manufacturing", 
+        "abstract": "\"Building upon the CyanoBrick toolkit developed by the 2010 Utah State iGEM team, our project focuses on producing valuable bioproducts using Synechocystis sp. PCC 6803. Our project will attempt to produce three different bioproducts: fatty alcohols, wax esters, and alkanes/alkenes. In order to optimize expression levels of various gene products, we constructed a dual luciferase expression measurement device. We used this device to provide more detailed characterization of promoters and ribosome binding sites from E. coli and Synechocystis. We also produced a variety of useful intermediate parts for the dual luciferase device, which are currently not available through the registry, allowing this measurement system to be easily adapted to new organisms and new reference standards.\"", 
+        "id": "654"
+    }, 
+    "Kyoto": {
+        "school": "Kytoto University Kyoto, Japan http://www.kyoto-u.ac.jp/en", 
+        "description": "from Kyoto University, Japan", 
+        "title": "Creation of carnivorous bacterium which can catch and digest bugs", 
+        "track": "New Application", 
+        "abstract": "Many unique bacteria have been created in iGEM.  However, they are not so 'creatures', but new tools or machines. We try to make 'new' creature, carnivorous E.coli which can prey on insects when they are hungry. In poor availability of combined nitrogen, carnivorous E.coli emit light and attract bugs by using bioluciferase,  then catch and digest them by mucilage and catabolic enzymes. To create carnivorous E.coli, we set up four sub-goals: hunger, luminescence, predation and digestion. In 'hunger', We measure activity of \u03c354 promoter with nitrogen regulatory protein, the activator.   These promoter and protein enable E.coli to responce concentration of amino acids. We also check the response of fruit fry to light emitted by bioluciferase,  and weather E.coli can catch and digest bugs with mucilage and protease in the other three sub-goals.", 
+        "id": "622"
+    }, 
+    "Tec-Monterrey": {
+        "school": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey, Monterrey, Nuevo Leon, M\u00e9xico www.itesm.mx", 
+        "description": "We are a team from Tecnologico de Monterrey Campus Monterrey supported by The FEMSA Biotechnology Center.", 
+        "title": "E. Coli's Sweet Deal", 
+        "track": "Food & Energy", 
+        "abstract": "\"Production of sugarcane used to be a high profit activity in the Mexican industry. Nonetheless, the increasing demand of high fructose syrup has become a rising threat to most sugar companies. Our project expects to apply synthetic biology to use sugar, obtained from sugarcane, in an industrial sugar-fructose process intending to make it easier and more profitable. The new genetic construct will be able to immobilize invertase by fusing it to bacterial natural membrane protein fragments using a technique for cell surface display. This system will catalyze the transformation of sucrose into fructose directly, without the need of any chemical or mechanical purification process to obtain the enzyme, reducing the amount of unit operations, and cutting production costs. Also, we will use the same principle to immobilize cellulase, converting cellulose from bagasse into something useful to produce biofuels. \"", 
+        "id": "633"
+    }, 
+    "Virginia": {
+        "school": "University of Virginia  Charlottesville, Virginia USA www.virginia.edu", 
+        "description": "Team of undergraduates with interdisciplinary majors collaborating on an interesting synthetic biology project.", 
+        "title": "A Synthetic Biology Approach to Promoting Angiogenesis at Traumatic Wound Sites", 
+        "track": "Health & Medicine", 
+        "abstract": "\"We use a synthetic biology approach to promote tissue regeneration at traumatic wound sites. Tissue regeneration is composed of three primary processes: the regrowth of functional parenchymal tissue, the regrowth of support tissues, and the regrowth of vasculature to sustain the nascent tissue formation (angiogenesis). Although tissue engineering has offered several effective solutions to address the first two processes, our project attempts to build upon these ideas and develop a more cost-effective and robust method to promote angiogenesis at traumatic wound sites.  We have devised a circuit to be incorporated in a yeast chassis that efficiently expresses two vital angiogenic proteins--vascular endothelial growth factor (VEGF) and platelet derived growth factor (PDGF-B)--in a sequential and time-dependent manner that approximates the natural cascade of growth factor release in the human body. We also intend to submit a Biobrick-compatible yeast plasmid backbone for future use.\"", 
+        "id": "635"
+    }, 
+    "UCL_London": {
+        "school": "The Advanced Centre for Biochemical Engineering Department of Biochemical Engineering UCL Torrington PLace  London WC1E 7JE Tel: 02076792961 Fax: 020 72090703 email: e.keshavarz-moore@ucl.ac.uk http://www.ucl.ac.uk/biochemeng", 
+        "description": "Synthetic Biology for improved bioprcessing and manufacture", 
+        "title": "E.coili - Making supercoiled pDNA technology viable", 
+        "track": "Manufacturing", 
+        "abstract": "\"We are developing a toolkit for the industrial manufacturing of supercoiled plasmid DNA. This will enable a widespread adoption of pDNA-based technologies, most relevantly DNA vaccines - the future of immunization. Therefore we are a manufacturing project with a strong impact on the global health sector.Our toolkit consists of five modules tackling different bottlenecks in the manufacturing process from production to lysis and filtration as well as providing tools for monitoring and improving the overall quantity and quality of the product.Recognizing that the adoption of vaccines and other biological technologies also depends strongly on their social acceptance, we're investing heavily into public engagement for synthetic biology and are exploring the process by which new scientific disciplines arrive in the public sphere.\"", 
+        "id": "676"
+    }, 
+    "NYC_Wetware": {
+        "school": "Yeshiva University New York, NY, USA yu.edu  Weill Cornell Medical College New York, NY, USA med.cornell.edu", 
+        "description": "The New York City regional team with undergraduates from Yeshiva University and hosted in the Mason Lab at Weill-Cornell Medical College.", 
+        "title": "Radiation-resistance? There's a Gene for That.", 
+        "track": "Environment", 
+        "abstract": "Extremophile organisms have adapted to extreme chemical and physical environments here on Earth. Deinococcus radiodurans, also known as Conan the Bacterium, is famous for being resistant to 1000 times the amount of radiation that would be lethal to humans. By identifying genes that could be responsible for such extreme radiation resistance in D.rad as well as other organisms, we hope to enable future engineering of radiation-resistant organisms to use in toxic conditions for bioremediation here on Earth or in the high radiation background during future space travel to Mars.", 
+        "id": "650"
+    }, 
+    "McGill": {
+        "school": "McGill University Montreal, QC, Canada www.mcgill.ca", 
+        "description": "The team is composed of approximately 12 students and 3 mentors, mainly from the Department of Biochemistry at McGill University.", 
+        "title": "All You Need is LOV: Photoswitchable dimerization in mammalian cells", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "Optogenetics involves the use of light to remotely control cellular function via light responsive proteins. It is a promising tool for engineering optical regulation of cellular behavior. Unlike most stimuli, light signals have the advantage of being highly precise with regards to temporal and spatial action as well as having readily tunable intensity. Within cells, a variety of effectors can be controlled using light, including DNA binding proteins, enzymes and mediators in signal transduction. Specifically, our projects focus on building light-responsive biobricks for control of mammalian cells by fusing photo-switchable domains found in plant, algal and fungal light sensing proteins to such effectors. Mammalian biochemistry is complex and well regulated, necessitating synthetic effectors that can be easily and dynamically adjusted to meet the needs of the application. Photo-switchable systems provide this versatility.", 
+        "id": "666"
+    }, 
+    "Cambridge": {
+        "school": "University of Cambridge Cambridge, UK www.cam.ac.uk", 
+        "description": "iGEM team from the University of Cambridge", 
+        "title": "Bactiridescence", 
+        "track": "Foundational Advance", 
+        "abstract": "Nature's colours don't just come from pigments, but from structure too. Cephalopods camouflage themselves using intracellular, iridescent structures made of proteins called reflectins. These are the only known proteinaceous materials that use thin film interference to generate colour. They are inspiring a new class of responsive optical materials.We hope to demonstrate the potential of reflectins as photonic materials by producing optical devices which exhibit instantaneous colour change. In addition we intend to characterise export pathways in E. coli and optimise protein production for commercial viability. We will submit constructs for the expression of reflectins in a variety of organisms.Our team is producing a report examining the impact of iGEM, focusing on innovation in the biotechnology industry. Alongside this we are contributing to Gibthon, a collection of software tools aimed at fragment library management and construct design, building on standards developed by previous Cambridge teams.", 
+        "id": "638"
+    }, 
+    "Lethbridge": {
+        "school": "University of Lethbridge Lethbridge, Alberta, Canada www.uleth.ca", 
+        "description": "The University of Lethbridge 2011 iGEM Team", 
+        "title": "\"Tailings pond clean up kit, a synthetic biology approach to bioremediation\"", 
+        "track": "Environment", 
+        "abstract": "Mining extraction and refining processes produce toxic by-products that are often stored in tailings ponds.  Tailings ponds are artificial reservoirs where the by-products such as toxic organic compounds, heavy metals or fine clay particles are stored until they are remediated by industrial treatment or natural degradation, which can require decades.  We are developing the components necessary to create a tailings pond clean up kit for removal of harmful by-products.  The first component uses the xylene degradation pathway of Pseudomonas putida optimized by the use of a protein microcompartment produced from the engineered Aquifex aeolicus protein lumazine synthase.  The second component  removes heavy metals by producing nanoparticles with the Magnetospirillum magneticum protein Mms6.  The third component causes sedimentation of fine clay particles using natural properties of Eschericia coli and cell aggregation with Antigen 43.  The final component removes the genetically modified organism's DNA by using restriction endonucleases.", 
+        "id": "542"
+    }, 
+    "Hunter-NYC": {
+        "school": "Hunter College New York City, NY  http://www.hunter.cuny.edu/", 
+        "description": "The team consists of 9 students ranging from freshmen through seniors with majors in Biology, Chemistry and Psychology.", 
+        "title": "-- Not provided yet --", 
+        "track": "Environment", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "661"
+    }, 
+    "ULB-Brussels": {
+        "school": "Universit\u00e9 Libre de Bruxelles Bruxelles, Belgium www.ulb.ac.be", 
+        "description": "Team of the Universit\u00e9 Libre de Bruxelles", 
+        "title": "Pindel: One step insertion / deletion system", 
+        "track": "Foundational Advance", 
+        "abstract": "One of the most common actions of all engineers is the assembly or deletion of parts. Bearing in mind that one of the purposes of iGEM is to link biology and engineering sciences, we'd like to implement an easy way to manage those simple steps in biological systems.Unfortunately, in E. coli, it's still difficult to assemble or delete in one step, because there is a lack of genetic tools to execute homologous recombination with linear DNA. By the assembly of a unique plasmid containing different phages' genes, and the design and construction of helper plasmids, we aim to provide the iGEM community with a system that would confer to E. coli the useful properties of controlled homologous recombination.We called this plasmid for insertion and deletion of genes : Pindel.", 
+        "id": "551"
+    }, 
+    "Purdue": {
+        "school": "Purdue University West Lafayette, IN USA www.purdue.edu", 
+        "description": "2011 iGEM team from Purdue University, West Lafayette Indiana", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "630"
+    }, 
+    "TU-Delft": {
+        "school": "Technical University of Delft Delft www.tudelft.nl", 
+        "description": "TU-Delft Netherlands", 
+        "title": "StickE. Coli : Single Protein Attachment of Escherichia coli", 
+        "track": "New Application", 
+        "abstract": "\"Natural attachment of micro-organisms relies on a complex network of varying compounds known as biofilms. This complexity hinders an easy control and regulation of attachment and detachment. We will give Escherichia coli a simple, effective and controllable mechanism for biofilm formation based on the strong glue from mussel feet. E. coli, expressing the strongest-binding mussel foot protein Mfp5 on the outer cell surface, can robustly attach to a wide variety of surfaces, including glass, plastic and itself.Using highly sensitive TIRF  microscopy and atomic force measurements  we visualize and characterize the localization and attachment of cells. Combining these results with our mathematical models allows us to predict the attachment speed and stability as well as cell clustering and settling. The controllable, strong attachment opens up new possibilities for the use of bacterial machines in environmental applications, medicine and industry.\"", 
+        "id": "556"
+    }, 
+    "TU_Munich": {
+        "school": "TU Munich www.tum.de", 
+        "description": "An interdisciplinary team of students from biochemistry, molecular biotechnology, and biophysics", 
+        "title": "E.XPRESS3D - 3 Dimensional Printer Based on Optogenetics", 
+        "track": "Manufacturing", 
+        "abstract": "\"This year, we aim to develop a light-controlled 3D-printer by innovative utilization of optogenetics. As a first step, we want to develop a genetic logical AND-gate sensitive to light of two different wavelengths (e.g. blue and red light). The bacteria are then immobilized in a transparent gel matrix, where they can be precisely actuated when hit by both blue and red light at the same time. If both of these inputs are positive, gene expression is induced. Various different gene products can be expressed using this system. For example, a simple colored pigment will allow us to create colored three dimensional objects. Expressing collagen and consecutive biomineralization and generation of hydroxylapatite could be used to create bone. \"", 
+        "id": "568"
+    }, 
+    "WashU": {
+        "school": "Washington University, St. Louis, MO", 
+        "description": "Washington University, St. Louis, MO", 
+        "title": "Engineering Carotenoid Biosynthesis in Saccharomyces cerevisiae", 
+        "track": "Food & Energy", 
+        "abstract": "Vitamin A deficiency causes blindness in over 250,000 children annually. The WashU iGEM team hopes to address this issue by creating a transgenic strain of Saccharomyces cerevisiae (baker's yeast) that produces beta-carotene, the precursor to vitamin A. The WashU team created four DNA constructs for homologous recombination into the S. cerevisiae genome that will catalyze the production of beta-carotene. Each construct consisted of a gene encoding an enzyme from Xanthophyllomyces dendrorhous, a bacterium that produces beta-carotene. Three of the constructs encode for enzymes in the metabolic pathway required for beta-carotene production, while a fourth enzyme cleaves beta-carotene to form beta-ionone, a rose-scented compound used in the fragrance industry. Additionally, the WashU team has established spectraphotometric assays to detect beta-carotene and beta-ionone in yeast extract. Although we have yet to successfully incorporate these four genes into S. cerevisiae, we have prepared all four constructs and biobricked these genes for future use.", 
+        "id": "552"
+    }, 
+    "Arizona_State": {
+        "school": "Arizona State University Tempe, AZ, USA asu.edu", 
+        "description": "Arizona State University", 
+        "title": "CRISPR Assisted Genetic Engineering", 
+        "track": "New Application", 
+        "abstract": "\"Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) are a genomic feature of many prokaryotic and archeal species. CRISPR functions as an adaptive immune system, targeting exogenous sequences that match spacers integrated into the genome. Our project focuses on developing a set of tools for synthetic control over the CRISPR pathway. This includes a method for creating polymers of repeat-spacer-repeat units, the development of CRISPR biobricks (CAS genes, leader sequences) for several CRISPR subtypes (E. coli, B. halodurans, and L. innocua), testing these components on plasmids containing GFP, and a software tool to collect and display CRISPR information, as well as select spacers from a particular sequence. Given the relatively recent progress in the scientific understanding of this system, we see the potential for a wide range of biotechnological applications of CRISPR in the future. \"", 
+        "id": "578"
+    }, 
+    "VCU": {
+        "school": "Virginia Commonwealth University Richmond, VA USA www.vcu.edu", 
+        "description": "Virginia Commonwealth University 2011 team", 
+        "title": "Production of Isoprenoids in Synechococcus: A model for sustainable manufacturing", 
+        "track": "Foundational Advance", 
+        "abstract": "\"Cyanobacteria, such as Synechococcus elongatus, are prokaryotic photoautotrophic model organisms, which are responsible for a large proportion of global photosynthesis. Our group endeavored to develop S. elongatus as an emergent platform for synthetic biology and metabolic engineering.While Synechococcus elongatus has been used in previous synthetic biology projects, our group sought not only to characterize functional promoters, but also promoters capable of tailoring expression to circadian rhythms or transcriptional factors. Concurrently, our team experimented with fluorescent proteins to find a quick-folding, robust, and transient reporter that may be used to characterize dynamic parts (such as those involved in circadian rhythms).As proof of concept, the VCU iGEM team also aspired to integrate isoprenoid pathways into Synechococcus - isoprenoids being precursors of many commercially and pharmaceutically relevant molecules. By demonstrating production of these industrially important metabolites we hope to show the practicality of utilizing cyanobacteria as a superior sustainable production platform. \"", 
+        "id": "674"
+    }, 
+    "Yale": {
+        "school": "Yale", 
+        "description": "Yale iGEM team", 
+        "title": "Nature's Antifreeze: Microbial Expression and Characterization of a Novel Insect Antifreeze Protein for De-icing Solutions", 
+        "track": "Food & Energy", 
+        "abstract": "\"Antifreeze proteins have applications in cryopreservation of food, cells, and organs, as well as in cryosurgery and agriculture. The purpose of this study was to express, purify, and characterize a novel, hyperactive antifreeze protein recently isolated from the Siberian beetle, Rhagium inquisitor (RiAFP). Large scale (150mg/L), stable production of RiAFP and a RiAFP-GFP fusion protein was achieved in E. coli. Proteins were purified using Ni-NTA affinity chromatography. E. coli expressing RiAFP exhibited increased survival post-freezing. RiAFP inhibited ice recrystallization in both splat and capillary assay. To optimize the activity of the hypothesized RiAFP ice binding site, we are using directed evolution through multiplex automated genome engineering (MAGE). Finally, we are further optimizinge our crystallization conditions for RiAFP to better understand the structure-function relationship, as well as conducting post-freezing survival assays in C. elegans.\"", 
+        "id": "652"
+    }, 
+    "BYU_Provo": {
+        "school": "Brigham Young University, Provo, Utah, www.byu.edu", 
+        "description": "Brigham Young University IGEM team", 
+        "title": "E. colinoscopy", 
+        "track": "Information Processing", 
+        "abstract": "\"We constructed a novel molecular AND gate in E. coli. An AND gate requires two positive inputs to generate a single output. Either positive input without the other does not generate an output. Our AND gate expresses a reporter in the presence of both ROS and high temperature.   We selected an OxyR-responsive promoter (HemH) and a thermo-sensitive riboswitch (derived from Listeria) as detectors for ROS and temperature, respectively.The OxyR-responsive promoter is used to drive transcription of the Listera thermo-sensitive riboswitch coupled to a Cre/Lox system which, when activated, removes a double-terminator sequence and allows constitutive transcription of the reporter molecule. This system may be further modified and adapted to various applications, including early detection of colon cancer.\"", 
+        "id": "619"
+    }, 
+    "Baltimore": {
+        "school": "Towson University,  Towson, MD, USA  www.towson.edu Howard Community College, Columbia, MD, USA www.howardcc.edu Community College of Baltimore County, Catonsville, MD, USA www.ccbcmd.edu Montgomery Community College Rockville, MD, USA www.montgomerycollege.edu  Community College of Baltimore County, Catonsville, MD, USA", 
+        "description": "A team of undergraduates from Baltimore area institutes of higher education, with Primary Instructor at Towson University, Towson, MD.", 
+        "title": "Making Synthetic Biology More Accessible: Making Wetware and Dryware for the Synthetic Biology Lab", 
+        "track": "New Application", 
+        "abstract": "The overall mission of our team is to attempt to overcome some practical barriers to entry of groups and laboratories that may not be well-funded or may not have the capital requirements to realize their synthetic biology dreams. We approach this problem from two angles- 'wet-ware' and 'dry-ware.' Our wet-ware goal this year is to provide a way for anyone to be able to make their own Taq polymerase instead of having to purchase it. Our dry-ware goal this year is to create a prototype for a PCR machine that can be assembled from an inexpensive kit.", 
+        "id": "665"
+    }, 
+    "Penn_State": {
+        "school": "The Pennsylvania State University", 
+        "description": "Undergraduate Team", 
+        "title": "Bacterial Dosimeter--Detecting Levels of Harmful Radiation", 
+        "track": "Environment", 
+        "abstract": "Ionizing radiation and radiation pollution is an important environmental problem that not only affects those working around radiation facilities, but those dealing with the aftermath of widespread nuclear disasters such as those at the Fukushima Daiichi nuclear reactor. Penn State's team project designed and constructed a genetic circuit introduced into E. coli bacterial cells, in order to rapidly detect and report the presence of harmful ionizing radiation. We are working to create a robust and reliable biosensor that utilizes the lambda phage lytic-lysogenic switch as the radiation sensor. When the sensor detects radiation, it triggers one of three fast acting reporters we developed based on the concept developed by Imperial College's 2010 iGEM team. Each of the reporters features a different enzyme/substrate reaction (beta-galactosodise/beta-D-galactose, beta-glucurodinase/beta-D-glucuronide or C23O/catechol). We believe that the final construct may have the potential to rival current radiation detection methods, such as digital dosimeters.", 
+        "id": "648"
+    }, 
+    "METU-Ankara": {
+        "school": "Middle East Technical University, Ankara, Turkey web.metu.edu.tr", 
+        "description": "Metu-Ankara will enter 2011 competition", 
+        "title": "MethanE.COLIc : Decreasing the Greenhouse effect and Saving the workers' life in one system", 
+        "track": "Environment", 
+        "abstract": "\"Firedamp explosions are frequently seen cases at all mines over the world. In Turkey, every year, around 50 miners lose their lives because of firedamp explosions. Firedamp is a flammable gas found in coal mines and it mainly contains methane. Beside its explosive property, methane is also the main contributor to global warming. However, recent mechanisms in mines release the methane that is collected into air. By offers of Synthetic biology, we aimed to design a device which will work on E.coli that provides solutions for side effects of methane. Device that we are planning to construct involves the genes of bacteria (Methylococcus capsulatus) and insect (Drosophilia melanogaster) Our compact system in E.coli is fabricated as sensation of methane, the conversion of methane to methanol and then entrapment of methanol to handle for biofuel and death of bacteria at 42 C by kill switch mechanism.\"", 
+        "id": "593"
+    }, 
+    "TorontoMaRSDiscovery": {
+        "school": "Toronto, ON, Canada igemtoronto.org", 
+        "description": "University of Toronto iGEM team operating out of Dr. John Parkinson's lab at the Hospital for Sick Children.  Physically our lab space is in the MaRS Discovery Tower.", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "600"
+    }, 
+    "Nanjing": {
+        "school": "Nanjing University Nanjing, Jiangsu province, China www.nju.edu.cn/cps/site/njueweb/fg/index.php", 
+        "description": "First iGEM team formed by Nanjing University", 
+        "title": "-- Not provided yet --", 
+        "track": "This team has not been assigned to a track.", 
+        "abstract": "-- No abstract provided yet --", 
+        "id": "599"
+    }, 
+    "KULeuven": {
+        "school": "K.U.Leuven Leuven Belgium www.kuleuven.be www.kuleuven.be/bioscenter", 
+        "description": "iGEM 2011 team from the Center for Bio-Science, Bio-Engineering and Bio-Technology (BioSCENTer) of the Katholieke Universiteit Leuven", 
+        "title": "E.D. FROSTI: CONTROLLING ICE FORMATION", 
+        "track": "Environment", 
+        "abstract": "\"Our team will engineer a bacterium that can perform 2 different functions; depending on the stimulus used, it will either induce ice crystallization or inhibit ice formation.To stimulate ice formation, we will let our bacterium produce Ice Nucleating Proteins (INP), which stimulate the formation of ice crystals. These bacteria could be used in lakes to make the ice stronger, for the creation of fluorescent ice on ski-slopes or for trendy cocktails with glowing ice cubes in it. Also, it would decrease ice-melting of glaciers, thereby effectively slowing down global warming.The second function of E.D. Frosti is the anti-freeze function by the production of Anti Freeze Proteins (AFP). These bacteria could then be used as anti-freeze biofilms on roads, which would help the roads become ice and snow free in winters. Also other applications which require ice melting could benefit from our bacterium.\"", 
+        "id": "584"
+    }, 
+    "KAIST-Korea": {
+        "school": "Korea Advanced Institute of Science and Technology 291 Daehak-ro(373-1 Guseong-dong), Yuseong-gu, Daejeon 305-701,  Republic of Korea  www.kaist.ac.kr", 
+        "description": "Group of undergraduate students from various fields (Biological Science, Bio and Brain Engineering, Biochemical Engineering).", 
+        "title": "E. Casso: Artistic E. Coli inspired by random color generation", 
+        "track": "New Application", 
+        "abstract": "E. Casso is an E. coli system engineered to perform art. The system consists of two types of genetically modified E. coli: the random signal generating E. coli ('Brush E. coli') and the color generating E. coli ('Paint E. coli'). Brush E. coli possesses genes (lasI, luxI, rhlI, and cinI) in its gDNA that produce quorum molecules. On the other hand, by modified Cre-loxP mechanism, gDNA is randomly set to secrete only one of the four types of quorum molecules. Paint E.coli possesses plasmids that express one of four colors (red, cyan, yellow, and green) by producing fluorescent proteins in response to the type of quorum it receives from Brush E.coli. As Paint E.coli expresses corresponding fluorescence in response, it also produces quorum molecule that is identical to the inducer to start propagation. Ultimately, using this system, the 'random' contribution of cells will create art on an LB plate.", 
+        "id": "623"
+    }, 
+    "Amsterdam": {
+        "school": "VU University Amsterdam De Boelelaan 1085 1081HV Amsterdam The Netherlands http://www.falw.vu.nl  University of Amsterdam Swammerdam Institute for Life Sciences Kruislaan 318 1098SM Amsterdam The Netherlands http://www.uva-nucleus.nl", 
+        "description": "Joint team from VU University Amsterdam and UvA Amsterdam", 
+        "title": "icE. coli: enhancing E. coli's growth rate at low temperatures by psychrophile chaperones", 
+        "track": "Foundational Advance", 
+        "abstract": "Escherichia coli's optimal growth temperature is 37C. Its growth rate decreases drastically at lower temperatures and growth completely halts below 7C.The aim of our project is to increase the cold tolerance of E. coli by expressing and combining several chaperone proteins that are normally found in psychrophillic bacteria. Chaperone proteins are essential in maintaining correct protein folding following changes in temperature. Therefore, expressing these proteins will likely enable enhanced growth rates at temperatures below 37C and shift the minimal growth temperature down from 7C, possibly even allowing growth near 0C.Our project is fundamental in its nature, but any application outside the labs, from biofuel production to bio-sensors, will benefit from the ability of icE.coli to grow at low temperatures, since this will relieve the burden and costs of maintaining the temperature constant at 37C. Moreover, we envision a temperature-based selection as an alternative to antibiotics-based selection.", 
+        "id": "538"
+    }, 
+    "Copenhagen": {
+        "school": "University of Copenhagen", 
+        "description": "We aim at generating one or more bacterial strains able to remove medical waste from our recycled drinking water by using cytochrome P450s able to metabolize xenobiotics.", 
+        "title": "Expressing and standardizing cytochrome P450 in E.coli to create the oxime producing CyperMan", 
+        "track": "Manufacturing", 
+        "abstract": "\"A cytochrome P450 (CYP) is an enzyme able to perfom complex hydroxylations. The regio- and stereospecfic hydroxylations performed by CYPs are often difficult to do using conventional chemical methods and it can therefore be greatly beneficial to utilize our CyperMan as a small synthetic biology factory.CYPs from the plant CYP79 family produce small molecules called oximes. Oximes are toxic to fungus, as they inhibit the ability of the mitochondrial peroxidases to breakdown potentially harmful hydrogen peroxides. The oximes are produced from a variety of amino acids. As a proof of concept we aim at generating bacteria or CyperMen able to combat fungus on their own turf. The main goal is however to standardize different plant CYP79s and deliver them as BioBricks to iGEM.\"", 
+        "id": "527"
+    }, 
+    "HKU-Hong_Kong": {
+        "school": "The University of Hong Kong", 
+        "description": "the from the University of Hong Kong", 
+        "title": "Development of a Novel Inducible Transcriptional Repressor mediates the formation of heterochromatin-like complex in E.coli", 
+        "track": "New Application", 
+        "abstract": "\"In eukaryotes, heterochromatin plays an important role in gene regulation. Here we use a synthetic biology approach to imitate heterochromatin in E.coli to achieve gene silencing. Specifically, fusion proteins comprising tetR and different parts of HNS (histone-like nucleoid structuring protein) were synthesized, they are expected to bind DNA specifically and carry out polymerization among the fusion HNS and the native HNS to create a densely packed DNA form, which may block the transcription. We produced constructs with tetO sites upstream or downstream of lac promoter and EGFP gene. Then we used standard constitutive promoters with different activity to drive our fusion proteins to find the optimum expression level. Moreover, tetR, HNS and fusion proteins were purified and gel shift assay was utilized to detect the interaction between those proteins with DNA. This study presents a novel approach to introduce a mimic heterochromatin-like structure into prokaryotes to achieve inducible gene silencing. \"", 
+        "id": "544"
+    }, 
+    "Warsaw": {
+        "school": "University of Warsaw, Faculty of Biology Warsaw, Poland www.biol.uw.edu.pl", 
+        "description": "University of Warsaw iGEM team", 
+        "title": "Synthetic Cloning and Expression Control", 
+        "track": "Foundational Advance", 
+        "abstract": "Our goal is to set up an easy and quick protocol for cell free cloning. It skips plasmid propagation in bacteria. This speeds up the cloning procedure at least three times and allows cloning of toxic genes. We make sure that no bacteria get harmed during our project. Moreover we have measured the RBS parts with various fluorescent proteins and they are not as standard as we would like them to be. The strength of a RBS part depends on the protein used. Why? Because the beginning of the protein influences the mRNA fold. We came up with the idea of RBS parts fused with short 'protein beginnings' -  expression adapters. Using genetic algorithm we designed expression adapters that would provide standardized protein expression or increase expression of your favorite protein. We are testing our design in the wet lab.", 
+        "id": "528"
+    }
+}

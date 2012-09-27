@@ -1,0 +1,1921 @@
+{
+ "Alberta": {
+  "team_name": "Alberta",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Alberta",
+  "presentation_link": "http://2011.igem.org/files/presentation/Alberta.pdf",
+  "video_link": "http://2011.igem.org/files/video/Alberta.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Alberta.pdf"
+ },
+ "Arizona_State": {
+  "team_name": "Arizona_State",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Arizona_State",
+  "presentation_link": "http://2011.igem.org/files/presentation/Arizona_State.pdf",
+  "video_link": "http://2011.igem.org/files/video/Arizona_State.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Arizona_State.pdf"
+ },
+ "Baltimore": {
+  "team_name": "Baltimore",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Baltimore",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ },
+ "Bard-Annandale": {
+  "team_name": "Bard-Annandale",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Bard-Annandale",
+  "presentation_link": "http://2011.igem.org/files/presentation/Bard-Annandale.pdf",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/Bard-Annandale.pdf"
+ },
+ "Berkeley": {
+  "team_name": "Berkeley",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Poster, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Berkeley",
+  "presentation_link": "http://2011.igem.org/files/presentation/Berkeley.pptx",
+  "video_link": "http://2011.igem.org/files/video/Berkeley.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Berkeley.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Berkeley_Championship.pptx",
+  "championship_video_link": "http://2011.igem.org/files/video/Berkeley_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Berkeley_Championship.pdf"
+ },
+ "British_Columbia": {
+  "team_name": "British_Columbia",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Model, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:British_Columbia",
+  "presentation_link": "http://2011.igem.org/files/presentation/British_Columbia.pdf",
+  "video_link": "http://2011.igem.org/files/video/British_Columbia.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/British_Columbia.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/British_Columbia_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/British_Columbia_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/British_Columbia_Championship.pdf"
+ },
+ "Brown-Stanford": {
+  "team_name": "Brown-Stanford",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Presentation, Americas",
+   "Regional Finalist, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Brown-Stanford",
+  "presentation_link": "http://2011.igem.org/files/presentation/Brown-Stanford.pdf",
+  "video_link": "http://2011.igem.org/files/video/Brown-Stanford.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Brown-Stanford.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Brown-Stanford_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Brown-Stanford_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Brown-Stanford_Championship.pdf"
+ },
+ "BU_Wellesley_Software": {
+  "team_name": "BU_Wellesley_Software",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:BU_Wellesley_Software",
+  "presentation_link": "http://2011.igem.org/files/presentation/BU_Wellesley_Software.pdf",
+  "video_link": "http://2011.igem.org/files/video/BU_Wellesley_Software.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/BU_Wellesley_Software.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/BU_Wellesley_Software_Championship.pptx",
+  "championship_video_link": "http://2011.igem.org/files/video/BU_Wellesley_Software_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/BU_Wellesley_Software_Championship.pdf"
+ },
+ "BYU_Provo": {
+  "team_name": "BYU_Provo",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:BYU_Provo",
+  "presentation_link": "http://2011.igem.org/files/presentation/BYU_Provo.pdf",
+  "video_link": "http://2011.igem.org/files/video/BYU_Provo.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/BYU_Provo.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/BYU_Provo_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/BYU_Provo_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/BYU_Provo_Championship.pdf"
+ },
+ "Calgary": {
+  "team_name": "Calgary",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Best Wiki, Americas",
+   "Best Experimental Measurement Approach, Americas",
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Calgary",
+  "presentation_link": "http://2011.igem.org/files/presentation/Calgary.pdf",
+  "video_link": "http://2011.igem.org/files/video/Calgary.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Calgary.png",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Calgary_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Calgary_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Calgary_Championship.pdf"
+ },
+ "Caltech": {
+  "team_name": "Caltech",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Caltech",
+  "presentation_link": "http://2011.igem.org/files/presentation/Caltech.pdf",
+  "video_link": "http://2011.igem.org/files/video/Caltech.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Caltech.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Caltech_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Caltech_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Caltech_Championship.pdf"
+ },
+ "Colombia": {
+  "team_name": "Colombia",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Colombia",
+  "presentation_link": "http://2011.igem.org/files/presentation/Colombia.pdf",
+  "video_link": "http://2011.igem.org/files/video/Colombia.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Colombia.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Colombia_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Colombia_Championship.mp4",
+  "championship_poster_link": ""
+ },
+ "Columbia-Cooper": {
+  "team_name": "Columbia-Cooper",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Columbia-Cooper",
+  "presentation_link": "http://2011.igem.org/files/presentation/Columbia-Cooper.pdf",
+  "video_link": "http://2011.igem.org/files/video/Columbia-Cooper.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Columbia-Cooper.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Columbia-Cooper_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Columbia-Cooper_Championship.mp4",
+  "championship_poster_link": ""
+ },
+ "Cornell": {
+  "team_name": "Cornell",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Cornell",
+  "presentation_link": "http://2011.igem.org/files/presentation/Cornell.pdf",
+  "video_link": "http://2011.igem.org/files/video/Cornell.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Cornell.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Cornell_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Cornell_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Cornell_Championship.pdf"
+ },
+ "Duke": {
+  "team_name": "Duke",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Duke",
+  "presentation_link": "http://2011.igem.org/files/presentation/Duke.pptx",
+  "video_link": "http://2011.igem.org/files/video/Duke.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Duke.pdf"
+ },
+ "Gaston_Day_School": {
+  "team_name": "Gaston_Day_School",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [
+   "Safety Commendation, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Gaston_Day_School",
+  "presentation_link": "http://2011.igem.org/files/presentation/Gaston_Day_School.pdf",
+  "video_link": "http://2011.igem.org/files/video/Gaston_Day_School.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Gaston_Day_School.pdf"
+ },
+ "GeorgiaState": {
+  "team_name": "GeorgiaState",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:GeorgiaState",
+  "presentation_link": "http://2011.igem.org/files/presentation/GeorgiaState.pdf",
+  "video_link": "http://2011.igem.org/files/video/GeorgiaState.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/GeorgiaState.pdf"
+ },
+ "GeorgiaTech": {
+  "team_name": "GeorgiaTech",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:GeorgiaTech",
+  "presentation_link": "http://2011.igem.org/files/presentation/GeorgiaTech.pdf",
+  "video_link": "http://2011.igem.org/files/video/GeorgiaTech.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/GeorgiaTech.pdf"
+ },
+ "Grinnell": {
+  "team_name": "Grinnell",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Grinnell",
+  "presentation_link": "http://2011.igem.org/files/presentation/Grinnell.pdf",
+  "video_link": "http://2011.igem.org/files/video/Grinnell.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Grinnell.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Grinnell_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Grinnell_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Grinnell_Championship.pdf"
+ },
+ "Harvard": {
+  "team_name": "Harvard",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Harvard",
+  "presentation_link": "http://2011.igem.org/files/presentation/Harvard.pdf",
+  "video_link": "http://2011.igem.org/files/video/Harvard.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Harvard.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Harvard_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Harvard_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Harvard_Championship.pdf"
+ },
+ "Hunter-NYC": {
+  "team_name": "Hunter-NYC",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Hunter-NYC",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ },
+ "ITESM_Mexico": {
+  "team_name": "ITESM_Mexico",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:ITESM_Mexico",
+  "presentation_link": "http://2011.igem.org/files/presentation/ITESM_Mexico.exe",
+  "video_link": "http://2011.igem.org/files/video/ITESM_Mexico.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/ITESM_Mexico.pptx",
+  "championship_presentation_link": "",
+  "championship_video_link": "http://2011.igem.org/files/video/ITESM_Mexico_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/ITESM_Mexico_Championship.pdf"
+ },
+ "IvyTech-South_Bend": {
+  "team_name": "IvyTech-South_Bend",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:IvyTech-South_Bend"
+ },
+ "Johns_Hopkins": {
+  "team_name": "Johns_Hopkins",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Johns_Hopkins",
+  "presentation_link": "http://2011.igem.org/files/presentation/Johns_Hopkins.pdf",
+  "video_link": "http://2011.igem.org/files/video/Johns_Hopkins.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Johns_Hopkins.jpg",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Johns_Hopkins_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Johns_Hopkins_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Johns_Hopkins_Championship.jpg"
+ },
+ "Lethbridge": {
+  "team_name": "Lethbridge",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Regional Finalist, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Lethbridge",
+  "presentation_link": "http://2011.igem.org/files/presentation/Lethbridge.pdf",
+  "video_link": "http://2011.igem.org/files/video/Lethbridge.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Lethbridge.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Lethbridge_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Lethbridge_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Lethbridge_Championship.pdf"
+ },
+ "McGill": {
+  "team_name": "McGill",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:McGill"
+ },
+ "Michigan": {
+  "team_name": "Michigan",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Michigan",
+  "presentation_link": "http://2011.igem.org/files/presentation/Michigan.pdf",
+  "video_link": "http://2011.igem.org/files/video/Michigan.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Michigan.pdf"
+ },
+ "Minnesota": {
+  "team_name": "Minnesota",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Minnesota",
+  "presentation_link": "http://2011.igem.org/files/presentation/Minnesota.pdf",
+  "video_link": "http://2011.igem.org/files/video/Minnesota.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Minnesota.pdf"
+ },
+ "Missouri_Miners": {
+  "team_name": "Missouri_Miners",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Missouri_Miners",
+  "presentation_link": "http://2011.igem.org/files/presentation/Missouri_Miners.pdf",
+  "video_link": "http://2011.igem.org/files/video/Missouri_Miners.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Missouri_Miners.pdf"
+ },
+ "MIT": {
+  "team_name": "MIT",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:MIT",
+  "presentation_link": "http://2011.igem.org/files/presentation/MIT.pptx",
+  "video_link": "http://2011.igem.org/files/video/MIT.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/MIT.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/MIT_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/MIT_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/MIT_Championship.pdf"
+ },
+ "Nevada": {
+  "team_name": "Nevada",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Nevada",
+  "presentation_link": "http://2011.igem.org/files/presentation/Nevada.pdf",
+  "video_link": "http://2011.igem.org/files/video/Nevada.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Nevada.pdf"
+ },
+ "Northwestern": {
+  "team_name": "Northwestern",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Model, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Northwestern",
+  "presentation_link": "http://2011.igem.org/files/presentation/Northwestern.pptx",
+  "video_link": "http://2011.igem.org/files/video/Northwestern.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Northwestern.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Northwestern_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Northwestern_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Northwestern_Championship.pdf"
+ },
+ "NYC_Software": {
+  "team_name": "NYC_Software",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:NYC_Software",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ },
+ "NYC_Wetware": {
+  "team_name": "NYC_Wetware",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [
+   "Best Human Practices Advance, Americas"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:NYC_Wetware",
+  "presentation_link": "http://2011.igem.org/files/presentation/NYC_Wetware.pptx",
+  "video_link": "http://2011.igem.org/files/video/NYC_Wetware.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/NYC_Wetware.pdf"
+ },
+ "Panama": {
+  "team_name": "Panama",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Panama",
+  "presentation_link": "http://2011.igem.org/files/presentation/Panama.pdf",
+  "video_link": "http://2011.igem.org/files/video/Panama.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Panama.pdf"
+ },
+ "Penn": {
+  "team_name": "Penn",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Penn",
+  "presentation_link": "http://2011.igem.org/files/presentation/Penn.pptx",
+  "video_link": "http://2011.igem.org/files/video/Penn.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Penn.pdf"
+ },
+ "Penn_State": {
+  "team_name": "Penn_State",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Penn_State",
+  "presentation_link": "http://2011.igem.org/files/presentation/Penn_State.pdf",
+  "video_link": "http://2011.igem.org/files/video/Penn_State.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Penn_State.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Penn_State_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Penn_State_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Penn_State_Championship.pdf"
+ },
+ "Purdue": {
+  "team_name": "Purdue",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Purdue"
+ },
+ "Queens_Canada": {
+  "team_name": "Queens_Canada",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Queens_Canada",
+  "presentation_link": "http://2011.igem.org/files/presentation/Queens_Canada.pdf",
+  "video_link": "http://2011.igem.org/files/video/Queens_Canada.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Queens_Canada.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Queens_Canada_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Queens_Canada_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Queens_Canada_Championship.jpg"
+ },
+ "Rutgers": {
+  "team_name": "Rutgers",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Rutgers",
+  "presentation_link": "http://2011.igem.org/files/presentation/Rutgers.pdf",
+  "video_link": "http://2011.igem.org/files/video/Rutgers.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Rutgers.pdf"
+ },
+ "Tec-Monterrey": {
+  "team_name": "Tec-Monterrey",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Tec-Monterrey",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tec-Monterrey.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tec-Monterrey.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tec-Monterrey.pdf"
+ },
+ "Toronto": {
+  "team_name": "Toronto",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Toronto",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/Toronto.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Toronto.pdf"
+ },
+ "TorontoMaRSDiscovery": {
+  "team_name": "TorontoMaRSDiscovery",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:TorontoMaRSDiscovery"
+ },
+ "UANL_Mty-Mexico": {
+  "team_name": "UANL_Mty-Mexico",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UANL_Mty-Mexico",
+  "presentation_link": "http://2011.igem.org/files/presentation/UANL_Mty-Mexico.pdf",
+  "video_link": "http://2011.igem.org/files/video/UANL_Mty-Mexico.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UANL_Mty-Mexico.pdf"
+ },
+ "UCSF": {
+  "team_name": "UCSF",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UCSF",
+  "presentation_link": "http://2011.igem.org/files/presentation/UCSF.pdf",
+  "video_link": "http://2011.igem.org/files/video/UCSF.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UCSF.pdf"
+ },
+ "UC_Davis": {
+  "team_name": "UC_Davis",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:UC_Davis",
+  "presentation_link": "http://2011.igem.org/files/presentation/UC_Davis.pdf",
+  "video_link": "http://2011.igem.org/files/video/UC_Davis.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UC_Davis.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/UC_Davis_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/UC_Davis_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/UC_Davis_Championship.pdf"
+ },
+ "UIUC-Illinois": {
+  "team_name": "UIUC-Illinois",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UIUC-Illinois",
+  "presentation_link": "http://2011.igem.org/files/presentation/UIUC-Illinois.pdf",
+  "video_link": "http://2011.igem.org/files/video/UIUC-Illinois.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UIUC-Illinois.pdf"
+ },
+ "UNAM-Genomics_Mexico": {
+  "team_name": "UNAM-Genomics_Mexico",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UNAM-Genomics_Mexico",
+  "presentation_link": "http://2011.igem.org/files/presentation/UNAM-Genomics_Mexico.pdf",
+  "video_link": "http://2011.igem.org/files/video/UNAM-Genomics_Mexico.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UNAM-Genomics_Mexico.pdf"
+ },
+ "UNAM-ITESM_Mexico_City": {
+  "team_name": "UNAM-ITESM_Mexico_City",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UNAM-ITESM_Mexico_City"
+ },
+ "UNICAMP-EMSE_Brazil": {
+  "team_name": "UNICAMP-EMSE_Brazil",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:UNICAMP-EMSE_Brazil",
+  "presentation_link": "http://2011.igem.org/files/presentation/UNICAMP-EMSE_Brazil.pdf",
+  "video_link": "http://2011.igem.org/files/video/UNICAMP-EMSE_Brazil.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UNICAMP-EMSE_Brazil.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/UNICAMP-EMSE_Brazil_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/UNICAMP-EMSE_Brazil_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/UNICAMP-EMSE_Brazil_Championship.pdf"
+ },
+ "uOttawa": {
+  "team_name": "uOttawa",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:uOttawa",
+  "presentation_link": "http://2011.igem.org/files/presentation/uOttawa.pdf",
+  "video_link": "http://2011.igem.org/files/video/uOttawa.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/uOttawa.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/uOttawa_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/uOttawa_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/uOttawa_Championship.jpg"
+ },
+ "USC": {
+  "team_name": "USC",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:USC",
+  "presentation_link": "http://2011.igem.org/files/presentation/USC.pdf",
+  "video_link": "http://2011.igem.org/files/video/USC.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/USC.pdf"
+ },
+ "Utah_State": {
+  "team_name": "Utah_State",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Utah_State",
+  "presentation_link": "http://2011.igem.org/files/presentation/Utah_State.pdf",
+  "video_link": "http://2011.igem.org/files/video/Utah_State.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Utah_State.pdf"
+ },
+ "UTP-Panama": {
+  "team_name": "UTP-Panama",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:UTP-Panama",
+  "presentation_link": "http://2011.igem.org/files/presentation/UTP-Panama.pptm",
+  "video_link": "http://2011.igem.org/files/video/UTP-Panama.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UTP-Panama.jpg",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/UTP-Panama_Championship.pptm",
+  "championship_video_link": "http://2011.igem.org/files/video/UTP-Panama_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/UTP-Panama_Championship.jpg"
+ },
+ "UT_Dallas": {
+  "team_name": "UT_Dallas",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UT_Dallas",
+  "presentation_link": "http://2011.igem.org/files/presentation/UT_Dallas.pptx",
+  "video_link": "http://2011.igem.org/files/video/UT_Dallas.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UT_Dallas.pptx"
+ },
+ "VCU": {
+  "team_name": "VCU",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:VCU",
+  "presentation_link": "http://2011.igem.org/files/presentation/VCU.pdf",
+  "video_link": "http://2011.igem.org/files/video/VCU.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/VCU.pdf"
+ },
+ "Virginia": {
+  "team_name": "Virginia",
+  "region": "Americas",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Virginia",
+  "presentation_link": "http://2011.igem.org/files/presentation/Virginia.pdf",
+  "video_link": "http://2011.igem.org/files/video/Virginia.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Virginia.pdf"
+ },
+ "Virginia_Tech": {
+  "team_name": "Virginia_Tech",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Virginia_Tech",
+  "presentation_link": "http://2011.igem.org/files/presentation/Virginia_Tech.pdf",
+  "video_link": "http://2011.igem.org/files/video/Virginia_Tech.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Virginia_Tech.pdf"
+ },
+ "Washington": {
+  "team_name": "Washington",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Regional Finalist, Americas",
+   "Grand Prize Winner, Americas",
+   "Best New BioBrick Device, Engineered, Americas<br>(BBa_K590087)",
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Washington",
+  "presentation_link": "http://2011.igem.org/files/presentation/Washington.pdf",
+  "video_link": "http://2011.igem.org/files/video/Washington.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Washington.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Washington_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Washington_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Washington_Championship.pdf"
+ },
+ "WashU": {
+  "team_name": "WashU",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:WashU",
+  "presentation_link": "http://2011.igem.org/files/presentation/WashU.pdf",
+  "video_link": "http://2011.igem.org/files/video/WashU.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/WashU.pdf"
+ },
+ "Waterloo": {
+  "team_name": "Waterloo",
+  "region": "Americas",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Waterloo",
+  "presentation_link": "http://2011.igem.org/files/presentation/Waterloo.pdf",
+  "video_link": "http://2011.igem.org/files/video/Waterloo.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Waterloo.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Waterloo_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Waterloo_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Waterloo_Championship.pdf"
+ },
+ "West_Point": {
+  "team_name": "West_Point",
+  "region": "Americas",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:West_Point",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ },
+ "Wisconsin-Madison": {
+  "team_name": "Wisconsin-Madison",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Wisconsin-Madison",
+  "presentation_link": "http://2011.igem.org/files/presentation/Wisconsin-Madison.pdf",
+  "video_link": "http://2011.igem.org/files/video/Wisconsin-Madison.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Wisconsin-Madison.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Wisconsin-Madison_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Wisconsin-Madison_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Wisconsin-Madison_Championship.pdf"
+ },
+ "Yale": {
+  "team_name": "Yale",
+  "region": "Americas",
+  "medal": "Gold",
+  "award": [
+   "Regional Finalist, Americas",
+   "Best New BioBrick Part, Natural, Americas<br>(BBa_K652000)",
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Yale",
+  "presentation_link": "http://2011.igem.org/files/presentation/Yale.pdf",
+  "video_link": "http://2011.igem.org/files/video/Yale.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Yale.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Yale_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Yale_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Yale_Championship.pdf"
+ },
+ "ArtScienceBangalore": {
+  "team_name": "ArtScienceBangalore",
+  "region": "Asia",
+  "medal": "None",
+  "award": [
+   "Advance to Championship",
+   "Best Human Practices Advance, Asia"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:ArtScienceBangalore",
+  "presentation_link": "http://2011.igem.org/files/presentation/ArtScienceBangalore.pdf",
+  "video_link": "http://2011.igem.org/files/video/ArtScienceBangalore.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/ArtScienceBangalore.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/ArtScienceBangalore_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/ArtScienceBangalore_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/ArtScienceBangalore_Championship.pdf"
+ },
+ "CBNU-Korea": {
+  "team_name": "CBNU-Korea",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:CBNU-Korea",
+  "presentation_link": "http://2011.igem.org/files/presentation/CBNU-Korea.pdf",
+  "video_link": "http://2011.igem.org/files/video/CBNU-Korea.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/CBNU-Korea.pdf"
+ },
+ "CTGU-Yichang": {
+  "team_name": "CTGU-Yichang",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:CTGU-Yichang"
+ },
+ "Fudan-Shanghai": {
+  "team_name": "Fudan-Shanghai",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Fudan-Shanghai",
+  "presentation_link": "http://2011.igem.org/files/presentation/Fudan-Shanghai.pdf",
+  "video_link": "http://2011.igem.org/files/video/Fudan-Shanghai.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Fudan-Shanghai.jpg"
+ },
+ "HIT-Harbin": {
+  "team_name": "HIT-Harbin",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:HIT-Harbin",
+  "presentation_link": "http://2011.igem.org/files/presentation/HIT-Harbin.pdf",
+  "video_link": "http://2011.igem.org/files/video/HIT-Harbin.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/HIT-Harbin.pdf"
+ },
+ "HKU-Hong_Kong": {
+  "team_name": "HKU-Hong_Kong",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:HKU-Hong_Kong",
+  "presentation_link": "http://2011.igem.org/files/presentation/HKU-Hong_Kong.pdf",
+  "video_link": "http://2011.igem.org/files/video/HKU-Hong_Kong.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/HKU-Hong_Kong.pdf"
+ },
+ "HKUST-Hong_Kong": {
+  "team_name": "HKUST-Hong_Kong",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Presentation, Asia"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:HKUST-Hong_Kong",
+  "presentation_link": "http://2011.igem.org/files/presentation/HKUST-Hong_Kong.pdf",
+  "video_link": "http://2011.igem.org/files/video/HKUST-Hong_Kong.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/HKUST-Hong_Kong.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/HKUST-Hong_Kong_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/HKUST-Hong_Kong_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/HKUST-Hong_Kong_Championship.pdf"
+ },
+ "HokkaidoU_Japan": {
+  "team_name": "HokkaidoU_Japan",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [
+   "Best Wiki, Asia"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:HokkaidoU_Japan",
+  "presentation_link": "http://2011.igem.org/files/presentation/HokkaidoU_Japan.pdf",
+  "video_link": "http://2011.igem.org/files/video/HokkaidoU_Japan.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/HokkaidoU_Japan.pdf"
+ },
+ "Hong_Kong-CUHK": {
+  "team_name": "Hong_Kong-CUHK",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Experimental Measurement Approach, Asia",
+   "Best New BioBrick Part, Natural, Asia<br>(BBa_K559010)"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Hong_Kong-CUHK",
+  "presentation_link": "http://2011.igem.org/files/presentation/Hong_Kong-CUHK.pdf",
+  "video_link": "http://2011.igem.org/files/video/Hong_Kong-CUHK.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Hong_Kong-CUHK.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Hong_Kong-CUHK_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Hong_Kong-CUHK_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Hong_Kong-CUHK_Championship.pdf"
+ },
+ "HSU": {
+  "team_name": "HSU",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:HSU"
+ },
+ "HUST-China": {
+  "team_name": "HUST-China",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:HUST-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/HUST-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/HUST-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/HUST-China.pdf"
+ },
+ "IIT_Madras": {
+  "team_name": "IIT_Madras",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Safety Commendation, Asia",
+   "Best New BioBrick Part, Natural, Asia<br>(BBa_K572005)"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:IIT_Madras",
+  "presentation_link": "http://2011.igem.org/files/presentation/IIT_Madras.pdf",
+  "video_link": "http://2011.igem.org/files/video/IIT_Madras.mp4",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/IIT_Madras_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/IIT_Madras_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/IIT_Madras_Championship.pdf"
+ },
+ "KAIST-Korea": {
+  "team_name": "KAIST-Korea",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:KAIST-Korea",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/KAIST-Korea.mp4",
+  "poster_link": ""
+ },
+ "KAIT_Japan": {
+  "team_name": "KAIT_Japan",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:KAIT_Japan",
+  "presentation_link": "http://2011.igem.org/files/presentation/KAIT_Japan.pdf",
+  "video_link": "http://2011.igem.org/files/video/KAIT_Japan.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/KAIT_Japan.pdf"
+ },
+ "KIT-Kyoto": {
+  "team_name": "KIT-Kyoto",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:KIT-Kyoto",
+  "presentation_link": "http://2011.igem.org/files/presentation/KIT-Kyoto.pdf",
+  "video_link": "http://2011.igem.org/files/video/KIT-Kyoto.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/KIT-Kyoto.pdf"
+ },
+ "Korea_U_Seoul": {
+  "team_name": "Korea_U_Seoul",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Korea_U_Seoul",
+  "presentation_link": "http://2011.igem.org/files/presentation/Korea_U_Seoul.pdf",
+  "video_link": "http://2011.igem.org/files/video/Korea_U_Seoul.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Korea_U_Seoul.pdf"
+ },
+ "Kyoto": {
+  "team_name": "Kyoto",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Kyoto",
+  "presentation_link": "http://2011.igem.org/files/presentation/Kyoto.pdf",
+  "video_link": "http://2011.igem.org/files/video/Kyoto.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Kyoto.pdf"
+ },
+ "Macquarie_Australia": {
+  "team_name": "Macquarie_Australia",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Macquarie_Australia",
+  "presentation_link": "http://2011.igem.org/files/presentation/Macquarie_Australia.pdf",
+  "video_link": "http://2011.igem.org/files/video/Macquarie_Australia.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Macquarie_Australia.pdf"
+ },
+ "Nanjing": {
+  "team_name": "Nanjing",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Nanjing"
+ },
+ "NCTU_Formosa": {
+  "team_name": "NCTU_Formosa",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:NCTU_Formosa",
+  "presentation_link": "http://2011.igem.org/files/presentation/NCTU_Formosa.pdf",
+  "video_link": "http://2011.igem.org/files/video/NCTU_Formosa.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/NCTU_Formosa.pdf"
+ },
+ "NYMU-Taipei": {
+  "team_name": "NYMU-Taipei",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:NYMU-Taipei",
+  "presentation_link": "http://2011.igem.org/files/presentation/NYMU-Taipei.pdf",
+  "video_link": "http://2011.igem.org/files/video/NYMU-Taipei.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/NYMU-Taipei.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/NYMU-Taipei_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/NYMU-Taipei_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/NYMU-Taipei_Championship.pdf"
+ },
+ "Osaka": {
+  "team_name": "Osaka",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Osaka",
+  "presentation_link": "http://2011.igem.org/files/presentation/Osaka.pdf",
+  "video_link": "http://2011.igem.org/files/video/Osaka.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Osaka.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Osaka_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Osaka_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Osaka_Championship.pdf"
+ },
+ "OUC-China": {
+  "team_name": "OUC-China",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:OUC-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/OUC-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/OUC-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/OUC-China.pdf"
+ },
+ "Peking_R": {
+  "team_name": "Peking_R",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Peking_R",
+  "presentation_link": "http://2011.igem.org/files/presentation/Peking_R.pdf",
+  "video_link": "http://2011.igem.org/files/video/Peking_R.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Peking_R.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Peking_R_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Peking_R_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Peking_R_Championship.pdf"
+ },
+ "Peking_S": {
+  "team_name": "Peking_S",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Peking_S",
+  "presentation_link": "http://2011.igem.org/files/presentation/Peking_S.pdf",
+  "video_link": "http://2011.igem.org/files/video/Peking_S.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Peking_S.pdf"
+ },
+ "Rajasthan": {
+  "team_name": "Rajasthan",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Rajasthan"
+ },
+ "SJTU-BioX-Shanghai": {
+  "team_name": "SJTU-BioX-Shanghai",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best New BioBrick Device, Engineered, Asia<br>(BBa_K567011 and BBa_K567012)"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:SJTU-BioX-Shanghai",
+  "presentation_link": "http://2011.igem.org/files/presentation/SJTU-BioX-Shanghai.pdf",
+  "video_link": "http://2011.igem.org/files/video/SJTU-BioX-Shanghai.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/SJTU-BioX-Shanghai.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/SJTU-BioX-Shanghai_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/SJTU-BioX-Shanghai_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/SJTU-BioX-Shanghai_Championship.pdf"
+ },
+ "SYSU-China": {
+  "team_name": "SYSU-China",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:SYSU-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/SYSU-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/SYSU-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/SYSU-China.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/SYSU-China_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/SYSU-China_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/SYSU-China_Championship.pdf"
+ },
+ "Tianjin": {
+  "team_name": "Tianjin",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Tianjin",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tianjin.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tianjin.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tianjin.pdf"
+ },
+ "Tokyo-NoKoGen": {
+  "team_name": "Tokyo-NoKoGen",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Poster, Asia"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Tokyo-NoKoGen",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tokyo-NoKoGen.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tokyo-NoKoGen.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tokyo-NoKoGen.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Tokyo-NoKoGen_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Tokyo-NoKoGen_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Tokyo-NoKoGen_Championship.pdf"
+ },
+ "Tokyo_Metropolitan": {
+  "team_name": "Tokyo_Metropolitan",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Tokyo_Metropolitan",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tokyo_Metropolitan.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tokyo_Metropolitan.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tokyo_Metropolitan.pdf"
+ },
+ "Tokyo_Tech": {
+  "team_name": "Tokyo_Tech",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Model, Asia"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Tokyo_Tech",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tokyo_Tech.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tokyo_Tech.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tokyo_Tech.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Tokyo_Tech_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Tokyo_Tech_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Tokyo_Tech_Championship.pdf"
+ },
+ "Tsinghua": {
+  "team_name": "Tsinghua",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Tsinghua",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tsinghua.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tsinghua.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tsinghua.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Tsinghua_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Tsinghua_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Tsinghua_Championship.pdf"
+ },
+ "Tsinghua-A": {
+  "team_name": "Tsinghua-A",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Tsinghua-A",
+  "presentation_link": "http://2011.igem.org/files/presentation/Tsinghua-A.pdf",
+  "video_link": "http://2011.igem.org/files/video/Tsinghua-A.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Tsinghua-A.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Tsinghua-A_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Tsinghua-A_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Tsinghua-A_Championship.pdf"
+ },
+ "TzuChiU_Formosa": {
+  "team_name": "TzuChiU_Formosa",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:TzuChiU_Formosa",
+  "presentation_link": "http://2011.igem.org/files/presentation/TzuChiU_Formosa.pdf",
+  "video_link": "http://2011.igem.org/files/video/TzuChiU_Formosa.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/TzuChiU_Formosa.pdf"
+ },
+ "UNIST_Korea": {
+  "team_name": "UNIST_Korea",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UNIST_Korea",
+  "presentation_link": "http://2011.igem.org/files/presentation/UNIST_Korea.pdf",
+  "video_link": "http://2011.igem.org/files/video/UNIST_Korea.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UNIST_Korea.pdf"
+ },
+ "UQ-Australia": {
+  "team_name": "UQ-Australia",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UQ-Australia",
+  "presentation_link": "http://2011.igem.org/files/presentation/UQ-Australia.pdf",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/UQ-Australia.pdf"
+ },
+ "UST-Beijing": {
+  "team_name": "UST-Beijing",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UST-Beijing",
+  "presentation_link": "http://2011.igem.org/files/presentation/UST-Beijing.pdf",
+  "video_link": "http://2011.igem.org/files/video/UST-Beijing.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UST-Beijing.pdf"
+ },
+ "USTC-China": {
+  "team_name": "USTC-China",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:USTC-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/USTC-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/USTC-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/USTC-China.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/USTC-China_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/USTC-China_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/USTC-China_Championship.pdf"
+ },
+ "USTC-Software": {
+  "team_name": "USTC-Software",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:USTC-Software",
+  "presentation_link": "http://2011.igem.org/files/presentation/USTC-Software.pdf",
+  "video_link": "http://2011.igem.org/files/video/USTC-Software.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/USTC-Software.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/USTC-Software_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/USTC-Software_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/USTC-Software_Championship.pdf"
+ },
+ "UT-Tokyo": {
+  "team_name": "UT-Tokyo",
+  "region": "Asia",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UT-Tokyo",
+  "presentation_link": "http://2011.igem.org/files/presentation/UT-Tokyo.pdf",
+  "video_link": "http://2011.igem.org/files/video/UT-Tokyo.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/UT-Tokyo.pdf"
+ },
+ "VIT_Vellore": {
+  "team_name": "VIT_Vellore",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:VIT_Vellore",
+  "presentation_link": "http://2011.igem.org/files/presentation/VIT_Vellore.pdf",
+  "video_link": "http://2011.igem.org/files/video/VIT_Vellore.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/VIT_Vellore.pdf"
+ },
+ "Waseda-Japan": {
+  "team_name": "Waseda-Japan",
+  "region": "Asia",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Waseda-Japan"
+ },
+ "WHU-China": {
+  "team_name": "WHU-China",
+  "region": "Asia",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:WHU-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/WHU-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/WHU-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/WHU-China.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/WHU-China_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/WHU-China_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/WHU-China_Championship.pdf"
+ },
+ "XMU-China": {
+  "team_name": "XMU-China",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:XMU-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/XMU-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/XMU-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/XMU-China.pdf",
+  "championship_presentation_link": "",
+  "championship_video_link": "http://2011.igem.org/files/video/XMU-China_Championship.mp4",
+  "championship_poster_link": ""
+ },
+ "ZJU-China": {
+  "team_name": "ZJU-China",
+  "region": "Asia",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Grand Prize Winner, Asia"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:ZJU-China",
+  "presentation_link": "http://2011.igem.org/files/presentation/ZJU-China.pdf",
+  "video_link": "http://2011.igem.org/files/video/ZJU-China.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/ZJU-China.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/ZJU-China_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/ZJU-China_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/ZJU-China_Championship.pdf"
+ },
+ "Amsterdam": {
+  "team_name": "Amsterdam",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Amsterdam",
+  "presentation_link": "http://2011.igem.org/files/presentation/Amsterdam.pdf",
+  "video_link": "http://2011.igem.org/files/video/Amsterdam.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Amsterdam.pdf"
+ },
+ "BCCS-Bristol": {
+  "team_name": "BCCS-Bristol",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:BCCS-Bristol"
+ },
+ "Bielefeld-Germany": {
+  "team_name": "Bielefeld-Germany",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Bielefeld-Germany",
+  "presentation_link": "http://2011.igem.org/files/presentation/Bielefeld-Germany.pdf",
+  "video_link": "http://2011.igem.org/files/video/Bielefeld-Germany.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Bielefeld-Germany.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Bielefeld-Germany_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Bielefeld-Germany_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Bielefeld-Germany_Championship.pdf"
+ },
+ "Bilkent_UNAM_Turkey": {
+  "team_name": "Bilkent_UNAM_Turkey",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Bilkent_UNAM_Turkey",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/Bilkent_UNAM_Turkey.mp4",
+  "poster_link": ""
+ },
+ "Cambridge": {
+  "team_name": "Cambridge",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Cambridge",
+  "presentation_link": "http://2011.igem.org/files/presentation/Cambridge.pdf",
+  "video_link": "http://2011.igem.org/files/video/Cambridge.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Cambridge.pdf"
+ },
+ "CongoDRC-Bel_Campus": {
+  "team_name": "CongoDRC-Bel_Campus",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:CongoDRC-Bel_Campus"
+ },
+ "Copenhagen": {
+  "team_name": "Copenhagen",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Copenhagen",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/Copenhagen.pdf"
+ },
+ "Debrecen_Hungary": {
+  "team_name": "Debrecen_Hungary",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Debrecen_Hungary",
+  "presentation_link": "http://2011.igem.org/files/presentation/Debrecen_Hungary.pdf",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/Debrecen_Hungary.pdf"
+ },
+ "DTU-Denmark": {
+  "team_name": "DTU-Denmark",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:DTU-Denmark",
+  "presentation_link": "http://2011.igem.org/files/presentation/DTU-Denmark.pdf",
+  "video_link": "http://2011.igem.org/files/video/DTU-Denmark.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/DTU-Denmark.pdf"
+ },
+ "DTU-Denmark-2": {
+  "team_name": "DTU-Denmark-2",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:DTU-Denmark-2",
+  "presentation_link": "http://2011.igem.org/files/presentation/DTU-Denmark-2.pdf",
+  "video_link": "http://2011.igem.org/files/video/DTU-Denmark-2.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/DTU-Denmark-2.pdf"
+ },
+ "Dundee": {
+  "team_name": "Dundee",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Dundee",
+  "presentation_link": "http://2011.igem.org/files/presentation/Dundee.pdf",
+  "video_link": "http://2011.igem.org/files/video/Dundee.mp4",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Dundee_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Dundee_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Dundee_Championship.pdf"
+ },
+ "Edinburgh": {
+  "team_name": "Edinburgh",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Model, Europe"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Edinburgh",
+  "presentation_link": "http://2011.igem.org/files/presentation/Edinburgh.pdf",
+  "video_link": "http://2011.igem.org/files/video/Edinburgh.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Edinburgh.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Edinburgh_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Edinburgh_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Edinburgh_Championship.pdf"
+ },
+ "ENSPS-Strasbourg": {
+  "team_name": "ENSPS-Strasbourg",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:ENSPS-Strasbourg",
+  "presentation_link": "http://2011.igem.org/files/presentation/ENSPS-Strasbourg.pdf",
+  "video_link": "http://2011.igem.org/files/video/ENSPS-Strasbourg.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/ENSPS-Strasbourg.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/ENSPS-Strasbourg_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/ENSPS-Strasbourg_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/ENSPS-Strasbourg_Championship.pdf"
+ },
+ "EPF-Lausanne": {
+  "team_name": "EPF-Lausanne",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:EPF-Lausanne",
+  "presentation_link": "http://2011.igem.org/files/presentation/EPF-Lausanne.pdf",
+  "video_link": "http://2011.igem.org/files/video/EPF-Lausanne.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/EPF-Lausanne.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/EPF-Lausanne_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/EPF-Lausanne_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/EPF-Lausanne_Championship.pdf"
+ },
+ "ETH_Zurich": {
+  "team_name": "ETH_Zurich",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:ETH_Zurich",
+  "presentation_link": "http://2011.igem.org/files/presentation/ETH_Zurich.pdf",
+  "video_link": "http://2011.igem.org/files/video/ETH_Zurich.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/ETH_Zurich.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/ETH_Zurich_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/ETH_Zurich_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/ETH_Zurich_Championship.pdf"
+ },
+ "Fatih_Turkey": {
+  "team_name": "Fatih_Turkey",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best New BioBrick Part, Natural, Europe<br>(BBa_K541515)"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Fatih_Turkey",
+  "presentation_link": "http://2011.igem.org/files/presentation/Fatih_Turkey.pdf",
+  "video_link": "http://2011.igem.org/files/video/Fatih_Turkey.mp4",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Fatih_Turkey_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Fatih_Turkey_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Fatih_Turkey_Championship.pdf"
+ },
+ "Freiburg": {
+  "team_name": "Freiburg",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Freiburg",
+  "presentation_link": "http://2011.igem.org/files/presentation/Freiburg.pdf",
+  "video_link": "http://2011.igem.org/files/video/Freiburg.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Freiburg.pdf"
+ },
+ "Glasgow": {
+  "team_name": "Glasgow",
+  "region": "Europe",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Glasgow",
+  "presentation_link": "http://2011.igem.org/files/presentation/Glasgow.pdf",
+  "video_link": "http://2011.igem.org/files/video/Glasgow.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Glasgow.pdf"
+ },
+ "Grenoble": {
+  "team_name": "Grenoble",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Grenoble",
+  "presentation_link": "http://2011.igem.org/files/presentation/Grenoble.pdf",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/Grenoble.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Grenoble_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Grenoble_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Grenoble_Championship.pdf"
+ },
+ "Groningen": {
+  "team_name": "Groningen",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Groningen",
+  "presentation_link": "http://2011.igem.org/files/presentation/Groningen.pdf",
+  "video_link": "http://2011.igem.org/files/video/Groningen.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Groningen.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Groningen_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Groningen_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Groningen_Championship.pdf"
+ },
+ "HU-Micro": {
+  "team_name": "HU-Micro",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:HU-Micro"
+ },
+ "Imperial_College_London": {
+  "team_name": "Imperial_College_London",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Regional Finalist, Europe",
+   "Grand Prize Winner, Europe",
+   "Best Wiki, Europe",
+   "Safety Commendation, Europe"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Imperial_College_London",
+  "presentation_link": "http://2011.igem.org/files/presentation/Imperial_College_London.pdf",
+  "video_link": "http://2011.igem.org/files/video/Imperial_College_London.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Imperial_College_London.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Imperial_College_London_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Imperial_College_London_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Imperial_College_London_Championship.pdf"
+ },
+ "KULeuven": {
+  "team_name": "KULeuven",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:KULeuven",
+  "presentation_link": "http://2011.igem.org/files/presentation/KULeuven.pdf",
+  "video_link": "http://2011.igem.org/files/video/KULeuven.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/KULeuven.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/KULeuven_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/KULeuven_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/KULeuven_Championship.pdf"
+ },
+ "LMU-Munich": {
+  "team_name": "LMU-Munich",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:LMU-Munich",
+  "presentation_link": "http://2011.igem.org/files/presentation/LMU-Munich.pdf",
+  "video_link": "http://2011.igem.org/files/video/LMU-Munich.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/LMU-Munich.pdf"
+ },
+ "Lyon-INSA-ENS": {
+  "team_name": "Lyon-INSA-ENS",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best New BioBrick Device, Engineered, Europe<br>(BBa_K540000)"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Lyon-INSA-ENS",
+  "presentation_link": "http://2011.igem.org/files/presentation/Lyon-INSA-ENS.pdf",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/Lyon-INSA-ENS.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Lyon-INSA-ENS_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Lyon-INSA-ENS_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Lyon-INSA-ENS_Championship.pdf"
+ },
+ "METU-Ankara": {
+  "team_name": "METU-Ankara",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:METU-Ankara",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/METU-Ankara.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/METU-Ankara.pdf"
+ },
+ "METU-BIN_Ankara": {
+  "team_name": "METU-BIN_Ankara",
+  "region": "Europe",
+  "medal": "Silver",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:METU-BIN_Ankara",
+  "presentation_link": "http://2011.igem.org/files/presentation/METU-BIN_Ankara.pdf",
+  "video_link": "",
+  "poster_link": "http://2011.igem.org/files/poster/METU-BIN_Ankara.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/METU-BIN_Ankara_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/METU-BIN_Ankara_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/METU-BIN_Ankara_Championship.pdf"
+ },
+ "METU_Turkey_SoftLab": {
+  "team_name": "METU_Turkey_SoftLab",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:METU_Turkey_SoftLab"
+ },
+ "Nairobi": {
+  "team_name": "Nairobi",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Nairobi"
+ },
+ "NTNU_Trondheim": {
+  "team_name": "NTNU_Trondheim",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:NTNU_Trondheim",
+  "presentation_link": "http://2011.igem.org/files/presentation/NTNU_Trondheim.pdf",
+  "video_link": "http://2011.igem.org/files/video/NTNU_Trondheim.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/NTNU_Trondheim.pdf"
+ },
+ "Paris_Bettencourt": {
+  "team_name": "Paris_Bettencourt",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Regional Finalist, Europe",
+   "Best Presentation, Europe"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Paris_Bettencourt",
+  "presentation_link": "http://2011.igem.org/files/presentation/Paris_Bettencourt.pdf",
+  "video_link": "http://2011.igem.org/files/video/Paris_Bettencourt.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Paris_Bettencourt.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Paris_Bettencourt_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Paris_Bettencourt_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Paris_Bettencourt_Championship.pdf"
+ },
+ "Potsdam_Bioware": {
+  "team_name": "Potsdam_Bioware",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Potsdam_Bioware",
+  "presentation_link": "http://2011.igem.org/files/presentation/Potsdam_Bioware.pdf",
+  "video_link": "http://2011.igem.org/files/video/Potsdam_Bioware.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Potsdam_Bioware.pdf",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Potsdam_Bioware_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Potsdam_Bioware_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Potsdam_Bioware_Championship.pdf"
+ },
+ "Sevilla": {
+  "team_name": "Sevilla",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Sevilla",
+  "presentation_link": "http://2011.igem.org/files/presentation/Sevilla.pdf",
+  "video_link": "http://2011.igem.org/files/video/Sevilla.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/Sevilla.pdf"
+ },
+ "Strathclyde_Glasgow": {
+  "team_name": "Strathclyde_Glasgow",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Strathclyde_Glasgow"
+ },
+ "St_Andrews": {
+  "team_name": "St_Andrews",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:St_Andrews",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/St_Andrews.mp4",
+  "poster_link": "http://2011.igem.org/files/poster/St_Andrews.pdf"
+ },
+ "TU-Delft": {
+  "team_name": "TU-Delft",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:TU-Delft",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/TU-Delft.mp4",
+  "poster_link": ""
+ },
+ "TU_Munich": {
+  "team_name": "TU_Munich",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:TU_Munich",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/TU_Munich_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/TU_Munich_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/TU_Munich_Championship.pdf"
+ },
+ "UCL_London": {
+  "team_name": "UCL_London",
+  "region": "Europe",
+  "medal": "Bronze",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UCL_London",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": ""
+ },
+ "UEA-JIC_Norwich": {
+  "team_name": "UEA-JIC_Norwich",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UEA-JIC_Norwich",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/UEA-JIC_Norwich.mp4",
+  "poster_link": ""
+ },
+ "ULB-Brussels": {
+  "team_name": "ULB-Brussels",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:ULB-Brussels",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/ULB-Brussels.mp4",
+  "poster_link": ""
+ },
+ "UNIPV-Pavia": {
+  "team_name": "UNIPV-Pavia",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UNIPV-Pavia",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/UNIPV-Pavia.mp4",
+  "poster_link": ""
+ },
+ "UNITS_Trieste": {
+  "team_name": "UNITS_Trieste",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:UNITS_Trieste",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/UNITS_Trieste.mp4",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/UNITS_Trieste_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/UNITS_Trieste_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/UNITS_Trieste_Championship.pdf"
+ },
+ "UPO-Sevilla": {
+  "team_name": "UPO-Sevilla",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Best Human Practices Advance, Europe"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:UPO-Sevilla",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/UPO-Sevilla.mp4",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/UPO-Sevilla_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/UPO-Sevilla_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/UPO-Sevilla_Championship.pdf"
+ },
+ "Uppsala-Sweden": {
+  "team_name": "Uppsala-Sweden",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:Uppsala-Sweden",
+  "presentation_link": "",
+  "video_link": "",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/Uppsala-Sweden_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/Uppsala-Sweden_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Uppsala-Sweden_Championship.pdf"
+ },
+ "UTP-Poland": {
+  "team_name": "UTP-Poland",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:UTP-Poland"
+ },
+ "Valencia": {
+  "team_name": "Valencia",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Valencia",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/Valencia.mp4",
+  "poster_link": ""
+ },
+ "Wageningen_UR": {
+  "team_name": "Wageningen_UR",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Wageningen_UR",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/Wageningen_UR.mp4",
+  "poster_link": ""
+ },
+ "Warsaw": {
+  "team_name": "Warsaw",
+  "region": "Europe",
+  "medal": "Silver",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Warsaw",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/Warsaw.mp4",
+  "poster_link": ""
+ },
+ "WITS-CSIR_SA": {
+  "team_name": "WITS-CSIR_SA",
+  "region": "Europe",
+  "medal": "Gold",
+  "award": [
+   "Advance to Championship",
+   "Regional Finalist, Europe",
+   "Best Experimental Measurement Approach, Europe",
+   "Best Poster, Europe"
+  ],
+  "wiki_link": "http://2011.igem.org/Team:WITS-CSIR_SA",
+  "presentation_link": "",
+  "video_link": "http://2011.igem.org/files/video/WITS-CSIR_SA.mp4",
+  "poster_link": "",
+  "championship_presentation_link": "http://2011.igem.org/files/presentation/WITS-CSIR_SA_Championship.pdf",
+  "championship_video_link": "http://2011.igem.org/files/video/WITS-CSIR_SA_Championship.mp4",
+  "championship_poster_link": "http://2011.igem.org/files/poster/WITS-CSIR_SA_Championship.pdf"
+ },
+ "Example": {
+  "team_name": "Example",
+  "region": "Europe",
+  "medal": "None",
+  "award": [],
+  "wiki_link": "http://2011.igem.org/Team:Example",
+  "presentation_link": "http://2011.igem.org/files/presentation/Example.ppt",
+  "video_link": "http://2011.igem.org/files/video/Example.mov",
+  "poster_link": "http://2011.igem.org/files/poster/Example.pdf",
+  "championship_presentation_link": "",
+  "championship_video_link": "http://2011.igem.org/files/video/Example_Championship.mov",
+  "championship_poster_link": "http://2011.igem.org/files/poster/Example_Championship.pdf"
+ }
+}
