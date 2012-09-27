@@ -32,7 +32,7 @@ Gene Network Game : http://igem-ut.net/2012sw/gene_network_game/
  video : http://www.youtube.com/embed/LssBG7adHBU
 
 Past Project Search : http://igem-ut.net/ppsearch/
- video : ★
+ video : http://igem-ut.net/2012sw/videos/tes2.swf
 
 BioBrick Search have : http://igem-ut.net/bbsearch/
  video : http://www.youtube.com/embed/VMNLTBEx9Js
