@@ -1,0 +1,22 @@
+### NP, NF, NT, dt
+1 0 660 0.4
+### promoter data
+#   name
+#   type, strength, number of genes
+#   factor name
+#   k, n
+###
+promoter 1
+1 3.0 1
+A
+0.1 2
+### factor data
+#   name
+#   degeneration, copy rate, number of genes
+#   initial value
+#   input type, timing, strength
+###
+### input type
+1
+### input data
+### END
