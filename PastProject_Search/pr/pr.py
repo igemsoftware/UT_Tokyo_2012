@@ -14,8 +14,6 @@ urls = (
 )
 
 
-#superparts = pickle.load(open('superparts.pickle'))
-
 render = web.template.render('.')
 idx = open(os.path.dirname(__file__) + '/' + 'index.html').read()
 
@@ -28,6 +26,14 @@ query_map = {
         'should': [{
           'text': {
             'pages.content': {
+              'query': x,
+                'operator': 'and',
+                'fuzziness': 0.8,
+                },
+              },
+            },{
+          'text': {
+            'abstract': {
               'query': x,
                 'operator': 'and',
                 'fuzziness': 0.8,
@@ -75,30 +81,6 @@ query_map = {
         },
       },
     }
-
-scripts = {
-    'relevance': '_score',
-    'overall': "_score * doc['reliability'].value * log10(doc['num_teams_used'].value+2)",
-    'popularity': "log10(doc['num_teams_used'].value+2)",
-    }
-
-def _rough_data(query, size=20):
-    search_query = {
-        'fields': ['part_name', 'part_id', 'part_short_desc', 'num_teams_used', 'reliability', 'part_type', 'submitted_by',],
-        'from': 0,
-        'size': 20,
-        'query': {
-          'custom_score': {
-            'query': query,
-            'script': "_score * doc['reliability'].value * log10(doc['num_teams_used'].value+2)"
-            },
-          },
-        }
-    res = conn.search_raw(search_query)
-    ret = []
-    for r in res['hits']['hits']:
-        ret.append(r['fields'])
-    return ret
 
 def search(query):
     search_query = {
@@ -159,37 +141,8 @@ def search(query):
       'hits': ret,
       }
 
-def detail(query):
-    if 'ids' in query:
-        res = conn.search(query=IdsQuery('team', query['ids']))
-    elif 'names' in query:
-        detail_query = {
-            'query': {
-                'bool': {
-                    'should': [{
-                        'terms': {
-                            'team_name': query['names'],
-                            },
-                        },],
-                        'minimum_number_should_match': 1,
-                    },
-                },
-            }
-    
-        res = conn.search_raw(detail_query)
-        print res
-    ret = []
-    for r in res['hits']['hits']:
-        obj = r['_source']
-        obj['related_parts'] = {}
-        # same team
-        obj['related_parts']['same_team'] = _rough_data({'bool': { 'must': [query_map['year'](obj['submitted_by']['year']), query_map['team_name'](obj['submitted_by']['team_name'])]}})
-        ret.append(obj)
-    return ret
-
 dispatch = {
     'search': search,
-#    'detail': detail,
     }
 
 class NoneException(Exception):
@@ -218,7 +171,7 @@ class index:
         web.header('Content-Type', 'application/json')
         return json.dumps(res)
 
-web.wsgi.runwsgi = lambda func, addr=None: web.wsgi.runfcgi(func, addr)
+#web.wsgi.runwsgi = lambda func, addr=None: web.wsgi.runfcgi(func, addr)
 app = web.application(urls, globals())
 
 if __name__ == "__main__":

@@ -4,7 +4,7 @@ import json
 import urllib
 import re
 
-YEAR='2011'
+YEAR='2012'
 
 def query_api(q):
     return json.loads(urllib.urlopen('http://' + YEAR + '.igem.org/wiki/api.php?'+urllib.urlencode(q)).read())

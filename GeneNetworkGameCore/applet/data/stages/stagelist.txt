@@ -1,9 +1,0 @@
-8
-stage1.txt	Regulation
-stage2.txt	FeedForward 1
-stage3.txt	OR Gate
-stage4.txt	FeedForward 2
-stage5.txt	FeedBack 1
-stage6.txt	FeedBack 2
-stage7.txt	Oscillator
-stage8.txt	Toggle Switch

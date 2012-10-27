@@ -42,14 +42,17 @@ elasticsearch uses TCP port 9200 to communicate with other softwares.
 
 You need to feed Past Project data to elasticsearch in order to perform search
 using it.
-To do this, just execute:
+To do this, first you need to edit the es.py.
+In the top part of the es.py, you can find that ÅgYEAR='2007'Åh is written.
+You need to change the value of YEAR as the data you want to feed.
+Then execute:
 
-$ python data_feeder/feeder.py
+$ python es.py
 
-Note that "feeder.py" depends on the following packages:
+Note that "es.py" depends on the following packages:
 pyes, wikimarkup
 
-Install them using easy_install or pip before running "feeder.py".
+Install them using easy_install or pip before running "es.py".
 
 
 
@@ -57,7 +60,7 @@ Install them using easy_install or pip before running "feeder.py".
 
 Now, you can launch the Past Project Search server-side script on your computer.
 
-$ python server/pr.py
+$ python pr/pr.py
 
 "pr.py" depends on web.py and pyes and so you need to install them beforehand.
 The http server will run on port 8080.
@@ -78,3 +81,4 @@ Past Project Search is a WSGI web application based on web.py framework.
 
 You can refer to the link below for how to deploy the app:
 http://webpy.org/install
+

@@ -4,7 +4,7 @@ import json
 import urllib2
 import BeautifulSoup
 
-YEAR = '2008'
+YEAR = '2012'
 
 teamids = json.load(open(YEAR + 'teamids.json', 'r'))
 teaminfo = {}

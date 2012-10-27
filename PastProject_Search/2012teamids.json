@@ -1,0 +1,778 @@
+{
+ "BostonU": {
+  "team_name": "BostonU",
+  "id": "783"
+ },
+ "Carnegie_Mellon": {
+  "team_name": "Carnegie_Mellon",
+  "id": "921"
+ },
+ "Clemson": {
+  "team_name": "Clemson",
+  "id": "803"
+ },
+ "Columbia-Cooper-NYC": {
+  "team_name": "Columbia-Cooper-NYC",
+  "id": "952"
+ },
+ "Cornell": {
+  "team_name": "Cornell",
+  "id": "957"
+ },
+ "Duke": {
+  "team_name": "Duke",
+  "id": "954"
+ },
+ "Gaston_Day_School": {
+  "team_name": "Gaston_Day_School",
+  "id": "824"
+ },
+ "GeorgiaState": {
+  "team_name": "GeorgiaState",
+  "id": "755"
+ },
+ "Georgia_Tech": {
+  "team_name": "Georgia_Tech",
+  "id": "916"
+ },
+ "IvyTech-South_Bend": {
+  "team_name": "IvyTech-South_Bend",
+  "id": "935"
+ },
+ "Johns_Hopkins-Software": {
+  "team_name": "Johns_Hopkins-Software",
+  "id": "800"
+ },
+ "Johns_Hopkins-Wetware": {
+  "team_name": "Johns_Hopkins-Wetware",
+  "id": "799"
+ },
+ "McMaster-Ontario": {
+  "team_name": "McMaster-Ontario",
+  "id": "832"
+ },
+ "Michigan": {
+  "team_name": "Michigan",
+  "id": "880"
+ },
+ "Minnesota": {
+  "team_name": "Minnesota",
+  "id": "814"
+ },
+ "Missouri_Miners": {
+  "team_name": "Missouri_Miners",
+  "id": "877"
+ },
+ "MIT": {
+  "team_name": "MIT",
+  "id": "779"
+ },
+ "Northeastern": {
+  "team_name": "Northeastern",
+  "id": "903"
+ },
+ "Northwestern": {
+  "team_name": "Northwestern",
+  "id": "912"
+ },
+ "NYC_Hunter": {
+  "team_name": "NYC_Hunter",
+  "id": "868"
+ },
+ "NYC_Hunter_Software": {
+  "team_name": "NYC_Hunter_Software",
+  "id": "869"
+ },
+ "NYU_Gallatin": {
+  "team_name": "NYU_Gallatin",
+  "id": "850"
+ },
+ "Penn": {
+  "team_name": "Penn",
+  "id": "811"
+ },
+ "Penn_State": {
+  "team_name": "Penn_State",
+  "id": "933"
+ },
+ "Purdue": {
+  "team_name": "Purdue",
+  "id": "932"
+ },
+ "Queens_Canada": {
+  "team_name": "Queens_Canada",
+  "id": "781"
+ },
+ "RHIT": {
+  "team_name": "RHIT",
+  "id": "840"
+ },
+ "Rutgers": {
+  "team_name": "Rutgers",
+  "id": "787"
+ },
+ "Toronto": {
+  "team_name": "Toronto",
+  "id": "926"
+ },
+ "UConn": {
+  "team_name": "UConn",
+  "id": "919"
+ },
+ "UGA-Georgia": {
+  "team_name": "UGA-Georgia",
+  "id": "890"
+ },
+ "UIUC-Illinois": {
+  "team_name": "UIUC-Illinois",
+  "id": "865"
+ },
+ "UMiami": {
+  "team_name": "UMiami",
+  "id": "882"
+ },
+ "uOttawa_CA": {
+  "team_name": "uOttawa_CA",
+  "id": "807"
+ },
+ "UTK-Knoxville": {
+  "team_name": "UTK-Knoxville",
+  "id": "813"
+ },
+ "Virginia": {
+  "team_name": "Virginia",
+  "id": "732"
+ },
+ "WashU": {
+  "team_name": "WashU",
+  "id": "906"
+ },
+ "Waterloo": {
+  "team_name": "Waterloo",
+  "id": "790"
+ },
+ "Wellesley_HCI": {
+  "team_name": "Wellesley_HCI",
+  "id": "816"
+ },
+ "West_Point": {
+  "team_name": "West_Point",
+  "id": "928"
+ },
+ "Wisconsin-Madison": {
+  "team_name": "Wisconsin-Madison",
+  "id": "762"
+ },
+ "WLC-Milwaukee": {
+  "team_name": "WLC-Milwaukee",
+  "id": "948"
+ },
+ "Yale": {
+  "team_name": "Yale",
+  "id": "810"
+ },
+ "Alberta": {
+  "team_name": "Alberta",
+  "id": "879"
+ },
+ "Alberta-North-RBI": {
+  "team_name": "Alberta-North-RBI",
+  "id": "871"
+ },
+ "Arizona_State": {
+  "team_name": "Arizona_State",
+  "id": "891"
+ },
+ "Austin_Texas": {
+  "team_name": "Austin_Texas",
+  "id": "734"
+ },
+ "Berkeley": {
+  "team_name": "Berkeley",
+  "id": "900"
+ },
+ "British_Columbia": {
+  "team_name": "British_Columbia",
+  "id": "804"
+ },
+ "BYUProvo": {
+  "team_name": "BYUProvo",
+  "id": "833"
+ },
+ "Calgary": {
+  "team_name": "Calgary",
+  "id": "902"
+ },
+ "Caltech": {
+  "team_name": "Caltech",
+  "id": "773"
+ },
+ "Colorado_State": {
+  "team_name": "Colorado_State",
+  "id": "918"
+ },
+ "CU-Boulder": {
+  "team_name": "CU-Boulder",
+  "id": "858"
+ },
+ "Harvey_Mudd": {
+  "team_name": "Harvey_Mudd",
+  "id": "789"
+ },
+ "Lethbridge": {
+  "team_name": "Lethbridge",
+  "id": "901"
+ },
+ "Manitoba": {
+  "team_name": "Manitoba",
+  "id": "930"
+ },
+ "Nevada": {
+  "team_name": "Nevada",
+  "id": "931"
+ },
+ "Reed": {
+  "team_name": "Reed",
+  "id": "915"
+ },
+ "Stanford-Brown": {
+  "team_name": "Stanford-Brown",
+  "id": "847"
+ },
+ "UC-Merced": {
+  "team_name": "UC-Merced",
+  "id": "857"
+ },
+ "UCSF": {
+  "team_name": "UCSF",
+  "id": "726"
+ },
+ "UC_Davis": {
+  "team_name": "UC_Davis",
+  "id": "936"
+ },
+ "USC": {
+  "team_name": "USC",
+  "id": "842"
+ },
+ "Utah_State": {
+  "team_name": "Utah_State",
+  "id": "844"
+ },
+ "UT_Dallas": {
+  "team_name": "UT_Dallas",
+  "id": "876"
+ },
+ "Washington": {
+  "team_name": "Washington",
+  "id": "892"
+ },
+ "BAU-Indonesia": {
+  "team_name": "BAU-Indonesia",
+  "id": "923"
+ },
+ "CBNU-Korea": {
+  "team_name": "CBNU-Korea",
+  "id": "860"
+ },
+ "CD-SCU-CHINA": {
+  "team_name": "CD-SCU-CHINA",
+  "id": "826"
+ },
+ "china-lzjtu-bio": {
+  "team_name": "china-lzjtu-bio",
+  "id": "965"
+ },
+ "CMU-Shenyang": {
+  "team_name": "CMU-Shenyang",
+  "id": "825"
+ },
+ "Ehime-Japan": {
+  "team_name": "Ehime-Japan",
+  "id": "794"
+ },
+ "Fudan_D": {
+  "team_name": "Fudan_D",
+  "id": "798"
+ },
+ "Fudan_Lux": {
+  "team_name": "Fudan_Lux",
+  "id": "785"
+ },
+ "HIT-Harbin": {
+  "team_name": "HIT-Harbin",
+  "id": "748"
+ },
+ "HKUST-Hong_Kong": {
+  "team_name": "HKUST-Hong_Kong",
+  "id": "733"
+ },
+ "HKU_HongKong": {
+  "team_name": "HKU_HongKong",
+  "id": "855"
+ },
+ "HokkaidoU_Japan": {
+  "team_name": "HokkaidoU_Japan",
+  "id": "759"
+ },
+ "Hong_Kong-CUHK": {
+  "team_name": "Hong_Kong-CUHK",
+  "id": "786"
+ },
+ "HUST-China": {
+  "team_name": "HUST-China",
+  "id": "805"
+ },
+ "IIT_Madras": {
+  "team_name": "IIT_Madras",
+  "id": "856"
+ },
+ "JUIT-India": {
+  "team_name": "JUIT-India",
+  "id": "730"
+ },
+ "KAIST_Korea": {
+  "team_name": "KAIST_Korea",
+  "id": "907"
+ },
+ "KAIT_Japan": {
+  "team_name": "KAIT_Japan",
+  "id": "835"
+ },
+ "KIT-Kyoto": {
+  "team_name": "KIT-Kyoto",
+  "id": "758"
+ },
+ "Korea_U_Seoul": {
+  "team_name": "Korea_U_Seoul",
+  "id": "739"
+ },
+ "Kyoto": {
+  "team_name": "Kyoto",
+  "id": "797"
+ },
+ "Macquarie_Australia": {
+  "team_name": "Macquarie_Australia",
+  "id": "953"
+ },
+ "MUMBAI__INDIA": {
+  "team_name": "MUMBAI__INDIA",
+  "id": "958"
+ },
+ "Nanjing-China": {
+  "team_name": "Nanjing-China",
+  "id": "788"
+ },
+ "Nanjing_China_Bio": {
+  "team_name": "Nanjing_China_Bio",
+  "id": "905"
+ },
+ "NCTU_Formosa": {
+  "team_name": "NCTU_Formosa",
+  "id": "887"
+ },
+ "NTHU_BioEE": {
+  "team_name": "NTHU_BioEE",
+  "id": "889"
+ },
+ "NTU-Taida": {
+  "team_name": "NTU-Taida",
+  "id": "817"
+ },
+ "NYMU-Taipei": {
+  "team_name": "NYMU-Taipei",
+  "id": "896"
+ },
+ "Osaka": {
+  "team_name": "Osaka",
+  "id": "941"
+ },
+ "OUC-China": {
+  "team_name": "OUC-China",
+  "id": "737"
+ },
+ "Peking": {
+  "team_name": "Peking",
+  "id": "819"
+ },
+ "Saitama": {
+  "team_name": "Saitama",
+  "id": "924"
+ },
+ "SEU_A": {
+  "team_name": "SEU_A",
+  "id": "873"
+ },
+ "SEU_O_China": {
+  "team_name": "SEU_O_China",
+  "id": "897"
+ },
+ "Shenzhen": {
+  "team_name": "Shenzhen",
+  "id": "809"
+ },
+ "SJTU-BioX-Shanghai": {
+  "team_name": "SJTU-BioX-Shanghai",
+  "id": "771"
+ },
+ "SogangU-Korea": {
+  "team_name": "SogangU-Korea",
+  "id": "829"
+ },
+ "SUSTC-Shenzhen-A": {
+  "team_name": "SUSTC-Shenzhen-A",
+  "id": "767"
+ },
+ "SUSTC-Shenzhen-B": {
+  "team_name": "SUSTC-Shenzhen-B",
+  "id": "827"
+ },
+ "SYSU-China": {
+  "team_name": "SYSU-China",
+  "id": "806"
+ },
+ "SYSU-Software": {
+  "team_name": "SYSU-Software",
+  "id": "893"
+ },
+ "Tianjin": {
+  "team_name": "Tianjin",
+  "id": "821"
+ },
+ "TMU-Tokyo": {
+  "team_name": "TMU-Tokyo",
+  "id": "749"
+ },
+ "Tokyo-NoKoGen": {
+  "team_name": "Tokyo-NoKoGen",
+  "id": "769"
+ },
+ "Tokyo_Tech": {
+  "team_name": "Tokyo_Tech",
+  "id": "934"
+ },
+ "Tsinghua": {
+  "team_name": "Tsinghua",
+  "id": "766"
+ },
+ "Tsinghua-A": {
+  "team_name": "Tsinghua-A",
+  "id": "740"
+ },
+ "Tsinghua-D": {
+  "team_name": "Tsinghua-D",
+  "id": "837"
+ },
+ "USTC-China": {
+  "team_name": "USTC-China",
+  "id": "741"
+ },
+ "USTC-Software": {
+  "team_name": "USTC-Software",
+  "id": "742"
+ },
+ "UT-Tokyo": {
+  "team_name": "UT-Tokyo",
+  "id": "778"
+ },
+ "UT-Tokyo-Software": {
+  "team_name": "UT-Tokyo-Software",
+  "id": "791"
+ },
+ "VIT_Vellore": {
+  "team_name": "VIT_Vellore",
+  "id": "728"
+ },
+ "WHU-China": {
+  "team_name": "WHU-China",
+  "id": "861"
+ },
+ "XMU-China": {
+  "team_name": "XMU-China",
+  "id": "750"
+ },
+ "ZJU-China": {
+  "team_name": "ZJU-China",
+  "id": "738"
+ },
+ "Amsterdam": {
+  "team_name": "Amsterdam",
+  "id": "874"
+ },
+ "Baskent-Meds": {
+  "team_name": "Baskent-Meds",
+  "id": "830"
+ },
+ "Bielefeld-Germany": {
+  "team_name": "Bielefeld-Germany",
+  "id": "863"
+ },
+ "Bonn": {
+  "team_name": "Bonn",
+  "id": "820"
+ },
+ "Bordeaux": {
+  "team_name": "Bordeaux",
+  "id": "848"
+ },
+ "Cambridge": {
+  "team_name": "Cambridge",
+  "id": "911"
+ },
+ "Chalmers-Gothenburg": {
+  "team_name": "Chalmers-Gothenburg",
+  "id": "753"
+ },
+ "Copenhagen": {
+  "team_name": "Copenhagen",
+  "id": "770"
+ },
+ "Dundee": {
+  "team_name": "Dundee",
+  "id": "895"
+ },
+ "Edinburgh": {
+  "team_name": "Edinburgh",
+  "id": "917"
+ },
+ "EPF-Lausanne": {
+  "team_name": "EPF-Lausanne",
+  "id": "838"
+ },
+ "ETH_Zurich": {
+  "team_name": "ETH_Zurich",
+  "id": "909"
+ },
+ "Evry": {
+  "team_name": "Evry",
+  "id": "812"
+ },
+ "Exeter": {
+  "team_name": "Exeter",
+  "id": "764"
+ },
+ "Fatih-Medical": {
+  "team_name": "Fatih-Medical",
+  "id": "772"
+ },
+ "Frankfurt": {
+  "team_name": "Frankfurt",
+  "id": "849"
+ },
+ "Freiburg": {
+  "team_name": "Freiburg",
+  "id": "747"
+ },
+ "Goettingen": {
+  "team_name": "Goettingen",
+  "id": "777"
+ },
+ "Grenoble": {
+  "team_name": "Grenoble",
+  "id": "845"
+ },
+ "Groningen": {
+  "team_name": "Groningen",
+  "id": "818"
+ },
+ "KABK_ArtScience": {
+  "team_name": "KABK_ArtScience",
+  "id": "885"
+ },
+ "Leicester": {
+  "team_name": "Leicester",
+  "id": "852"
+ },
+ "Lleida-Spain": {
+  "team_name": "Lleida-Spain",
+  "id": "894"
+ },
+ "LMU-Munich": {
+  "team_name": "LMU-Munich",
+  "id": "823"
+ },
+ "Lyon-INSA": {
+  "team_name": "Lyon-INSA",
+  "id": "802"
+ },
+ "Marburg_SYNMIKRO": {
+  "team_name": "Marburg_SYNMIKRO",
+  "id": "866"
+ },
+ "METU": {
+  "team_name": "METU",
+  "id": "843"
+ },
+ "NOUVEAUPARADIGMESCIENTIFIQUE": {
+  "team_name": "NOUVEAUPARADIGMESCIENTIFIQUE",
+  "id": "828"
+ },
+ "NRP-UEA-Norwich": {
+  "team_name": "NRP-UEA-Norwich",
+  "id": "774"
+ },
+ "NTNU_Trondheim": {
+  "team_name": "NTNU_Trondheim",
+  "id": "822"
+ },
+ "Paris-Saclay": {
+  "team_name": "Paris-Saclay",
+  "id": "910"
+ },
+ "Paris_Bettencourt": {
+  "team_name": "Paris_Bettencourt",
+  "id": "914"
+ },
+ "Potsdam_Bioware": {
+  "team_name": "Potsdam_Bioware",
+  "id": "929"
+ },
+ "SDU-Denmark": {
+  "team_name": "SDU-Denmark",
+  "id": "899"
+ },
+ "Slovenia": {
+  "team_name": "Slovenia",
+  "id": "782"
+ },
+ "St_Andrews": {
+  "team_name": "St_Andrews",
+  "id": "925"
+ },
+ "Technion": {
+  "team_name": "Technion",
+  "id": "784"
+ },
+ "Trieste": {
+  "team_name": "Trieste",
+  "id": "875"
+ },
+ "TU-Delft": {
+  "team_name": "TU-Delft",
+  "id": "775"
+ },
+ "TU-Eindhoven": {
+  "team_name": "TU-Eindhoven",
+  "id": "881"
+ },
+ "Tuebingen": {
+  "team_name": "Tuebingen",
+  "id": "950"
+ },
+ "TU_Darmstadt": {
+  "team_name": "TU_Darmstadt",
+  "id": "808"
+ },
+ "TU_Munich": {
+  "team_name": "TU_Munich",
+  "id": "801"
+ },
+ "ULB-Brussels": {
+  "team_name": "ULB-Brussels",
+  "id": "908"
+ },
+ "UNITN-Trento": {
+  "team_name": "UNITN-Trento",
+  "id": "731"
+ },
+ "University_College_London": {
+  "team_name": "University_College_London",
+  "id": "729"
+ },
+ "Uppsala_University": {
+  "team_name": "Uppsala_University",
+  "id": "864"
+ },
+ "UTBC-RDCongo": {
+  "team_name": "UTBC-RDCongo",
+  "id": "815"
+ },
+ "Valencia": {
+  "team_name": "Valencia",
+  "id": "754"
+ },
+ "Valencia_Biocampus": {
+  "team_name": "Valencia_Biocampus",
+  "id": "763"
+ },
+ "Wageningen_UR": {
+  "team_name": "Wageningen_UR",
+  "id": "883"
+ },
+ "Warsaw": {
+  "team_name": "Warsaw",
+  "id": "780"
+ },
+ "Westminster": {
+  "team_name": "Westminster",
+  "id": "940"
+ },
+ "Example": {
+  "team_name": "Example",
+  "id": "722"
+ },
+ "Buenos_Aires": {
+  "team_name": "Buenos_Aires",
+  "id": "792"
+ },
+ "Ciencias-UNAM": {
+  "team_name": "Ciencias-UNAM",
+  "id": "872"
+ },
+ "CINVESTAV-IPN-UNAM_MX": {
+  "team_name": "CINVESTAV-IPN-UNAM_MX",
+  "id": "776"
+ },
+ "Colombia": {
+  "team_name": "Colombia",
+  "id": "831"
+ },
+ "Costa_Rica-TEC-UNA": {
+  "team_name": "Costa_Rica-TEC-UNA",
+  "id": "836"
+ },
+ "Panama_INDICASAT": {
+  "team_name": "Panama_INDICASAT",
+  "id": "944"
+ },
+ "Tec-Monterrey": {
+  "team_name": "Tec-Monterrey",
+  "id": "942"
+ },
+ "Tec-Monterrey_Bio": {
+  "team_name": "Tec-Monterrey_Bio",
+  "id": "946"
+ },
+ "Tec-Monterrey_EKAM": {
+  "team_name": "Tec-Monterrey_EKAM",
+  "id": "945"
+ },
+ "UANL_Mty-Mexico": {
+  "team_name": "UANL_Mty-Mexico",
+  "id": "888"
+ },
+ "UC_Chile": {
+  "team_name": "UC_Chile",
+  "id": "743"
+ },
+ "ULatinaPTY": {
+  "team_name": "ULatinaPTY",
+  "id": "867"
+ },
+ "UNAM_Genomics_Mexico": {
+  "team_name": "UNAM_Genomics_Mexico",
+  "id": "851"
+ },
+ "UPIBI-Mexico": {
+  "team_name": "UPIBI-Mexico",
+  "id": "854"
+ },
+ "USP-UNESP-Brazil": {
+  "team_name": "USP-UNESP-Brazil",
+  "id": "886"
+ },
+ "UTP-Software": {
+  "team_name": "UTP-Software",
+  "id": "951"
+ }
+}

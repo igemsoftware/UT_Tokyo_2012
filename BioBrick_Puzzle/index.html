@@ -1,21 +1,95 @@
-<!DOCTYPE html>
-
 <html>
-    <head>
-        <title>BioBrick Tutorial Game</title>
-        <meta charset="utf-8">
-        
-        <link href="game.css" rel="stylesheet" type="text/css">
-        <script type="text/javascript" src="js/jquery-1.8.0.js"></script>        
-        <script type="text/javascript" src="js/game.js"></script>
-    </head>
-    
-    <body>
-        <div id="game">
-            <canvas id="gameCanvas" width="1024" height="640">
-                <!--フォールバックコンテンツ-->
-            </canvas>
-        </div>
-    </body>
-    
+<head>
+<title>BioBrick Puzzle --UT-Tokyo-Software</title>
+<style type="text/css">
+
+a:link {
+color: #49C0F2;
+text-decoration: none;
+}
+a:visited {
+  color: #49C0F2;
+  text-decoration: none;
+}
+a:active {
+color: #EF4BB9;
+}
+a:hover { 
+  color: #EF4BB9;
+}
+
+h1, h2, h3{
+  line-height: 1.5em;
+  border-color: #001022;
+  color: #666;
+}
+
+body {
+  font-family:verdana, arialsans-serif;
+  letter-spacing: 0;
+  font-size: 13px;
+  background: #f3f3f3;
+  margin: 30px 0 50px 30px;
+  width:800px;
+}
+
+#article{
+  position:relative;
+  float:left;
+  margin:0 0 30px 30px;
+}
+
+</style>
+</head>
+<body>
+<h1><font face="Courier" size="300%">BioBrick Puzzle</font></h1>
+<h2>At First...</h2>
+<div id="article">
+iGEM is a synthetic biology competition.<br>
+In synthetic biology, genetic engineering is often used to add or regulate functions to a biological system.<br>
+The modular nature of information coded on DNA allows a portion of DNA to be utilized as a functional unit. <br>
+In iGEM, functional units are made into what is called a BioBrick part, a standardized format that makes combining different Biobrick parts easy.<br>
+<br>
+For example, there are parts that code for proteins such as GFP and regulatory sequence such as for sugar-responsiveness.Connecting parts and devices such as these, iGEM participants aim to realize their project.
+For instance, an organism that fluoresces when it detects sugar can be created by combining the above.<br>
+<br>
+Construction of DNA constructs using Biobricks requires knowledge on how the standard works.<br>
+In this BioBrick Puzzle, you can learn how to construct!<br>
+</div>
+<h2>BioBrick</h2>
+<div id="article">
+BioBricks are standardized to facilitate the assembling constructs by placing a set of restriction sites upstream and downstream of a part. This makes ligating parts together easy, and because of the way in which the restriction sites are ordered, the same restriction sites are recovered after two parts are ligated together. In addition, the same restriction enzymes can be used repeatedly to keep adding parts. Here is how it works.<br>
+<br>
+A BioBrick part is required to have four restriction sites –EcoR1 (E), XbaI (X), SpeI (S), and PstI (P)-- at the required location. Upstream of the part, are the E and X sites, and downstream to it are the S and P sites. <br>
+Ligation can occur between the same pair of restriction sites : E and E, X and X, S and S, P and P.<br>
+X and S can also be ligated together, but this site cannot be digested by either after ligation.<br>
+<br>
+As shown below, the DNA sequence shows that these sites are recovered after ligation.<br>
+<img src="img1.png" title="">
+<img src="img2.png" title="">
+<br>
+Let's learn what will happen after ligating two parts.<br>
+</div>
+<h2>Let's Play !</h2>
+<div id="article">
+At first, the aim is to combine two parts.<br>
+<h3><a href="1.html" target="_blank">Play Game : Stage 1</a></h3>
+Hints : <br>
+・Click the part and select two restriction sites. The part can be cut out.<br>
+・When it is possible to ligate two parts, click them. The two parts are ligated.<br>
+<br>
+When combining the two parts, E and E; X and S sites are ligated together.<br>
+Notice that the new part can be cut at E,X,S,P sites again,but not at the site M -- made by connecting X and S.<br>
+So, the new part still keeps the order, E, X, functional site, S, P.<br>
+You can use this part in the same way next time.<br>
+<br>
+Well, now you know how to create new parts and may realize that assembling is easy!<br>
+This time, let's combine parts without any instructions!<br>
+<h3><a href="2.html" target="_blank">Play Game : Stage 2</a></h3><br>
+<br>
+You can create the complex systems in this way !<br>
+<h3><a href="3.html" target="_blank">Play Game : Stage 3</a></h3><br>
+</div>
+</div>
+</body>
 </html>

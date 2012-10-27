@@ -17,8 +17,8 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/user/controlP5/controlP5.jar" sourcepath="/Users/mattya/Documents/Processing/libraries/controlP5/src">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="GeneNetworkGameCore/lib/user/controlP5"/>
 			<attribute name="javadoc_location" value="file:/Users/mattya/Documents/Processing/libraries/controlP5/reference/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="GeneNetworkGameCore/lib/user/controlP5"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>

@@ -1,0 +1,778 @@
+{
+ "BostonU": {
+  "team_name": "BostonU",
+  "wiki_link": "http://2012.igem.org/Team:BostonU"
+ },
+ "Carnegie_Mellon": {
+  "team_name": "Carnegie_Mellon",
+  "wiki_link": "http://2012.igem.org/Team:Carnegie_Mellon"
+ },
+ "Clemson": {
+  "team_name": "Clemson",
+  "wiki_link": "http://2012.igem.org/Team:Clemson"
+ },
+ "Columbia-Cooper-NYC": {
+  "team_name": "Columbia-Cooper-NYC",
+  "wiki_link": "http://2012.igem.org/Team:Columbia-Cooper-NYC"
+ },
+ "Cornell": {
+  "team_name": "Cornell",
+  "wiki_link": "http://2012.igem.org/Team:Cornell"
+ },
+ "Duke": {
+  "team_name": "Duke",
+  "wiki_link": "http://2012.igem.org/Team:Duke"
+ },
+ "Gaston_Day_School": {
+  "team_name": "Gaston_Day_School",
+  "wiki_link": "http://2012.igem.org/Team:Gaston_Day_School"
+ },
+ "GeorgiaState": {
+  "team_name": "GeorgiaState",
+  "wiki_link": "http://2012.igem.org/Team:GeorgiaState"
+ },
+ "Georgia_Tech": {
+  "team_name": "Georgia_Tech",
+  "wiki_link": "http://2012.igem.org/Team:Georgia_Tech"
+ },
+ "IvyTech-South_Bend": {
+  "team_name": "IvyTech-South_Bend",
+  "wiki_link": "http://2012.igem.org/Team:IvyTech-South_Bend"
+ },
+ "Johns_Hopkins-Software": {
+  "team_name": "Johns_Hopkins-Software",
+  "wiki_link": "http://2012.igem.org/Team:Johns_Hopkins-Software"
+ },
+ "Johns_Hopkins-Wetware": {
+  "team_name": "Johns_Hopkins-Wetware",
+  "wiki_link": "http://2012.igem.org/Team:Johns_Hopkins-Wetware"
+ },
+ "McMaster-Ontario": {
+  "team_name": "McMaster-Ontario",
+  "wiki_link": "http://2012.igem.org/Team:McMaster-Ontario"
+ },
+ "Michigan": {
+  "team_name": "Michigan",
+  "wiki_link": "http://2012.igem.org/Team:Michigan"
+ },
+ "Minnesota": {
+  "team_name": "Minnesota",
+  "wiki_link": "http://2012.igem.org/Team:Minnesota"
+ },
+ "Missouri_Miners": {
+  "team_name": "Missouri_Miners",
+  "wiki_link": "http://2012.igem.org/Team:Missouri_Miners"
+ },
+ "MIT": {
+  "team_name": "MIT",
+  "wiki_link": "http://2012.igem.org/Team:MIT"
+ },
+ "Northeastern": {
+  "team_name": "Northeastern",
+  "wiki_link": "http://2012.igem.org/Team:Northeastern"
+ },
+ "Northwestern": {
+  "team_name": "Northwestern",
+  "wiki_link": "http://2012.igem.org/Team:Northwestern"
+ },
+ "NYC_Hunter": {
+  "team_name": "NYC_Hunter",
+  "wiki_link": "http://2012.igem.org/Team:NYC_Hunter"
+ },
+ "NYC_Hunter_Software": {
+  "team_name": "NYC_Hunter_Software",
+  "wiki_link": "http://2012.igem.org/Team:NYC_Hunter_Software"
+ },
+ "NYU_Gallatin": {
+  "team_name": "NYU_Gallatin",
+  "wiki_link": "http://2012.igem.org/Team:NYU_Gallatin"
+ },
+ "Penn": {
+  "team_name": "Penn",
+  "wiki_link": "http://2012.igem.org/Team:Penn"
+ },
+ "Penn_State": {
+  "team_name": "Penn_State",
+  "wiki_link": "http://2012.igem.org/Team:Penn_State"
+ },
+ "Purdue": {
+  "team_name": "Purdue",
+  "wiki_link": "http://2012.igem.org/Team:Purdue"
+ },
+ "Queens_Canada": {
+  "team_name": "Queens_Canada",
+  "wiki_link": "http://2012.igem.org/Team:Queens_Canada"
+ },
+ "RHIT": {
+  "team_name": "RHIT",
+  "wiki_link": "http://2012.igem.org/Team:RHIT"
+ },
+ "Rutgers": {
+  "team_name": "Rutgers",
+  "wiki_link": "http://2012.igem.org/Team:Rutgers"
+ },
+ "Toronto": {
+  "team_name": "Toronto",
+  "wiki_link": "http://2012.igem.org/Team:Toronto"
+ },
+ "UConn": {
+  "team_name": "UConn",
+  "wiki_link": "http://2012.igem.org/Team:UConn"
+ },
+ "UGA-Georgia": {
+  "team_name": "UGA-Georgia",
+  "wiki_link": "http://2012.igem.org/Team:UGA-Georgia"
+ },
+ "UIUC-Illinois": {
+  "team_name": "UIUC-Illinois",
+  "wiki_link": "http://2012.igem.org/Team:UIUC-Illinois"
+ },
+ "UMiami": {
+  "team_name": "UMiami",
+  "wiki_link": "http://2012.igem.org/Team:UMiami"
+ },
+ "uOttawa_CA": {
+  "team_name": "uOttawa_CA",
+  "wiki_link": "http://2012.igem.org/Team:uOttawa_CA"
+ },
+ "UTK-Knoxville": {
+  "team_name": "UTK-Knoxville",
+  "wiki_link": "http://2012.igem.org/Team:UTK-Knoxville"
+ },
+ "Virginia": {
+  "team_name": "Virginia",
+  "wiki_link": "http://2012.igem.org/Team:Virginia"
+ },
+ "WashU": {
+  "team_name": "WashU",
+  "wiki_link": "http://2012.igem.org/Team:WashU"
+ },
+ "Waterloo": {
+  "team_name": "Waterloo",
+  "wiki_link": "http://2012.igem.org/Team:Waterloo"
+ },
+ "Wellesley_HCI": {
+  "team_name": "Wellesley_HCI",
+  "wiki_link": "http://2012.igem.org/Team:Wellesley_HCI"
+ },
+ "West_Point": {
+  "team_name": "West_Point",
+  "wiki_link": "http://2012.igem.org/Team:West_Point"
+ },
+ "Wisconsin-Madison": {
+  "team_name": "Wisconsin-Madison",
+  "wiki_link": "http://2012.igem.org/Team:Wisconsin-Madison"
+ },
+ "WLC-Milwaukee": {
+  "team_name": "WLC-Milwaukee",
+  "wiki_link": "http://2012.igem.org/Team:WLC-Milwaukee"
+ },
+ "Yale": {
+  "team_name": "Yale",
+  "wiki_link": "http://2012.igem.org/Team:Yale"
+ },
+ "Alberta": {
+  "team_name": "Alberta",
+  "wiki_link": "http://2012.igem.org/Team:Alberta"
+ },
+ "Alberta-North-RBI": {
+  "team_name": "Alberta-North-RBI",
+  "wiki_link": "http://2012.igem.org/Team:Alberta-North-RBI"
+ },
+ "Arizona_State": {
+  "team_name": "Arizona_State",
+  "wiki_link": "http://2012.igem.org/Team:Arizona_State"
+ },
+ "Austin_Texas": {
+  "team_name": "Austin_Texas",
+  "wiki_link": "http://2012.igem.org/Team:Austin_Texas"
+ },
+ "Berkeley": {
+  "team_name": "Berkeley",
+  "wiki_link": "http://2012.igem.org/Team:Berkeley"
+ },
+ "British_Columbia": {
+  "team_name": "British_Columbia",
+  "wiki_link": "http://2012.igem.org/Team:British_Columbia"
+ },
+ "BYUProvo": {
+  "team_name": "BYUProvo",
+  "wiki_link": "http://2012.igem.org/Team:BYUProvo"
+ },
+ "Calgary": {
+  "team_name": "Calgary",
+  "wiki_link": "http://2012.igem.org/Team:Calgary"
+ },
+ "Caltech": {
+  "team_name": "Caltech",
+  "wiki_link": "http://2012.igem.org/Team:Caltech"
+ },
+ "Colorado_State": {
+  "team_name": "Colorado_State",
+  "wiki_link": "http://2012.igem.org/Team:Colorado_State"
+ },
+ "CU-Boulder": {
+  "team_name": "CU-Boulder",
+  "wiki_link": "http://2012.igem.org/Team:CU-Boulder"
+ },
+ "Harvey_Mudd": {
+  "team_name": "Harvey_Mudd",
+  "wiki_link": "http://2012.igem.org/Team:Harvey_Mudd"
+ },
+ "Lethbridge": {
+  "team_name": "Lethbridge",
+  "wiki_link": "http://2012.igem.org/Team:Lethbridge"
+ },
+ "Manitoba": {
+  "team_name": "Manitoba",
+  "wiki_link": "http://2012.igem.org/Team:Manitoba"
+ },
+ "Nevada": {
+  "team_name": "Nevada",
+  "wiki_link": "http://2012.igem.org/Team:Nevada"
+ },
+ "Reed": {
+  "team_name": "Reed",
+  "wiki_link": "http://2012.igem.org/Team:Reed"
+ },
+ "Stanford-Brown": {
+  "team_name": "Stanford-Brown",
+  "wiki_link": "http://2012.igem.org/Team:Stanford-Brown"
+ },
+ "UC-Merced": {
+  "team_name": "UC-Merced",
+  "wiki_link": "http://2012.igem.org/Team:UC-Merced"
+ },
+ "UCSF": {
+  "team_name": "UCSF",
+  "wiki_link": "http://2012.igem.org/Team:UCSF"
+ },
+ "UC_Davis": {
+  "team_name": "UC_Davis",
+  "wiki_link": "http://2012.igem.org/Team:UC_Davis"
+ },
+ "USC": {
+  "team_name": "USC",
+  "wiki_link": "http://2012.igem.org/Team:USC"
+ },
+ "Utah_State": {
+  "team_name": "Utah_State",
+  "wiki_link": "http://2012.igem.org/Team:Utah_State"
+ },
+ "UT_Dallas": {
+  "team_name": "UT_Dallas",
+  "wiki_link": "http://2012.igem.org/Team:UT_Dallas"
+ },
+ "Washington": {
+  "team_name": "Washington",
+  "wiki_link": "http://2012.igem.org/Team:Washington"
+ },
+ "BAU-Indonesia": {
+  "team_name": "BAU-Indonesia",
+  "wiki_link": "http://2012.igem.org/Team:BAU-Indonesia"
+ },
+ "CBNU-Korea": {
+  "team_name": "CBNU-Korea",
+  "wiki_link": "http://2012.igem.org/Team:CBNU-Korea"
+ },
+ "CD-SCU-CHINA": {
+  "team_name": "CD-SCU-CHINA",
+  "wiki_link": "http://2012.igem.org/Team:CD-SCU-CHINA"
+ },
+ "china-lzjtu-bio": {
+  "team_name": "china-lzjtu-bio",
+  "wiki_link": "http://2012.igem.org/Team:china-lzjtu-bio"
+ },
+ "CMU-Shenyang": {
+  "team_name": "CMU-Shenyang",
+  "wiki_link": "http://2012.igem.org/Team:CMU-Shenyang"
+ },
+ "Ehime-Japan": {
+  "team_name": "Ehime-Japan",
+  "wiki_link": "http://2012.igem.org/Team:Ehime-Japan"
+ },
+ "Fudan_D": {
+  "team_name": "Fudan_D",
+  "wiki_link": "http://2012.igem.org/Team:Fudan_D"
+ },
+ "Fudan_Lux": {
+  "team_name": "Fudan_Lux",
+  "wiki_link": "http://2012.igem.org/Team:Fudan_Lux"
+ },
+ "HIT-Harbin": {
+  "team_name": "HIT-Harbin",
+  "wiki_link": "http://2012.igem.org/Team:HIT-Harbin"
+ },
+ "HKUST-Hong_Kong": {
+  "team_name": "HKUST-Hong_Kong",
+  "wiki_link": "http://2012.igem.org/Team:HKUST-Hong_Kong"
+ },
+ "HKU_HongKong": {
+  "team_name": "HKU_HongKong",
+  "wiki_link": "http://2012.igem.org/Team:HKU_HongKong"
+ },
+ "HokkaidoU_Japan": {
+  "team_name": "HokkaidoU_Japan",
+  "wiki_link": "http://2012.igem.org/Team:HokkaidoU_Japan"
+ },
+ "Hong_Kong-CUHK": {
+  "team_name": "Hong_Kong-CUHK",
+  "wiki_link": "http://2012.igem.org/Team:Hong_Kong-CUHK"
+ },
+ "HUST-China": {
+  "team_name": "HUST-China",
+  "wiki_link": "http://2012.igem.org/Team:HUST-China"
+ },
+ "IIT_Madras": {
+  "team_name": "IIT_Madras",
+  "wiki_link": "http://2012.igem.org/Team:IIT_Madras"
+ },
+ "JUIT-India": {
+  "team_name": "JUIT-India",
+  "wiki_link": "http://2012.igem.org/Team:JUIT-India"
+ },
+ "KAIST_Korea": {
+  "team_name": "KAIST_Korea",
+  "wiki_link": "http://2012.igem.org/Team:KAIST_Korea"
+ },
+ "KAIT_Japan": {
+  "team_name": "KAIT_Japan",
+  "wiki_link": "http://2012.igem.org/Team:KAIT_Japan"
+ },
+ "KIT-Kyoto": {
+  "team_name": "KIT-Kyoto",
+  "wiki_link": "http://2012.igem.org/Team:KIT-Kyoto"
+ },
+ "Korea_U_Seoul": {
+  "team_name": "Korea_U_Seoul",
+  "wiki_link": "http://2012.igem.org/Team:Korea_U_Seoul"
+ },
+ "Kyoto": {
+  "team_name": "Kyoto",
+  "wiki_link": "http://2012.igem.org/Team:Kyoto"
+ },
+ "Macquarie_Australia": {
+  "team_name": "Macquarie_Australia",
+  "wiki_link": "http://2012.igem.org/Team:Macquarie_Australia"
+ },
+ "MUMBAI__INDIA": {
+  "team_name": "MUMBAI__INDIA",
+  "wiki_link": "http://2012.igem.org/Team:MUMBAI__INDIA"
+ },
+ "Nanjing-China": {
+  "team_name": "Nanjing-China",
+  "wiki_link": "http://2012.igem.org/Team:Nanjing-China"
+ },
+ "Nanjing_China_Bio": {
+  "team_name": "Nanjing_China_Bio",
+  "wiki_link": "http://2012.igem.org/Team:Nanjing_China_Bio"
+ },
+ "NCTU_Formosa": {
+  "team_name": "NCTU_Formosa",
+  "wiki_link": "http://2012.igem.org/Team:NCTU_Formosa"
+ },
+ "NTHU_BioEE": {
+  "team_name": "NTHU_BioEE",
+  "wiki_link": "http://2012.igem.org/Team:NTHU_BioEE"
+ },
+ "NTU-Taida": {
+  "team_name": "NTU-Taida",
+  "wiki_link": "http://2012.igem.org/Team:NTU-Taida"
+ },
+ "NYMU-Taipei": {
+  "team_name": "NYMU-Taipei",
+  "wiki_link": "http://2012.igem.org/Team:NYMU-Taipei"
+ },
+ "Osaka": {
+  "team_name": "Osaka",
+  "wiki_link": "http://2012.igem.org/Team:Osaka"
+ },
+ "OUC-China": {
+  "team_name": "OUC-China",
+  "wiki_link": "http://2012.igem.org/Team:OUC-China"
+ },
+ "Peking": {
+  "team_name": "Peking",
+  "wiki_link": "http://2012.igem.org/Team:Peking"
+ },
+ "Saitama": {
+  "team_name": "Saitama",
+  "wiki_link": "http://2012.igem.org/Team:Saitama"
+ },
+ "SEU_A": {
+  "team_name": "SEU_A",
+  "wiki_link": "http://2012.igem.org/Team:SEU_A"
+ },
+ "SEU_O_China": {
+  "team_name": "SEU_O_China",
+  "wiki_link": "http://2012.igem.org/Team:SEU_O_China"
+ },
+ "Shenzhen": {
+  "team_name": "Shenzhen",
+  "wiki_link": "http://2012.igem.org/Team:Shenzhen"
+ },
+ "SJTU-BioX-Shanghai": {
+  "team_name": "SJTU-BioX-Shanghai",
+  "wiki_link": "http://2012.igem.org/Team:SJTU-BioX-Shanghai"
+ },
+ "SogangU-Korea": {
+  "team_name": "SogangU-Korea",
+  "wiki_link": "http://2012.igem.org/Team:SogangU-Korea"
+ },
+ "SUSTC-Shenzhen-A": {
+  "team_name": "SUSTC-Shenzhen-A",
+  "wiki_link": "http://2012.igem.org/Team:SUSTC-Shenzhen-A"
+ },
+ "SUSTC-Shenzhen-B": {
+  "team_name": "SUSTC-Shenzhen-B",
+  "wiki_link": "http://2012.igem.org/Team:SUSTC-Shenzhen-B"
+ },
+ "SYSU-China": {
+  "team_name": "SYSU-China",
+  "wiki_link": "http://2012.igem.org/Team:SYSU-China"
+ },
+ "SYSU-Software": {
+  "team_name": "SYSU-Software",
+  "wiki_link": "http://2012.igem.org/Team:SYSU-Software"
+ },
+ "Tianjin": {
+  "team_name": "Tianjin",
+  "wiki_link": "http://2012.igem.org/Team:Tianjin"
+ },
+ "TMU-Tokyo": {
+  "team_name": "TMU-Tokyo",
+  "wiki_link": "http://2012.igem.org/Team:TMU-Tokyo"
+ },
+ "Tokyo-NoKoGen": {
+  "team_name": "Tokyo-NoKoGen",
+  "wiki_link": "http://2012.igem.org/Team:Tokyo-NoKoGen"
+ },
+ "Tokyo_Tech": {
+  "team_name": "Tokyo_Tech",
+  "wiki_link": "http://2012.igem.org/Team:Tokyo_Tech"
+ },
+ "Tsinghua": {
+  "team_name": "Tsinghua",
+  "wiki_link": "http://2012.igem.org/Team:Tsinghua"
+ },
+ "Tsinghua-A": {
+  "team_name": "Tsinghua-A",
+  "wiki_link": "http://2012.igem.org/Team:Tsinghua-A"
+ },
+ "Tsinghua-D": {
+  "team_name": "Tsinghua-D",
+  "wiki_link": "http://2012.igem.org/Team:Tsinghua-D"
+ },
+ "USTC-China": {
+  "team_name": "USTC-China",
+  "wiki_link": "http://2012.igem.org/Team:USTC-China"
+ },
+ "USTC-Software": {
+  "team_name": "USTC-Software",
+  "wiki_link": "http://2012.igem.org/Team:USTC-Software"
+ },
+ "UT-Tokyo": {
+  "team_name": "UT-Tokyo",
+  "wiki_link": "http://2012.igem.org/Team:UT-Tokyo"
+ },
+ "UT-Tokyo-Software": {
+  "team_name": "UT-Tokyo-Software",
+  "wiki_link": "http://2012.igem.org/Team:UT-Tokyo-Software"
+ },
+ "VIT_Vellore": {
+  "team_name": "VIT_Vellore",
+  "wiki_link": "http://2012.igem.org/Team:VIT_Vellore"
+ },
+ "WHU-China": {
+  "team_name": "WHU-China",
+  "wiki_link": "http://2012.igem.org/Team:WHU-China"
+ },
+ "XMU-China": {
+  "team_name": "XMU-China",
+  "wiki_link": "http://2012.igem.org/Team:XMU-China"
+ },
+ "ZJU-China": {
+  "team_name": "ZJU-China",
+  "wiki_link": "http://2012.igem.org/Team:ZJU-China"
+ },
+ "Amsterdam": {
+  "team_name": "Amsterdam",
+  "wiki_link": "http://2012.igem.org/Team:Amsterdam"
+ },
+ "Baskent-Meds": {
+  "team_name": "Baskent-Meds",
+  "wiki_link": "http://2012.igem.org/Team:Baskent-Meds"
+ },
+ "Bielefeld-Germany": {
+  "team_name": "Bielefeld-Germany",
+  "wiki_link": "http://2012.igem.org/Team:Bielefeld-Germany"
+ },
+ "Bonn": {
+  "team_name": "Bonn",
+  "wiki_link": "http://2012.igem.org/Team:Bonn"
+ },
+ "Bordeaux": {
+  "team_name": "Bordeaux",
+  "wiki_link": "http://2012.igem.org/Team:Bordeaux"
+ },
+ "Cambridge": {
+  "team_name": "Cambridge",
+  "wiki_link": "http://2012.igem.org/Team:Cambridge"
+ },
+ "Chalmers-Gothenburg": {
+  "team_name": "Chalmers-Gothenburg",
+  "wiki_link": "http://2012.igem.org/Team:Chalmers-Gothenburg"
+ },
+ "Copenhagen": {
+  "team_name": "Copenhagen",
+  "wiki_link": "http://2012.igem.org/Team:Copenhagen"
+ },
+ "Dundee": {
+  "team_name": "Dundee",
+  "wiki_link": "http://2012.igem.org/Team:Dundee"
+ },
+ "Edinburgh": {
+  "team_name": "Edinburgh",
+  "wiki_link": "http://2012.igem.org/Team:Edinburgh"
+ },
+ "EPF-Lausanne": {
+  "team_name": "EPF-Lausanne",
+  "wiki_link": "http://2012.igem.org/Team:EPF-Lausanne"
+ },
+ "ETH_Zurich": {
+  "team_name": "ETH_Zurich",
+  "wiki_link": "http://2012.igem.org/Team:ETH_Zurich"
+ },
+ "Evry": {
+  "team_name": "Evry",
+  "wiki_link": "http://2012.igem.org/Team:Evry"
+ },
+ "Exeter": {
+  "team_name": "Exeter",
+  "wiki_link": "http://2012.igem.org/Team:Exeter"
+ },
+ "Fatih-Medical": {
+  "team_name": "Fatih-Medical",
+  "wiki_link": "http://2012.igem.org/Team:Fatih-Medical"
+ },
+ "Frankfurt": {
+  "team_name": "Frankfurt",
+  "wiki_link": "http://2012.igem.org/Team:Frankfurt"
+ },
+ "Freiburg": {
+  "team_name": "Freiburg",
+  "wiki_link": "http://2012.igem.org/Team:Freiburg"
+ },
+ "Goettingen": {
+  "team_name": "Goettingen",
+  "wiki_link": "http://2012.igem.org/Team:Goettingen"
+ },
+ "Grenoble": {
+  "team_name": "Grenoble",
+  "wiki_link": "http://2012.igem.org/Team:Grenoble"
+ },
+ "Groningen": {
+  "team_name": "Groningen",
+  "wiki_link": "http://2012.igem.org/Team:Groningen"
+ },
+ "KABK_ArtScience": {
+  "team_name": "KABK_ArtScience",
+  "wiki_link": "http://2012.igem.org/Team:KABK_ArtScience"
+ },
+ "Leicester": {
+  "team_name": "Leicester",
+  "wiki_link": "http://2012.igem.org/Team:Leicester"
+ },
+ "Lleida-Spain": {
+  "team_name": "Lleida-Spain",
+  "wiki_link": "http://2012.igem.org/Team:Lleida-Spain"
+ },
+ "LMU-Munich": {
+  "team_name": "LMU-Munich",
+  "wiki_link": "http://2012.igem.org/Team:LMU-Munich"
+ },
+ "Lyon-INSA": {
+  "team_name": "Lyon-INSA",
+  "wiki_link": "http://2012.igem.org/Team:Lyon-INSA"
+ },
+ "Marburg_SYNMIKRO": {
+  "team_name": "Marburg_SYNMIKRO",
+  "wiki_link": "http://2012.igem.org/Team:Marburg_SYNMIKRO"
+ },
+ "METU": {
+  "team_name": "METU",
+  "wiki_link": "http://2012.igem.org/Team:METU"
+ },
+ "NOUVEAUPARADIGMESCIENTIFIQUE": {
+  "team_name": "NOUVEAUPARADIGMESCIENTIFIQUE",
+  "wiki_link": "http://2012.igem.org/Team:NOUVEAUPARADIGMESCIENTIFIQUE"
+ },
+ "NRP-UEA-Norwich": {
+  "team_name": "NRP-UEA-Norwich",
+  "wiki_link": "http://2012.igem.org/Team:NRP-UEA-Norwich"
+ },
+ "NTNU_Trondheim": {
+  "team_name": "NTNU_Trondheim",
+  "wiki_link": "http://2012.igem.org/Team:NTNU_Trondheim"
+ },
+ "Paris-Saclay": {
+  "team_name": "Paris-Saclay",
+  "wiki_link": "http://2012.igem.org/Team:Paris-Saclay"
+ },
+ "Paris_Bettencourt": {
+  "team_name": "Paris_Bettencourt",
+  "wiki_link": "http://2012.igem.org/Team:Paris_Bettencourt"
+ },
+ "Potsdam_Bioware": {
+  "team_name": "Potsdam_Bioware",
+  "wiki_link": "http://2012.igem.org/Team:Potsdam_Bioware"
+ },
+ "SDU-Denmark": {
+  "team_name": "SDU-Denmark",
+  "wiki_link": "http://2012.igem.org/Team:SDU-Denmark"
+ },
+ "Slovenia": {
+  "team_name": "Slovenia",
+  "wiki_link": "http://2012.igem.org/Team:Slovenia"
+ },
+ "St_Andrews": {
+  "team_name": "St_Andrews",
+  "wiki_link": "http://2012.igem.org/Team:St_Andrews"
+ },
+ "Technion": {
+  "team_name": "Technion",
+  "wiki_link": "http://2012.igem.org/Team:Technion"
+ },
+ "Trieste": {
+  "team_name": "Trieste",
+  "wiki_link": "http://2012.igem.org/Team:Trieste"
+ },
+ "TU-Delft": {
+  "team_name": "TU-Delft",
+  "wiki_link": "http://2012.igem.org/Team:TU-Delft"
+ },
+ "TU-Eindhoven": {
+  "team_name": "TU-Eindhoven",
+  "wiki_link": "http://2012.igem.org/Team:TU-Eindhoven"
+ },
+ "Tuebingen": {
+  "team_name": "Tuebingen",
+  "wiki_link": "http://2012.igem.org/Team:Tuebingen"
+ },
+ "TU_Darmstadt": {
+  "team_name": "TU_Darmstadt",
+  "wiki_link": "http://2012.igem.org/Team:TU_Darmstadt"
+ },
+ "TU_Munich": {
+  "team_name": "TU_Munich",
+  "wiki_link": "http://2012.igem.org/Team:TU_Munich"
+ },
+ "ULB-Brussels": {
+  "team_name": "ULB-Brussels",
+  "wiki_link": "http://2012.igem.org/Team:ULB-Brussels"
+ },
+ "UNITN-Trento": {
+  "team_name": "UNITN-Trento",
+  "wiki_link": "http://2012.igem.org/Team:UNITN-Trento"
+ },
+ "University_College_London": {
+  "team_name": "University_College_London",
+  "wiki_link": "http://2012.igem.org/Team:University_College_London"
+ },
+ "Uppsala_University": {
+  "team_name": "Uppsala_University",
+  "wiki_link": "http://2012.igem.org/Team:Uppsala_University"
+ },
+ "UTBC-RDCongo": {
+  "team_name": "UTBC-RDCongo",
+  "wiki_link": "http://2012.igem.org/Team:UTBC-RDCongo"
+ },
+ "Valencia": {
+  "team_name": "Valencia",
+  "wiki_link": "http://2012.igem.org/Team:Valencia"
+ },
+ "Valencia_Biocampus": {
+  "team_name": "Valencia_Biocampus",
+  "wiki_link": "http://2012.igem.org/Team:Valencia_Biocampus"
+ },
+ "Wageningen_UR": {
+  "team_name": "Wageningen_UR",
+  "wiki_link": "http://2012.igem.org/Team:Wageningen_UR"
+ },
+ "Warsaw": {
+  "team_name": "Warsaw",
+  "wiki_link": "http://2012.igem.org/Team:Warsaw"
+ },
+ "Westminster": {
+  "team_name": "Westminster",
+  "wiki_link": "http://2012.igem.org/Team:Westminster"
+ },
+ "Example": {
+  "team_name": "Example",
+  "wiki_link": "http://2012.igem.org/Team:Example"
+ },
+ "Buenos_Aires": {
+  "team_name": "Buenos_Aires",
+  "wiki_link": "http://2012.igem.org/Team:Buenos_Aires"
+ },
+ "Ciencias-UNAM": {
+  "team_name": "Ciencias-UNAM",
+  "wiki_link": "http://2012.igem.org/Team:Ciencias-UNAM"
+ },
+ "CINVESTAV-IPN-UNAM_MX": {
+  "team_name": "CINVESTAV-IPN-UNAM_MX",
+  "wiki_link": "http://2012.igem.org/Team:CINVESTAV-IPN-UNAM_MX"
+ },
+ "Colombia": {
+  "team_name": "Colombia",
+  "wiki_link": "http://2012.igem.org/Team:Colombia"
+ },
+ "Costa_Rica-TEC-UNA": {
+  "team_name": "Costa_Rica-TEC-UNA",
+  "wiki_link": "http://2012.igem.org/Team:Costa_Rica-TEC-UNA"
+ },
+ "Panama_INDICASAT": {
+  "team_name": "Panama_INDICASAT",
+  "wiki_link": "http://2012.igem.org/Team:Panama_INDICASAT"
+ },
+ "Tec-Monterrey": {
+  "team_name": "Tec-Monterrey",
+  "wiki_link": "http://2012.igem.org/Team:Tec-Monterrey"
+ },
+ "Tec-Monterrey_Bio": {
+  "team_name": "Tec-Monterrey_Bio",
+  "wiki_link": "http://2012.igem.org/Team:Tec-Monterrey_Bio"
+ },
+ "Tec-Monterrey_EKAM": {
+  "team_name": "Tec-Monterrey_EKAM",
+  "wiki_link": "http://2012.igem.org/Team:Tec-Monterrey_EKAM"
+ },
+ "UANL_Mty-Mexico": {
+  "team_name": "UANL_Mty-Mexico",
+  "wiki_link": "http://2012.igem.org/Team:UANL_Mty-Mexico"
+ },
+ "UC_Chile": {
+  "team_name": "UC_Chile",
+  "wiki_link": "http://2012.igem.org/Team:UC_Chile"
+ },
+ "ULatinaPTY": {
+  "team_name": "ULatinaPTY",
+  "wiki_link": "http://2012.igem.org/Team:ULatinaPTY"
+ },
+ "UNAM_Genomics_Mexico": {
+  "team_name": "UNAM_Genomics_Mexico",
+  "wiki_link": "http://2012.igem.org/Team:UNAM_Genomics_Mexico"
+ },
+ "UPIBI-Mexico": {
+  "team_name": "UPIBI-Mexico",
+  "wiki_link": "http://2012.igem.org/Team:UPIBI-Mexico"
+ },
+ "USP-UNESP-Brazil": {
+  "team_name": "USP-UNESP-Brazil",
+  "wiki_link": "http://2012.igem.org/Team:USP-UNESP-Brazil"
+ },
+ "UTP-Software": {
+  "team_name": "UTP-Software",
+  "wiki_link": "http://2012.igem.org/Team:UTP-Software"
+ }
+}
