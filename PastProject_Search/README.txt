@@ -43,7 +43,7 @@ elasticsearch uses TCP port 9200 to communicate with other softwares.
 You need to feed Past Project data to elasticsearch in order to perform search
 using it.
 To do this, first you need to edit the es.py.
-In the top part of the es.py, you can find that ÅgYEAR='2007'Åh is written.
+In the top part of the es.py, you can find that YEAR='2007' is written.
 You need to change the value of YEAR as the data you want to feed.
 Then execute:
 
